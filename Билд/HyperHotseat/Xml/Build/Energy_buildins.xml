@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/23/2025 11:46:34 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_RECYCLING_CENTER_2</Type>
+			<BuildingClass>BUILDINGCLASS_RECYCLING_CENTER_2</BuildingClass>
+			<Cost>500</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_RECYCLING_CENTER</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RECYCLING_CENTER_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_RECYCLING_CENTER_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HYDRO_PLANT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>8</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_RECYCLING_CENTER_2</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<Building_ResourceQuantity>
+		<Row>
+			<BuildingType>BUILDING_RECYCLING_CENTER_2</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+</GameData>

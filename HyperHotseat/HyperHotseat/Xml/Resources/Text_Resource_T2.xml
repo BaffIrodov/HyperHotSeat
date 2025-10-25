@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/17/2025 7:52:58 PM -->
+<GameData>
+	<Language_ru_RU>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL">
+			<Text>Сталь|стали|стали|сталь|сталью|стали</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL_HELP">
+			<Text>Расписать - сталь.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
+			<Text>Электричество|электричества|электричеству|электричество|электричеством|электричестве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
+			<Text>Используется для питания зданий и производства высокотехнологичных юнитов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GASOLINE">
+			<Text>Бензин|бензина|бензину|бензин|бензином|бензине</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GASOLINE_HELP">
+			<Text>Расписать - бензин.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER_VULCANIZED">
+			<Text>Резина|резины|резине|резину|резиной|резине</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER_VULCANIZED_HELP">
+			<Text>Расписать - резина.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LATEX">
+			<Text>Латекс|латекса|латексу|латекс|латексом|латексе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LATEX_HELP">
+			<Text>Расписать - латекс.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLUTONIUM">
+			<Text>Плутоний|плутония|плутонию|плутоний|плутонием|плутонии</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLUTONIUM_HELP">
+			<Text>Расписать - плутоний.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLASTIC">
+			<Text>Пластик|пластика|пластику|пластик|пластиком|пластике</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLASTIC_HELP">
+			<Text>Расписать - пластик.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MAGNET">
+			<Text>Магнит|магнита|магниту|магнит|магнитом|магните</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MAGNET_HELP">
+			<Text>Расписать - магнит.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GUNPOWDER">
+			<Text>Порох|пороха|пороху|порох|порохом|порохе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GUNPOWDER_HELP">
+			<Text>Расписать - порох.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PENICILLIN">
+			<Text>Пенициллин|пенициллина|пенициллину|пенициллин|пенициллином|пенициллине</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PENICILLIN_HELP">
+			<Text>Расписать - пенициллин.</Text>
+		</Row>
+	</Language_ru_RU>
+</GameData>

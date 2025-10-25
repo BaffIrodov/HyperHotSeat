@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/19/2025 12:07:06 PM -->
+<GameData>
+	<Language_ru_RU>
+		<Row Tag="TXT_KEY_RESOURCE_LITHIUM">
+			<Text>Литий|лития|литию|литий|литием|литии</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LITHIUM_HELP">
+			<Text>Расписать - литий.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILICON">
+			<Text>Кремний|кремний|кремнию|кремний|кремнием|кремнии</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILICON_HELP">
+			<Text>Расписать - кремний.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COPPER_STRATEGIC">
+			<Text>Медь|меди|меди|медь|медью|меди</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COPPER_STRATEGIC_HELP">
+			<Text>Расписать - медь.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SALTPETER">
+			<Text>Селитра|селитры|селитре|селитру|селитрой|селитре</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SALTPETER_HELP">
+			<Text>Расписать - селитра.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHEAT_STRATEGIC">
+			<Text>Пшеница|пшеницы|пшенице|пшеницу|пшеницей|пшенице</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHEAT_STRATEGIC_HELP">
+			<Text>Расписать - пшеница.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COW_STRATEGIC">
+			<Text>Скот|скота|скоту|скот|скотом|скоте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COW_STRATEGIC_HELP">
+			<Text>Расписать - скот.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FISH_STRATEGIC">
+			<Text>Рыба|рыбы|рыбе|рыбу|рыбой|рыбе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FISH_STRATEGIC_HELP">
+			<Text>Расписать - рыба.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GOLD_STRATEGIC">
+			<Text>Золото|золота|золоту|золото|золотом|золоте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GOLD_STRATEGIC_HELP">
+			<Text>Расписать - золото.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COTTON_STRATEGIC">
+			<Text>Хлопок|хлопка|хлопку|хлопок|хлопком|хлопке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COTTON_STRATEGIC_HELP">
+			<Text>Расписать - хлопок.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER">
+			<Text>Каучук|каучука|каучуку|каучук|каучуком|каучуке</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER_HELP">
+			<Text>Расписать - каучук.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOURISM">
+			<Text>Туризм|туризма|туризму|туризм|туризмом|туризме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOURISM_HELP">
+			<Text>Расписать - туризм.</Text>
+		</Row>
+	</Language_ru_RU>
+</GameData>

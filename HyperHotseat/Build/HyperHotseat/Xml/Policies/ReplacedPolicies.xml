@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:18:09 PM -->
+<GameData>
+	<Policies>
+		<Replace>
+			<Type>POLICY_ECONOMIC_UNION</Type>
+			<Description>TXT_KEY_POLICY_ECONOMIC_UNION</Description>
+			<Civilopedia>TXT_KEY_POLICY_ECONOMIC_UNION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_ECONOMIC_UNION_HELP</Help>
+			<PolicyBranchType>POLICY_BRANCH_FREEDOM</PolicyBranchType>
+			<CultureCost>10</CultureCost>
+			<Level>1</Level>
+			<PortraitIndex>25</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SharedIdeologyTradeGoldChange>30</SharedIdeologyTradeGoldChange>
+		</Replace>
+	</Policies>
+	<Policy_CityYieldChanges>
+		<Row>
+			<PolicyType>POLICY_FIVE_YEAR_PLAN</PolicyType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Policy_CityYieldChanges>
+</GameData>

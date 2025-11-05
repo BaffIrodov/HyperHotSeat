@@ -10,14 +10,6 @@
 		<Row Tag="TXT_KEY_RESOURCE_STEEL_HELP">
 			<Text>Расписать - сталь.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
-			<Text>Электричество|электричества|электричеству|электричество|электричеством|электричестве</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
-		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
-			<Text>Используется для питания зданий и производства высокотехнологичных юнитов.</Text>
-		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GASOLINE">
 			<Text>Бензин|бензина|бензину|бензин|бензином|бензине</Text>
 			<Gender>masculine</Gender>

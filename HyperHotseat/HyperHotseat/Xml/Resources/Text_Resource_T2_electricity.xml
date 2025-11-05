@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/4/2025 11:35:36 AM -->
+<GameData>
+	<Language_ru_RU>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
+			<Text>Электричество|электричества|электричеству|электричество|электричеством|электричестве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
+			<Text>Используется для питания зданий и производства высокотехнологичных юнитов.</Text>
+		</Row>
+	</Language_ru_RU>
+</GameData>

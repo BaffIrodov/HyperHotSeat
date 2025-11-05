@@ -1,61 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 10/19/2025 12:07:14 PM -->
 <GameData>
-	<Row Tag="TXT_KEY_RESOURCE_STEEL_ARMOR">
-		<Text>Стальная броня|Стальной брони|Стальной броне|Стальную броню|Стальной бронёй|Стальной броне</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_STEEL_ARMOR_HELP">
-		<Text>Расписать - стальная броня.</Text>
-	</Row>
+	<Language_ru_RU>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL_ARMOR">
+			<Text>Стальная броня|Стальной брони|Стальной броне|Стальную броню|Стальной бронёй|Стальной броне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL_ARMOR_HELP">
+			<Text>Расписать - стальная броня.</Text>
+		</Row>
 
-	<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR">
-		<Text>Композитная броня|Композитной брони|Композитной броне|Композитную броню|Композитной бронёй|Композитной броне</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR_HELP">
-		<Text>Расписать - композитная броня.</Text>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_AMMUNITION">
-		<Text>Боеприпасы|Боеприпасов|Боеприпасам|Боеприпасы|Боеприпасами|Боеприпасах</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_AMMUNITION_HELP">
-		<Text>Расписать - боеприпасы.</Text>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS">
-		<Text>Аналоговая электроника|Аналоговой электроники|Аналоговой электронике|Аналоговую электронику|Аналоговой электроникой|Аналоговой электронике</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS_HELP">
-		<Text>Расписать - аналоговая электроника.</Text>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS">
-		<Text>Кремниевая электроника|Кремниевой электроники|Кремниевой электронике|Кремниевую электронику|Кремниевой электроникой|Кремниевой электронике</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS_HELP">
-		<Text>Расписать - кремниевая электроника.</Text>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING">
-		<Text>Военная одежда|Военной одежды|Военной одежде|Военную одежду|Военной одеждой|Военной одежде</Text>
-		<Gender>feminine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING_HELP">
-		<Text>Расписать - военная одежда.</Text>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_BATTERY">
-		<Text>Аккумулятор|аккумулятора|аккумулятору|аккумулятор|аккумулятором|аккумуляторе</Text>
-		<Gender>masculine</Gender>
-		<Plurality>1</Plurality>
-	</Row>
-	<Row Tag="TXT_KEY_RESOURCE_BATTERY_HELP">
-		<Text>Расписать - аккумулятор.</Text>
-	</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR">
+			<Text>Композитная броня|Композитной брони|Композитной броне|Композитную броню|Композитной бронёй|Композитной броне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR_HELP">
+			<Text>Расписать - композитная броня.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AMMUNITION">
+			<Text>Боеприпасы|Боеприпасов|Боеприпасам|Боеприпасы|Боеприпасами|Боеприпасах</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AMMUNITION_HELP">
+			<Text>Расписать - боеприпасы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS">
+			<Text>Аналоговая электроника|Аналоговой электроники|Аналоговой электронике|Аналоговую электронику|Аналоговой электроникой|Аналоговой электронике</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS_HELP">
+			<Text>Расписать - аналоговая электроника.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS">
+			<Text>Кремниевая электроника|Кремниевой электроники|Кремниевой электронике|Кремниевую электронику|Кремниевой электроникой|Кремниевой электронике</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS_HELP">
+			<Text>Расписать - кремниевая электроника.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING">
+			<Text>Военная одежда|Военной одежды|Военной одежде|Военную одежду|Военной одеждой|Военной одежде</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING_HELP">
+			<Text>Расписать - военная одежда.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BATTERY">
+			<Text>Аккумулятор|аккумулятора|аккумулятору|аккумулятор|аккумулятором|аккумуляторе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BATTERY_HELP">
+			<Text>Расписать - аккумулятор.</Text>
+		</Row>
+	</Language_ru_RU>
 </GameData>

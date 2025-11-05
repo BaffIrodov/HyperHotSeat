@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Уголь -->
+		<Row>
+			<Type>BUILDINGCLASS_COAL_POWER_PLANT</Type>
+			<DefaultBuilding>BUILDING_COAL_POWER_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_COAL_POWER_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_COAL_POWER_PLANT_LARGE</Type>
+			<DefaultBuilding>BUILDING_COAL_POWER_PLANT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_COAL_POWER_PLANT_LARGE</Description>
+		</Row>
+		<!-- Нефть -->
+		<Row>
+			<Type>BUILDINGCLASS_OIL_POWER_PLANT</Type>
+			<DefaultBuilding>BUILDING_OIL_POWER_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OIL_POWER_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_OIL_POWER_PLANT_LARGE</Type>
+			<DefaultBuilding>BUILDING_OIL_POWER_PLANT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OIL_POWER_PLANT_LARGE</Description>
+		</Row>
+		<!-- Уран -->
+		<Row>
+			<Type>BUILDINGCLASS_NUCLEAR_POWER_PLANT</Type>
+			<DefaultBuilding>BUILDING_NUCLEAR_POWER_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NUCLEAR_POWER_PLANT_LARGE</Type>
+			<DefaultBuilding>BUILDING_NUCLEAR_POWER_PLANT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_LARGE</Description>
+		</Row>
+		<!-- Гидро -->
+		<Row>
+			<Type>BUILDINGCLASS_HYDRO_POWER_PLANT</Type>
+			<DefaultBuilding>BUILDING_HYDRO_POWER_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HYDRO_POWER_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HYDRO_POWER_PLANT_LARGE</Type>
+			<DefaultBuilding>BUILDING_HYDRO_POWER_PLANT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HYDRO_POWER_PLANT_LARGE</Description>
+		</Row>
+		<!-- Солнечная -->
+		<Row>
+			<Type>BUILDINGCLASS_SOLAR_POWER_PLANT</Type>
+			<DefaultBuilding>BUILDING_SOLAR_POWER_PLANT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SOLAR_POWER_PLANT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SOLAR_POWER_PLANT_LARGE</Type>
+			<DefaultBuilding>BUILDING_SOLAR_POWER_PLANT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_LARGE</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

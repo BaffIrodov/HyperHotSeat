@@ -6,7 +6,7 @@
 			<Type>POLICY_ECONOMIC_UNION</Type>
 			<Description>TXT_KEY_POLICY_NEW_ECONOMIC_UNION</Description>
 			<Civilopedia>TXT_KEY_POLICY_NEW_ECONOMIC_UNION_TEXT</Civilopedia>
-			<Help>TXT_KEY_POLICY_ECONOMIC_UNION_HELP</Help>
+			<Help>TXT_KEY_POLICY_NEW_ECONOMIC_UNION_HELP</Help>
 			<PolicyBranchType>POLICY_BRANCH_FREEDOM</PolicyBranchType>
 			<CultureCost>10</CultureCost>
 			<Level>1</Level>
@@ -14,6 +14,18 @@
 			<IconAtlas>POLICY_ATLAS</IconAtlas>
 			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
 			<SharedIdeologyTradeGoldChange>15</SharedIdeologyTradeGoldChange>
+		</Replace>
+		<Replace>
+			<Type>POLICY_FIVE_YEAR_PLAN</Type>
+			<Description>TXT_KEY_POLICY_NEW_FIVE_YEAR_PLAN</Description>
+			<Civilopedia>TXT_KEY_POLICY_NEW_FIVE_YEAR_PLAN_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_NEW_FIVE_YEAR_PLAN_HELP</Help>
+			<PolicyBranchType>POLICY_BRANCH_ORDER</PolicyBranchType>
+			<CultureCost>10</CultureCost>
+			<Level>2</Level>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS_EXP2</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS_EXP2</IconAtlasAchieved>
 		</Replace>
 	</Policies>
 	<Policy_CityYieldChanges>

@@ -42,17 +42,6 @@
 			<IconAtlas>RESOURCE_COPPER_STRATEGIC_ATLAS</IconAtlas>
 		</Row>
 		<Row>
-			<Type>RESOURCE_SALTPETER</Type>
-			<Description>TXT_KEY_RESOURCE_SALTPETER</Description>
-			<Help>TXT_KEY_RESOURCE_SALTPETER_HELP</Help>
-			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
-			<ArtDefineTag>ART_DEF_RESOURCE_SALT</ArtDefineTag>
-			<IconString>[ICON_RES_SALT]</IconString>
-			<PortraitIndex>0</PortraitIndex>
-			<ResourceUsage>1</ResourceUsage>
-			<IconAtlas>RESOURCE_SALTPETER_ATLAS</IconAtlas>
-		</Row>
-		<Row>
 			<Type>RESOURCE_WHEAT_STRATEGIC</Type>
 			<Description>TXT_KEY_RESOURCE_WHEAT_STRATEGIC</Description>
 			<Help>TXT_KEY_RESOURCE_WHEAT_STRATEGIC_HELP</Help>
@@ -112,7 +101,7 @@
 			<Description>TXT_KEY_RESOURCE_RUBBER</Description>
 			<Help>TXT_KEY_RESOURCE_RUBBER_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
-			<ArtDefineTag>TXT_KEY_RESOURCE_SILK</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
 			<IconString>[ICON_RES_SILK]</IconString>
 			<PortraitIndex>18</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
@@ -145,11 +134,6 @@
 		</Row>
 		<Row>
 			<ResourceType>RESOURCE_COPPER_STRATEGIC</ResourceType>
-			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
-		</Row>
-		<Row>
-			<ResourceType>RESOURCE_SALTPETER</ResourceType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<Yield>1</Yield>
 		</Row>
@@ -214,14 +198,6 @@
 		<Row>
 			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
 			<ResourceType>RESOURCE_COPPER_STRATEGIC</ResourceType>
-		</Row>
-		<Row>
-			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
-			<ResourceType>RESOURCE_SALTPETER</ResourceType>
-		</Row>
-		<Row>
-			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
-			<ResourceType>RESOURCE_SALTPETER</ResourceType>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>

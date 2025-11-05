@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Лошади -->
+		<Row>
+			<Type>BUILDINGCLASS_HORSE_DRAWN_WAGONS</Type>
+			<DefaultBuilding>BUILDING_HORSE_DRAWN_WAGONS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HORSE_DRAWN_WAGONS</Description>
+		</Row>
+		<!-- Автомобили -->
+		<Row>
+			<Type>BUILDINGCLASS_GASOLINE_CAR_INDUSTRY</Type>
+			<DefaultBuilding>BUILDING_GASOLINE_CAR_INDUSTRY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GASOLINE_CAR_INDUSTRY</Description>
+		</Row>
+		<!-- Электроавтомобили -->
+		<Row>
+			<Type>BUILDINGCLASS_ELECTRICITY_CAR_INDUSTRY</Type>
+			<DefaultBuilding>BUILDING_ELECTRICITY_CAR_INDUSTRY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ELECTRICITY_CAR_INDUSTRY</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

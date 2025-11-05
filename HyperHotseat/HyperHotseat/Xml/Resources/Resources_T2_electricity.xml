@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/4/2025 11:33:43 AM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_ELECTRICITY</Type>
+			<Description>TXT_KEY_RESOURCE_ELECTRICITY</Description>
+			<Help>TXT_KEY_RESOURCE_ELECTRICITY_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
+			<IconString>[ICON_TEAM_2]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<ResourceUsage>1</ResourceUsage>
+			<IconAtlas>RESOURCE_ELECTRICITY_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+</GameData>

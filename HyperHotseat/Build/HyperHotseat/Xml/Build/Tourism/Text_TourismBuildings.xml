@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<Language_RU_RU>
+		<!-- Турагенство -->
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY">
+			<Text>Турагентство|турагентства|турагентству|турагентство|турагентством|турагентстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY_HELP">
+			<Text>Дает 4 единицы [ICON_HAPPINESS_1] счастья, требует 1 единицу туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY_STRATEGY">
+			<Text>Турагентство повышает настроение за счет туризма. Дает 4 единицы [ICON_HAPPINESS_1] счастья, требует 1 единицу туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TRAVEL_AGENCY_TEXT">
+			<Text>Турагентство занимается организацией путешествий и отдыха. Оно предлагает жителям и гостям города экскурсии, туры и билеты, способствуя улучшению настроения населения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY_LARGE">
+			<Text>Большое турагентство|большого турагентства|большому турагентству|большое турагентство|большим турагентством|большом турагентстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY_LARGE_HELP">
+			<Text>Дает 12 единиц [ICON_HAPPINESS_1] счастья, требует 3 единицы туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAVEL_AGENCY_LARGE_STRATEGY">
+			<Text>Большое турагентство значительно повышает настроение за счет туризма. Дает 12 единиц [ICON_HAPPINESS_1] счастья, требует 3 единицы туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TRAVEL_AGENCY_LARGE_TEXT">
+			<Text>Большое турагентство объединяет несколько офисов и партнеров, предлагая широкий выбор туристических направлений. Оно играет важную роль в развитии туризма и улучшении качества жизни населения.</Text>
+		</Row>
+
+		<!-- Курорт -->
+		<Row Tag="TXT_KEY_BUILDING_RESORT">
+			<Text>Курорт|курорта|курорту|курорт|курортом|курорте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RESORT_HELP">
+			<Text>Увеличивает золото в городе, требует 1 единицу туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RESORT_STRATEGY">
+			<Text>Курорт привлекает путешественников, обеспечивая стабильный приток доходов. Требует 1 единицу туризма</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_RESORT_TEXT">
+			<Text>Курорт — это место отдыха и развлечений, предлагающее жителям и гостям города комфорт, сервис и доступ к природным достопримечательностям. Развитие курортной инфраструктуры способствует росту туризма и благосостояния граждан.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RESORT_LARGE">
+			<Text>Большой курорт|большого курорта|большому курорту|большой курорт|большим курортом|большом курорте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RESORT_LARGE_HELP">
+			<Text>Значительно увеличивает золото в городе, требует 3 единицы туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RESORT_LARGE_STRATEGY">
+			<Text>Большой курорт привлекает множество путешественников, обеспечивая высокий приток доходов. Требует 3 единицы туризма.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_RESORT_LARGE_TEXT">
+			<Text>Большой курорт включает развитую инфраструктуру отдыха, отели, спа-центры и развлекательные комплексы. Такие заведения делают город известным туристическим направлением и значительно увеличивают его экономический потенциал.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -14,17 +14,6 @@
 			<IconAtlas>RESOURCE_STEEL_ATLAS</IconAtlas>
 		</Row>
 		<Row>
-			<Type>RESOURCE_ELECTRICITY</Type>
-			<Description>TXT_KEY_RESOURCE_ELECTRICITY</Description>
-			<Help>TXT_KEY_RESOURCE_ELECTRICITY_HELP</Help>
-			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
-			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
-			<PortraitIndex>0</PortraitIndex>
-			<ResourceUsage>1</ResourceUsage>
-			<IconAtlas>RESOURCE_ELECTRICITY_ATLAS</IconAtlas>
-		</Row>
-		<Row>
 			<Type>RESOURCE_GASOLINE</Type>
 			<Description>TXT_KEY_RESOURCE_GASOLINE</Description>
 			<Help>TXT_KEY_RESOURCE_GASOLINE_HELP</Help>

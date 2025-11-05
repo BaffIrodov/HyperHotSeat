@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Турагенство -->
+		<Row>
+			<Type>BUILDINGCLASS_TRAVEL_AGENCY</Type>
+			<DefaultBuilding>BUILDING_TRAVEL_AGENCY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TRAVEL_AGENCY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TRAVEL_AGENCY_LARGE</Type>
+			<DefaultBuilding>BUILDING_TRAVEL_AGENCY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TRAVEL_AGENCY_LARGE</Description>
+		</Row>
+		<!-- Курорт -->
+		<Row>
+			<Type>BUILDINGCLASS_RESORT</Type>
+			<DefaultBuilding>BUILDING_RESORT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RESORT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_RESORT_LARGE</Type>
+			<DefaultBuilding>BUILDING_RESORT_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RESORT_LARGE</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

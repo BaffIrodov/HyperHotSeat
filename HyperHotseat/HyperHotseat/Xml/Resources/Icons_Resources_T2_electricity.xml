@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/4/2025 11:36:47 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<!-- Иконка ресурса Electricity -->
+		<Row>
+			<Atlas>RESOURCE_ELECTRICITY_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Resource_Electricity_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RESOURCE_ELECTRICITY_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Resource_Electricity_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RESOURCE_ELECTRICITY_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>Resource_Electricity_32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

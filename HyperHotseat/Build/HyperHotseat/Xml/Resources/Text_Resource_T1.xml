@@ -26,14 +26,6 @@
 		<Row Tag="TXT_KEY_RESOURCE_COPPER_STRATEGIC_HELP">
 			<Text>Расписать - медь.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_SALTPETER">
-			<Text>Селитра|селитры|селитре|селитру|селитрой|селитре</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
-		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_SALTPETER_HELP">
-			<Text>Расписать - селитра.</Text>
-		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_WHEAT_STRATEGIC">
 			<Text>Пшеница|пшеницы|пшенице|пшеницу|пшеницей|пшенице</Text>
 			<Gender>feminine</Gender>

@@ -25,35 +25,60 @@
     <File md5="763EEAD41CFDC20D722761565551AE68" import="1">Art/Resource_Electricity_32.dds</File>
     <File md5="8E31A84C4765494FB93A146487CBDA04" import="1">Art/Resource_Electricity_45.dds</File>
     <File md5="939DE60180E0696ADF33B051A2E1B5F4" import="1">Art/Resource_Electricity_64.dds</File>
-    <File md5="34AE637FF1A4F3A5AE778A38C9E14FC4" import="0">Xml/Build/Energy_buildins.xml</File>
-    <File md5="560A46576DDC34BEA4D701471A64E524" import="0">Xml/Policies/ReplacedPolicies.xml</File>
-    <File md5="10A13397BF1D327641FCC833370218D3" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
-    <File md5="BEA4C9D7BD674B7C8329F24D252F9BAB" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
-    <File md5="C6C3623E8D66434FF14C85D3F3C7AA33" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
-    <File md5="B9411276F1D39F75F9F305836CF655F4" import="0">Xml/Resources/Icons_Resources_T3.xml</File>
-    <File md5="DC9A5C79B50E87984E1D3F4F30FF3E55" import="0">Xml/Resources/Resources_T1.xml</File>
-    <File md5="27ED87564F0EF33D75560E012187732D" import="0">Xml/Resources/Resources_T2.xml</File>
+    <File md5="481416093055369B27441162F402A4EE" import="0">Xml/Build/Car/CarBuildingClass.xml</File>
+    <File md5="5E5D8CB8A0E5E39ECB27BA3D34C75E4B" import="0">Xml/Build/Car/CarBuildings.xml</File>
+    <File md5="872834D450FD7D9C58E93FD4A90EC57B" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
+    <File md5="57BCC9A30DD9004AC93CC5694E736CA1" import="0">Xml/Build/Construction/StroitTech_MobSvyaz_Internet.sql</File>
+    <File md5="B9E6EDAEFDE8F2124FBA9AAFA913EDDF" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
+    <File md5="120C1CE54360B85167C7BF94481F9A72" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
+    <File md5="92881F46D5D70919AF767CB2A426C6D4" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="57BCC9A30DD9004AC93CC5694E736CA1" import="0">Xml/Build/Entertainment/Кинотеатры_смартфоны.sql</File>
+    <File md5="57BCC9A30DD9004AC93CC5694E736CA1" import="0">Xml/Build/Medicine/МРТ_передоваяБольница.sql</File>
+    <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
+    <File md5="A82541FBEAE06F71238DC2678571EE8A" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
+    <File md5="7C6E3718B009A0FC5193DC69D339D06D" import="0">Xml/Build/Tourism/Text_TourismBuildings.xml</File>
+    <File md5="29C04B741DD38A19A145B14652D651FF" import="0">Xml/Policies/ReplacedPolicies.xml</File>
+    <File md5="3617A1233CA67329D1554EAA98AD3EBD" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
+    <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
+    <File md5="9AB8F2CD7FB48EAEB39EF8A211B9D458" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
+    <File md5="65FB144CC02E842046B886E68985F9B8" import="0">Xml/Resources/Icons_Resources_T2_electricity.xml</File>
+    <File md5="667128488D2B0B3F5E305CF29BCE6A2D" import="0">Xml/Resources/Icons_Resources_T3.xml</File>
+    <File md5="A5F25609ED5F5A951D23DAF3934F0385" import="0">Xml/Resources/Resources_T1.xml</File>
+    <File md5="B380542236792488635EF26A966EB7E4" import="0">Xml/Resources/Resources_T2_electricity.xml</File>
+    <File md5="3966E348EAB12E11E48CE90D91808AF0" import="0">Xml/Resources/Resources_T2.xml</File>
     <File md5="F3A29BC9820EF10920ADED8E1AA7E9A6" import="0">Xml/Resources/Resources_T3.xml</File>
-    <File md5="9AA736255C60285958DAFA30B302D51F" import="0">Xml/Resources/Text_Resource_T1.xml</File>
-    <File md5="8168693D75DE98CFD960D6AAAA9BA0F2" import="0">Xml/Resources/Text_Resource_T2.xml</File>
-    <File md5="3629147204FDAEF34A5B2704EC7713C7" import="0">Xml/Resources/Text_Resource_T3.xml</File>
+    <File md5="7480D0D37BFB7A6B28E4F84B58ECE33B" import="0">Xml/Resources/Text_Resource_T1.xml</File>
+    <File md5="9818F482803C07D7532546F6FC2E546A" import="0">Xml/Resources/Text_Resource_T2.xml</File>
+    <File md5="62E1FC6A7F7AE1F36769E79A52F599FE" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
+    <File md5="8D226242091159CDC00D53A4134C1D5D" import="0">Xml/Resources/Text_Resource_T3.xml</File>
     <File md5="638CF1E71F2A48D284EFAE5C4ECAD4B7" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
       <UpdateDatabase>Xml/Units/Units.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T1.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Resources/Icons_Resources_T2_electricity.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T2.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T3.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Resources_T1.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Resources/Resources_T2_electricity.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Resources_T2.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Resources_T3.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Text_Resource_T1.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Resources/Text_Resource_T2_electricity.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Text_Resource_T2.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Text_Resource_T3.xml</UpdateDatabase>
-      <UpdateDatabase>Xml/Build/Energy_buildins.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Policies/ReplacedPolicies.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Policies/Text_ReplacedPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Energy/EnergyBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Energy/EnergyBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Energy/Text_EnergyBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Tourism/TourismBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Tourism/TourismBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Tourism/Text_TourismBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Car/CarBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Car/CarBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Car/Text_CarBuildings.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

@@ -17,7 +17,6 @@
 			<UnmoddedHappiness>4</UnmoddedHappiness>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<NeverCapture>true</NeverCapture>
 			<IconAtlas>EXPANSION2_WONDER_ATLAS</IconAtlas>
 			<PortraitIndex>1</PortraitIndex>
 		</Row>
@@ -35,7 +34,6 @@
 			<UnmoddedHappiness>12</UnmoddedHappiness>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<NeverCapture>true</NeverCapture>
 			<IconAtlas>EXPANSION2_WONDER_ATLAS</IconAtlas>
 			<PortraitIndex>1</PortraitIndex>
 		</Row>
@@ -54,7 +52,6 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<NeverCapture>true</NeverCapture>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
 			<PortraitIndex>58</PortraitIndex>
 		</Row>
@@ -72,7 +69,6 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<NeverCapture>true</NeverCapture>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
 			<PortraitIndex>58</PortraitIndex>
 		</Row>
@@ -86,8 +82,18 @@
 			<Cost>1</Cost>
 		</Row>
 		<Row>
+			<BuildingType>BUILDING_TRAVEL_AGENCY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
 			<BuildingType>BUILDING_TRAVEL_AGENCY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_TOURISM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TRAVEL_AGENCY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>3</Cost>
 		</Row>
 		<!-- Курорт -->
@@ -97,8 +103,18 @@
 			<Cost>1</Cost>
 		</Row>
 		<Row>
+			<BuildingType>BUILDING_RESORT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
 			<BuildingType>BUILDING_RESORT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_TOURISM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RESORT_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>3</Cost>
 		</Row>
 	</Building_ResourceQuantityRequirements>

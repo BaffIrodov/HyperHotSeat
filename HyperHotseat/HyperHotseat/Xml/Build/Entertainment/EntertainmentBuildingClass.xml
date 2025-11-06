@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Телевидение -->
+		<Row>
+			<Type>BUILDINGCLASS_TELEVISION</Type>
+			<DefaultBuilding>BUILDING_TELEVISION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TELEVISION</Description>
+		</Row>
+		<!-- Смартфоны -->
+		<Row>
+			<Type>BUILDINGCLASS_SMARTPHONES</Type>
+			<DefaultBuilding>BUILDING_SMARTPHONES</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMARTPHONES</Description>
+		</Row>
+		<!-- Персональные компьютеры -->
+		<Row>
+			<Type>BUILDINGCLASS_PERSONAL_COMPUTERS</Type>
+			<DefaultBuilding>BUILDING_PERSONAL_COMPUTERS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PERSONAL_COMPUTERS</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

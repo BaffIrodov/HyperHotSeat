@@ -20,7 +20,6 @@
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<NeverCapture>true</NeverCapture>
 			<PortraitIndex>3</PortraitIndex>
 		</Row>
 		<Row>
@@ -40,7 +39,6 @@
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<NeverCapture>true</NeverCapture>
 			<PortraitIndex>3</PortraitIndex>
 		</Row>
 		<!-- Нефть -->
@@ -61,7 +59,6 @@
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<NeverCapture>true</NeverCapture>
 			<PortraitIndex>3</PortraitIndex>
 		</Row>
 		<Row>
@@ -81,7 +78,6 @@
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<NeverCapture>true</NeverCapture>
 			<PortraitIndex>3</PortraitIndex>
 		</Row>
 		<!-- Уран -->

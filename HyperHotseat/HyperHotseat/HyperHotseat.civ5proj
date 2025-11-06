@@ -142,6 +142,51 @@
         <Type>UpdateDatabase</Type>
         <FileName>Xml/Build/Car/Text_CarBuildings.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Network/NetworkBuildingClass.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Network/NetworkBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Network/Text_NetworkBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Entertainment/EntertainmentBuildingClass.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Entertainment/EntertainmentBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Medicine/MedicineBuildingClass.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Medicine/MedicineBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Medicine/Text_MedicineBuildings.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -161,9 +206,10 @@
     <Folder Include="Xml\Build" />
     <Folder Include="Xml\Build\Energy" />
     <Folder Include="Xml\Build\Car" />
-    <Folder Include="Xml\Build\Construction" />
+    <Folder Include="Xml\Build\Network" />
     <Folder Include="Xml\Build\Entertainment" />
     <Folder Include="Xml\Build\Medicine" />
+    <Folder Include="Xml\Build\Financial" />
     <Folder Include="Xml\Build\Tourism" />
     <Folder Include="Xml\Policies" />
     <Folder Include="Xml\Units" />
@@ -194,7 +240,39 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="Xml\Build\Construction\StroitTech_MobSvyaz_Internet.sql">
+    <Content Include="Xml\Build\Entertainment\EntertainmentBuildingClass.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Entertainment\EntertainmentBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Entertainment\Text_EntertainmentBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Medicine\MedicineBuildingClass.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Medicine\MedicineBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Medicine\Text_MedicineBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Network\NetworkBuildingClass.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Network\NetworkBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Network\Text_NetworkBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
@@ -207,14 +285,6 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="Xml\Build\Energy\Text_EnergyBuildings.xml">
-      <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
-    </Content>
-    <Content Include="Xml\Build\Entertainment\Кинотеатры_смартфоны.sql">
-      <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
-    </Content>
-    <Content Include="Xml\Build\Medicine\МРТ_передоваяБольница.sql">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

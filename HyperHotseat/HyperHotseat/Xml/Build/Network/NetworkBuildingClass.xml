@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Мобильная сеть -->
+		<Row>
+			<Type>BUILDINGCLASS_MOBILE_NETWORKS</Type>
+			<DefaultBuilding>BUILDING_MOBILE_NETWORKS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MOBILE_NETWORKS</Description>
+		</Row>
+		<!-- Интернет -->
+		<Row>
+			<Type>BUILDINGCLASS_INTERNET</Type>
+			<DefaultBuilding>BUILDING_INTERNET</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_INTERNET</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

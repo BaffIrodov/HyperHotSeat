@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/23/2025 11:46:34 AM -->
+<GameData>
+	<Buildings>
+		<!-- Здесь не нужно делать большие версии зданий -->
+		<!-- МРТ -->
+		<Row>
+			<Type>BUILDING_MRI</Type>
+			<BuildingClass>BUILDINGCLASS_MRI</BuildingClass>
+			<Cost>600</Cost>
+			<GoldMaintenance>6</GoldMaintenance>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MRI</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MRI_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_MRI_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_MRI_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HOSPITAL</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>45</PortraitIndex>
+		</Row>
+		<!-- Передовая больница -->
+		<Row>
+			<Type>BUILDING_ADVANCED_HOSPITAL</Type>
+			<BuildingClass>BUILDINGCLASS_ADVANCED_HOSPITAL</BuildingClass>
+			<Cost>800</Cost>
+			<GoldMaintenance>8</GoldMaintenance>
+			<PrereqTech>TECH_BIOLOGY</PrereqTech>
+			<Description>TXT_KEY_ADVANCED_HOSPITAL</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ADVANCED_HOSPITAL_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_ADVANCED_HOSPITAL_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_ADVANCED_HOSPITAL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HOSPITAL</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>45</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_ResourceQuantityRequirements>
+		<!-- МРТ -->
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<ResourceType>RESOURCE_LATEX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<ResourceType>RESOURCE_MAGNET</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Передовая больница -->
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_LATEX</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_PENICILLIN</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+
+	<Building_ResourceQuantity>
+		<!-- Лаборатория -->
+		<Row>
+			<BuildingType>BUILDING_LABORATORY</BuildingType>
+			<ResourceType>RESOURCE_PENICILLIN</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+
+	<Building_YieldChanges>
+		<!-- МРТ -->
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>8</Yield>
+		</Row>
+		<!-- Передовая больница -->
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_ClassesNeededInCity>
+		<!-- МРТ требует обычную больницу -->
+		<Row>
+			<BuildingType>BUILDING_MRI</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+		</Row>
+		<!-- Передовая больница требует МРТ -->
+		<Row>
+			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MRI</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+</GameData>

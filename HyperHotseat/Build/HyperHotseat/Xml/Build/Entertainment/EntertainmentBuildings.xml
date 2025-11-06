@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/23/2025 11:46:34 AM -->
+<GameData>
+	<Buildings>
+		<!-- Здесь не нужно делать большие версии зданий -->
+		<!-- Телевидение -->
+		<Row>
+			<Type>BUILDING_TELEVISION</Type>
+			<BuildingClass>BUILDINGCLASS_TELEVISION</BuildingClass>
+			<Cost>500</Cost>
+			<GoldMaintenance>6</GoldMaintenance>
+			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TELEVISION</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TELEVISION_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_TELEVISION_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_TELEVISION_STRATEGY</Strategy>
+			<ArtDefineTag>HUBBLE</ArtDefineTag>
+			<UnmoddedHappiness>3</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<!-- Смартфоны -->
+		<Row>
+			<Type>BUILDING_SMARTPHONES</Type>
+			<BuildingClass>BUILDINGCLASS_SMARTPHONES</BuildingClass>
+			<Cost>600</Cost>
+			<GoldMaintenance>8</GoldMaintenance>
+			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SMARTPHONES</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SMARTPHONES_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_SMARTPHONES_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_SMARTPHONES_STRATEGY</Strategy>
+			<ArtDefineTag>HUBBLE</ArtDefineTag>
+			<UnmoddedHappiness>4</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<!-- Персональные компьютеры -->
+		<Row>
+			<Type>BUILDING_PERSONAL_COMPUTERS</Type>
+			<BuildingClass>BUILDINGCLASS_PERSONAL_COMPUTERS</BuildingClass>
+			<Cost>600</Cost>
+			<GoldMaintenance>8</GoldMaintenance>
+			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+			<Description>TXT_KEY_BUILDING_PERSONAL_COMPUTERS</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_PERSONAL_COMPUTERS_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_PERSONAL_COMPUTERS_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_PERSONAL_COMPUTERS_STRATEGY</Strategy>
+			<ArtDefineTag>HUBBLE</ArtDefineTag>
+			<UnmoddedHappiness>4</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_ResourceQuantityRequirements>
+		<!-- Телевидение -->
+		<Row>
+			<BuildingType>BUILDING_TELEVISION</BuildingType>
+			<ResourceType>RESOURCE_ANALOG_ELECTRONICS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TELEVISION</BuildingType>
+			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TELEVISION</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Смартфоны -->
+		<Row>
+			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
+			<ResourceType>RESOURCE_SILICON_ELECTRONICS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
+			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<!-- Персональные компьютеры -->
+		<Row>
+			<BuildingType>BUILDING_PERSONAL_COMPUTERS</BuildingType>
+			<ResourceType>RESOURCE_SILICON_ELECTRONICS</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PERSONAL_COMPUTERS</BuildingType>
+			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PERSONAL_COMPUTERS</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+
+	<Building_ClassesNeededInCity>
+		<!-- Персональные компьютеры требуют телевидение -->
+		<Row>
+			<BuildingType>BUILDING_PERSONAL_COMPUTERS</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_TELEVISION</BuildingClassType>
+		</Row>
+		<!-- Смартфоны требуют персональные компьютеры -->
+		<Row>
+			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_PERSONAL_COMPUTERS</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+</GameData>

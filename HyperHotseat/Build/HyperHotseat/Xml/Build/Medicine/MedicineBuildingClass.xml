@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- МРТ -->
+		<Row>
+			<Type>BUILDINGCLASS_MRI</Type>
+			<DefaultBuilding>BUILDING_MRI</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MRI</Description>
+		</Row>
+		<!-- Передовая больница -->
+		<Row>
+			<Type>BUILDINGCLASS_ADVANCED_HOSPITAL</Type>
+			<DefaultBuilding>BUILDING_ADVANCED_HOSPITAL</DefaultBuilding>
+			<Description>TXT_KEY_ADVANCED_HOSPITAL</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

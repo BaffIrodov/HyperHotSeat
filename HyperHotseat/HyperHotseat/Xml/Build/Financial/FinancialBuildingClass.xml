@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ELECTRONIC_EXCHANGE</Type>
+			<DefaultBuilding>BUILDING_ELECTRONIC_EXCHANGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ELECTRONIC_EXCHANGE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ELECTRONIC_BANKING</Type>
+			<DefaultBuilding>BUILDING_ELECTRONIC_BANKING</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ELECTRONIC_BANKING</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

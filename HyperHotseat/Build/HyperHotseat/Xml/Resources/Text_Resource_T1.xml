@@ -66,12 +66,12 @@
 		<Row Tag="TXT_KEY_RESOURCE_COTTON_STRATEGIC_HELP">
 			<Text>Расписать - хлопок.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_RUBBER">
+		<Row Tag="TXT_KEY_RESOURCE_CAOUTCHOUC">
 			<Text>Каучук|каучука|каучуку|каучук|каучуком|каучуке</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Row>
-		<Row Tag="TXT_KEY_RESOURCE_RUBBER_HELP">
+		<Row Tag="TXT_KEY_RESOURCE_CAOUTCHOUC_HELP">
 			<Text>Расписать - каучук.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TOURISM">

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+
+		<!-- Хлебобулочный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_BAKERY_FACTORY</Type>
+			<DefaultBuilding>BUILDING_BAKERY_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY</Description>
+		</Row>
+		<!-- Большой хлебобулочный -->
+		<Row>
+			<Type>BUILDINGCLASS_BAKERY_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_BAKERY_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Рыбный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_FISH_FACTORY</Type>
+			<DefaultBuilding>BUILDING_FISH_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FISH_FACTORY</Description>
+		</Row>
+		<!-- Большой рыбный -->
+		<Row>
+			<Type>BUILDINGCLASS_FISH_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_FISH_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FISH_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Мясной завод -->
+		<Row>
+			<Type>BUILDINGCLASS_MEAT_FACTORY</Type>
+			<DefaultBuilding>BUILDING_MEAT_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MEAT_FACTORY</Description>
+		</Row>
+		<!-- Большой мясной -->
+		<Row>
+			<Type>BUILDINGCLASS_MEAT_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_MEAT_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MEAT_FACTORY_LARGE</Description>
+		</Row>
+
+	</BuildingClasses>
+</GameData>

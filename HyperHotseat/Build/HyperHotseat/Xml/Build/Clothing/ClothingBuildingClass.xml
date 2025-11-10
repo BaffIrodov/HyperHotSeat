@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+
+		<!-- Завод гражданской одежды -->
+		<Row>
+			<Type>BUILDINGCLASS_CIVIL_CLOTHING_FACTORY</Type>
+			<DefaultBuilding>BUILDING_CIVIL_CLOTHING_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CIVIL_CLOTHING_FACTORY</Description>
+		</Row>
+
+		<!-- Завод военной одежды -->
+		<Row>
+			<Type>BUILDINGCLASS_MILITARY_CLOTHING_FACTORY</Type>
+			<DefaultBuilding>BUILDING_MILITARY_CLOTHING_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY</Description>
+		</Row>
+
+		<!-- Большой завод военной одежды -->
+		<Row>
+			<Type>BUILDINGCLASS_MILITARY_CLOTHING_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</Description>
+		</Row>
+
+	</BuildingClasses>
+</GameData>

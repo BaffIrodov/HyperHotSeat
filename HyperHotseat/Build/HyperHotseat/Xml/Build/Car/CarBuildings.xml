@@ -77,6 +77,11 @@
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>1</Cost>
 		</Row>
@@ -99,6 +104,11 @@
 		<Row>
 			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
 			<ResourceType>RESOURCE_PLASTIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 		<Row>

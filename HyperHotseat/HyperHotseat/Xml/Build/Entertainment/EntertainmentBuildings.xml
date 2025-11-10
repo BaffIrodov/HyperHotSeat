@@ -92,6 +92,11 @@
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SMARTPHONES</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>1</Cost>
 		</Row>

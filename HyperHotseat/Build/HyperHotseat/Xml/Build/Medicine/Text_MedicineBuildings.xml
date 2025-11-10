@@ -19,7 +19,7 @@
 		</Row>
 
 		<!-- Передовая больница -->
-		<Row Tag="TXT_KEY_ADVANCED_HOSPITAL">
+		<Row Tag="TXT_KEY_BUILDING_ADVANCED_HOSPITAL">
 			<Text>Передовая больница|Передовой больницы|Передовой больнице|Передовую больницу|Передовой больницей|Передовой больнице</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
@@ -35,8 +35,8 @@
 		</Row>
 		
 		<!-- Реплейс описания лаборатории -->
-		<Row Tag="TXT_KEY_BUILDING_LABORATORY_HELP">
-			<Text>Дает 3 единицы пенициллина. В городе должна быть построена школа.</Text>
-		</Row>
+		<Replace Tag="TXT_KEY_BUILDING_LABORATORY_HELP">
+			<Text>Дает 3 единицы пенициллина, требует 1 единицу латекса. В городе должна быть построена школа.</Text>
+		</Replace>
 	</Language_RU_RU>
 </GameData>

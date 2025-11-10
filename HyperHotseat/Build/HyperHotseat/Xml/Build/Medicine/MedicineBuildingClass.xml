@@ -12,7 +12,7 @@
 		<Row>
 			<Type>BUILDINGCLASS_ADVANCED_HOSPITAL</Type>
 			<DefaultBuilding>BUILDING_ADVANCED_HOSPITAL</DefaultBuilding>
-			<Description>TXT_KEY_ADVANCED_HOSPITAL</Description>
+			<Description>TXT_KEY_BUILDING_ADVANCED_HOSPITAL</Description>
 		</Row>
 	</BuildingClasses>
 </GameData>

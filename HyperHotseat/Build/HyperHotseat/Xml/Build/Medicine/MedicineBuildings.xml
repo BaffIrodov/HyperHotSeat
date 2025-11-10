@@ -28,7 +28,7 @@
 			<Cost>800</Cost>
 			<GoldMaintenance>8</GoldMaintenance>
 			<PrereqTech>TECH_BIOLOGY</PrereqTech>
-			<Description>TXT_KEY_ADVANCED_HOSPITAL</Description>
+			<Description>TXT_KEY_BUILDING_ADVANCED_HOSPITAL</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ADVANCED_HOSPITAL_TEXT</Civilopedia>
 			<Help>TXT_KEY_BUILDING_ADVANCED_HOSPITAL_HELP</Help>
 			<Strategy>TXT_KEY_BUILDING_ADVANCED_HOSPITAL_STRATEGY</Strategy>
@@ -82,6 +82,13 @@
 		<Row>
 			<BuildingType>BUILDING_ADVANCED_HOSPITAL</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- Лаборатория -->
+		<Row>
+			<BuildingType>BUILDING_LABORATORY</BuildingType>
+			<ResourceType>RESOURCE_LATEX</ResourceType>
 			<Cost>1</Cost>
 		</Row>
 	</Building_ResourceQuantityRequirements>

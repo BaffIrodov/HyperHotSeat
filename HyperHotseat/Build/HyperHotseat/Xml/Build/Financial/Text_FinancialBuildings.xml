@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/09/2025 -->
+<GameData>
+	<Language_RU_RU>
+		<!-- Электронная биржа -->
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_EXCHANGE">
+			<Text>Электронная биржа|Электронной биржи|Электронной бирже|Электронную биржу|Электронной биржей|Электронной бирже</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_EXCHANGE_HELP">
+			<Text>Увеличивает [ICON_GOLD] золото на 10%. Требует 1 единицу кремниевой электроники и 3 единицы электричества.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_EXCHANGE_STRATEGY">
+			<Text>Требует 1 единицу кремниевой электроники и 3 единицы электричества. Электронная биржа повышает эффективность торговли, ускоряет оборот капитала и усиливает экономическую мощь города.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ELECTRONIC_EXCHANGE_TEXT">
+			<Text>Электронная биржа — это высокотехнологичная торговая площадка, на которой сделки совершаются мгновенно благодаря автоматизированным системам. Она способствует росту экономики и развитию финансового сектора цивилизации.</Text>
+		</Row>
+
+		<!-- Электронный банкинг -->
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_BANKING">
+			<Text>Электронный банкинг|Электронного банкинга|Электронному банкингу|Электронный банкинг|Электронным банкингом|Электронном банкинге</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_BANKING_HELP">
+			<Text>Увеличивает [ICON_GOLD] золото на 10%. Требует 1 единицу кремниевой электроники и 3 единицы электричества.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELECTRONIC_BANKING_STRATEGY">
+			<Text>Требует 1 единицу кремниевой электроники и 3 единицы электричества. Электронный банкинг расширяет доступ к финансовым услугам и ускоряет денежные потоки, делая экономику более устойчивой.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ELECTRONIC_BANKING_TEXT">
+			<Text>Электронный банкинг — это цифровая система управления финансами, обеспечивающая быстрые и безопасные операции. Внедрение таких технологий делает финансовую инфраструктуру эффективной и прозрачной.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

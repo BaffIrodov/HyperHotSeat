@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<!-- ===== Buildings ===== -->
+	<Buildings>
+		<!-- Хлебобулочный завод -->
+		<Row>
+			<Type>BUILDING_BAKERY_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_BAKERY_FACTORY</BuildingClass>
+			<Cost>500</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BAKERY_FACTORY_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_BAKERY_FACTORY_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_BAKERY_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Большой хлебобулочный -->
+		<Row>
+			<Type>BUILDING_BAKERY_FACTORY_LARGE</Type>
+			<BuildingClass>BUILDINGCLASS_BAKERY_FACTORY_LARGE</BuildingClass>
+			<Cost>1250</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY_LARGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BAKERY_FACTORY_LARGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_BAKERY_FACTORY_LARGE_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_BAKERY_FACTORY_LARGE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Рыбный завод -->
+		<Row>
+			<Type>BUILDING_FISH_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_FISH_FACTORY</BuildingClass>
+			<Cost>500</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_FISH_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FISH_FACTORY_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_FISH_FACTORY_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_FISH_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Большой рыбный -->
+		<Row>
+			<Type>BUILDING_FISH_FACTORY_LARGE</Type>
+			<BuildingClass>BUILDINGCLASS_FISH_FACTORY_LARGE</BuildingClass>
+			<Cost>1250</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_FISH_FACTORY_LARGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FISH_FACTORY_LARGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_FISH_FACTORY_LARGE_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_FISH_FACTORY_LARGE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Мясной завод -->
+		<Row>
+			<Type>BUILDING_MEAT_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_MEAT_FACTORY</BuildingClass>
+			<Cost>500</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MEAT_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MEAT_FACTORY_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_MEAT_FACTORY_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_MEAT_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Большой мясной -->
+		<Row>
+			<Type>BUILDING_MEAT_FACTORY_LARGE</Type>
+			<BuildingClass>BUILDINGCLASS_MEAT_FACTORY_LARGE</BuildingClass>
+			<Cost>1250</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MEAT_FACTORY_LARGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MEAT_FACTORY_LARGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_MEAT_FACTORY_LARGE_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_MEAT_FACTORY_LARGE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<!-- ===== Resource requirements to build ===== -->
+	<Building_ResourceQuantityRequirements>
+		<!-- Хлебобулочный -->
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_WHEAT_STRATEGIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- Большой хлебобулочный -->
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_WHEAT_STRATEGIC</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>6</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+
+		<!-- Рыбный -->
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_FISH_STRATEGIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- Большой рыбный -->
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_FISH_STRATEGIC</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>6</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+
+		<!-- Мясной -->
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_COW_STRATEGIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<!-- Большой мясной -->
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_COW_STRATEGIC</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>6</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+
+	<!-- ===== Flat yields from buildings ===== -->
+	<Building_YieldChanges>
+		<!-- Хлебобулочный -->
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>7</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!-- Большой хлебобулочный -->
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>21</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>6</Yield>
+		</Row>
+
+		<!-- Рыбный -->
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>7</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!-- Большой рыбный -->
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>21</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>6</Yield>
+		</Row>
+
+		<!-- Мясной -->
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>7</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!-- Большой мясной -->
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>21</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>6</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<!-- ===== Large requires Small in city ===== -->
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_BAKERY_FACTORY</BuildingClassType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_FISH_FACTORY</BuildingClassType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MEAT_FACTORY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+</GameData>

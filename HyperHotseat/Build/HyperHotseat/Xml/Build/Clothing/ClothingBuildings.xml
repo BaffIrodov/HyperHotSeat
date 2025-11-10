@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Buildings>
+		<!-- Завод гражданской одежды -->
+		<Row>
+			<Type>BUILDING_CIVIL_CLOTHING_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_CIVIL_CLOTHING_FACTORY</BuildingClass>
+			<Cost>300</Cost>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_CIVIL_CLOTHING_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CIVIL_CLOTHING_FACTORY_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_CIVIL_CLOTHING_FACTORY_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_CIVIL_CLOTHING_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<UnmoddedHappiness>2</UnmoddedHappiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Завод военной одежды -->
+		<Row>
+			<Type>BUILDING_MILITARY_CLOTHING_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_MILITARY_CLOTHING_FACTORY</BuildingClass>
+			<Cost>300</Cost>
+			<GoldMaintenance>5</GoldMaintenance>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MILITARY_CLOTHING_FACTORY_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!-- Большой завод военной одежды -->
+		<Row>
+			<Type>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</Type>
+			<BuildingClass>BUILDINGCLASS_MILITARY_CLOTHING_FACTORY_LARGE</BuildingClass>
+			<Cost>750</Cost>
+			<GoldMaintenance>20</GoldMaintenance>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MILITARY_CLOTHING_FACTORY_LARGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<!-- Требуемые ресурсы для строительства -->
+	<Building_ResourceQuantityRequirements>
+		<!-- Завод гражданской одежды -->
+		<Row>
+			<BuildingType>BUILDING_CIVIL_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_COTTON_STRATEGIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CIVIL_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CIVIL_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<!-- Завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_COTTON_STRATEGIC</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<!-- Большой завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_COTTON_STRATEGIC</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>6</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+
+	<!-- Ресурсы, производимые зданием -->
+	<Building_ResourceQuantity>
+		<!-- Завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_MILITARY_CLOTHING</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+
+		<!-- Большой завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<ResourceType>RESOURCE_MILITARY_CLOTHING</ResourceType>
+			<Quantity>6</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+
+	<!-- Плоские изменения доходов -->
+	<Building_YieldChanges>
+		<!-- Завод гражданской одежды -->
+		<Row>
+			<BuildingType>BUILDING_CIVIL_CLOTHING_FACTORY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<!-- Зависимости «большое → малое» -->
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_MILITARY_CLOTHING_FACTORY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+</GameData>

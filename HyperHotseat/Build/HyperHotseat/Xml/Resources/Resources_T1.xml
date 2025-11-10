@@ -97,9 +97,9 @@
 			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
 		</Row>
 		<Row>
-			<Type>RESOURCE_RUBBER</Type>
-			<Description>TXT_KEY_RESOURCE_RUBBER</Description>
-			<Help>TXT_KEY_RESOURCE_RUBBER_HELP</Help>
+			<Type>RESOURCE_CAOUTCHOUC</Type>
+			<Description>TXT_KEY_RESOURCE_CAOUTCHOUC</Description>
+			<Help>TXT_KEY_RESOURCE_CAOUTCHOUC_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
 			<IconString>[ICON_RES_SILK]</IconString>
@@ -163,7 +163,7 @@
 			<Yield>1</Yield>
 		</Row>
 		<Row>
-			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<ResourceType>RESOURCE_CAOUTCHOUC</ResourceType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<Yield>1</Yield>
 		</Row>
@@ -237,11 +237,11 @@
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
-			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<ResourceType>RESOURCE_CAOUTCHOUC</ResourceType>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
-			<ResourceType>RESOURCE_RUBBER</ResourceType>
+			<ResourceType>RESOURCE_CAOUTCHOUC</ResourceType>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>

@@ -29,14 +29,14 @@
     <File md5="AE1D24C8E643D5D5C0E6C29660870EEE" import="0">Xml/Build/Car/CarBuildings.xml</File>
     <File md5="872834D450FD7D9C58E93FD4A90EC57B" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
     <File md5="D7DF5CD2182D5A964E7F8245506594A9" import="0">Xml/Build/Clothing/ClothingBuildingClass.xml</File>
-    <File md5="23281D65D91D8A153D4EAE3F86832B81" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
+    <File md5="3B4C942C4B96B1E6D1287EE99B5B8B65" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
     <File md5="6AC884E1E0B1812E40ED703B804C67F9" import="0">Xml/Build/Entertainment/EntertainmentBuildingClass.xml</File>
     <File md5="3A1462F4848360B7515F7F5ECF765AD6" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
     <File md5="5408FD21642F7C47BA78EE4752E1E149" import="0">Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</File>
-    <File md5="56EEA9B760C91D338483DCC6B1C40D2D" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
-    <File md5="6947376AE797B8E123D4FAB33E7540A3" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
-    <File md5="903B8C9135955E2C673C44CC8CBD9B68" import="0">Xml/Build/Financial/Text_FinancialBuildings.xml</File>
+    <File md5="ABEBFE83B59B20302397FC2AE9523A26" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
+    <File md5="5B18D2264221EF304845AD18D100D76E" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
+    <File md5="648B4BBC399A9D5EE834B39401B7C523" import="0">Xml/Build/Financial/Text_FinancialBuildings.xml</File>
     <File md5="A264BD5CB24C5E9C04F3C78B7415A79D" import="0">Xml/Build/Food/FoodBuildingClass.xml</File>
     <File md5="4DBC127C9D405C5D54E8A252994BFAE3" import="0">Xml/Build/Food/FoodBuildings.xml</File>
     <File md5="AD385884FE26A76A62F0AB0D5BE63DE6" import="0">Xml/Build/Food/Text_FoodBuildings.xml</File>
@@ -52,6 +52,9 @@
     <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
     <File md5="EB0CE1D97C4F482C1D87874C7FD20C8E" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
     <File md5="7C6E3718B009A0FC5193DC69D339D06D" import="0">Xml/Build/Tourism/Text_TourismBuildings.xml</File>
+    <File md5="161AF71D555B4B97AA3C9567973D6ECC" import="0">Xml/Build/War/WarBuildingClass.xml</File>
+    <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
+    <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
     <File md5="29C04B741DD38A19A145B14652D651FF" import="0">Xml/Policies/ReplacedPolicies.xml</File>
     <File md5="3617A1233CA67329D1554EAA98AD3EBD" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
     <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
@@ -112,6 +115,9 @@
       <UpdateDatabase>Xml/Build/Clothing/ClothingBuildingClass.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/Clothing/ClothingBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/Clothing/Text_ClothingBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/War/Text_WarBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/War/WarBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/War/WarBuildings.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

@@ -14,6 +14,8 @@
 			<Strategy>TXT_KEY_BUILDING_CIVIL_CLOTHING_FACTORY_STRATEGY</Strategy>
 			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
 			<UnmoddedHappiness>2</UnmoddedHappiness>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
@@ -138,6 +140,18 @@
 			<BuildingType>BUILDING_CIVIL_CLOTHING_FACTORY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>10</Yield>
+		</Row>
+		<!-- Завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!-- Большой завод военной одежды -->
+		<Row>
+			<BuildingType>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>6</Yield>
 		</Row>
 	</Building_YieldChanges>
 

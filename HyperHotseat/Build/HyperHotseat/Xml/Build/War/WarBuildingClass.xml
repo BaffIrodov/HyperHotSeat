@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2025 12:24:16 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Городская застройка -->
+		<Row>
+			<Type>BUILDINGCLASS_URBAN_DEVELOPMENT</Type>
+			<DefaultBuilding>BUILDING_URBAN_DEVELOPMENT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URBAN_DEVELOPMENT</Description>
+		</Row>
+		<!-- Офицерская академия -->
+		<Row>
+			<Type>BUILDINGCLASS_OFFICER_ACADEMY</Type>
+			<DefaultBuilding>BUILDING_OFFICER_ACADEMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OFFICER_ACADEMY</Description>
+		</Row>
+	</BuildingClasses>
+</GameData>

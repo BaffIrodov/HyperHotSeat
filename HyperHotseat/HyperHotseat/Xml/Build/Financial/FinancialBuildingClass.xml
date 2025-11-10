@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<BuildingClasses>
+		<!-- Электронная биржа -->
 		<Row>
 			<Type>BUILDINGCLASS_ELECTRONIC_EXCHANGE</Type>
 			<DefaultBuilding>BUILDING_ELECTRONIC_EXCHANGE</DefaultBuilding>
 			<Description>TXT_KEY_BUILDING_ELECTRONIC_EXCHANGE</Description>
 		</Row>
+		<!-- Электронный банкинг -->
 		<Row>
 			<Type>BUILDINGCLASS_ELECTRONIC_BANKING</Type>
 			<DefaultBuilding>BUILDING_ELECTRONIC_BANKING</DefaultBuilding>
 			<Description>TXT_KEY_BUILDING_ELECTRONIC_BANKING</Description>
+		</Row>
+		<!-- Ювелирный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_JEWELRY_FACTORY</Type>
+			<DefaultBuilding>BUILDING_JEWELRY_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_JEWELRY_FACTORY</Description>
 		</Row>
 	</BuildingClasses>
 </GameData>

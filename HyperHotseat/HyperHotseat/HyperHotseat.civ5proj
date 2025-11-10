@@ -232,6 +232,21 @@
         <Type>UpdateDatabase</Type>
         <FileName>Xml/Build/Clothing/Text_ClothingBuildings.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/War/Text_WarBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/War/WarBuildingClass.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/War/WarBuildings.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -256,6 +271,7 @@
     <Folder Include="Xml\Build\Medicine" />
     <Folder Include="Xml\Build\Financial" />
     <Folder Include="Xml\Build\Food" />
+    <Folder Include="Xml\Build\War" />
     <Folder Include="Xml\Build\T1Res" />
     <Folder Include="Xml\Build\Clothing" />
     <Folder Include="Xml\Build\T3Res" />
@@ -383,6 +399,18 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="Xml\Build\Tourism\Text_TourismBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\War\WarBuildingClass.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\War\WarBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\War\Text_WarBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

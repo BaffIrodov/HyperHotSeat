@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+
+		<!-- Пороховой завод -->
+		<Row>
+			<Type>BUILDINGCLASS_GUNPOWDER_FACTORY</Type>
+			<DefaultBuilding>BUILDING_GUNPOWDER_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GUNPOWDER_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GUNPOWDER_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_GUNPOWDER_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GUNPOWDER_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Магнитный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_MAGNET_FACTORY</Type>
+			<DefaultBuilding>BUILDING_MAGNET_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MAGNET_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MAGNET_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_MAGNET_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Плутониевый завод -->
+		<Row>
+			<Type>BUILDINGCLASS_PLUTONIUM_FACTORY</Type>
+			<DefaultBuilding>BUILDING_PLUTONIUM_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PLUTONIUM_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PLUTONIUM_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_PLUTONIUM_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PLUTONIUM_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Латексный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_LATEX_FACTORY</Type>
+			<DefaultBuilding>BUILDING_LATEX_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LATEX_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_LATEX_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_LATEX_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LATEX_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Стальной завод -->
+		<Row>
+			<Type>BUILDINGCLASS_STEEL_FACTORY</Type>
+			<DefaultBuilding>BUILDING_STEEL_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_STEEL_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_STEEL_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_STEEL_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_STEEL_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Нефтеперерабатывающий завод -->
+		<Row>
+			<Type>BUILDINGCLASS_OIL_REFINERY</Type>
+			<DefaultBuilding>BUILDING_OIL_REFINERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OIL_REFINERY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_OIL_REFINERY_LARGE</Type>
+			<DefaultBuilding>BUILDING_OIL_REFINERY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_OIL_REFINERY_LARGE</Description>
+		</Row>
+
+	</BuildingClasses>
+</GameData>

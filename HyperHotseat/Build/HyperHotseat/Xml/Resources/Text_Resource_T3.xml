@@ -8,7 +8,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_STEEL_ARMOR_HELP">
-			<Text>Расписать - стальная броня.</Text>
+			<Text>Производится в заводах стальной брони. Требует сталь.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR">
@@ -17,7 +17,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_COMPOSITE_ARMOR_HELP">
-			<Text>Расписать - композитная броня.</Text>
+			<Text>Производится в заводах композитной брони. Требует сталь, алюминий, резину.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_AMMUNITION">
 			<Text>Боеприпасы|Боеприпасов|Боеприпасам|Боеприпасы|Боеприпасами|Боеприпасах</Text>
@@ -25,7 +25,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_AMMUNITION_HELP">
-			<Text>Расписать - боеприпасы.</Text>
+			<Text>Производится в заводах боеприпасов. Требует сталь и порох.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS">
 			<Text>Аналоговая электроника|Аналоговой электроники|Аналоговой электронике|Аналоговую электронику|Аналоговой электроникой|Аналоговой электронике</Text>
@@ -33,7 +33,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ANALOG_ELECTRONICS_HELP">
-			<Text>Расписать - аналоговая электроника.</Text>
+			<Text>Производится в заводах аналоговой электроники. Требует медь, резину, пластик.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS">
 			<Text>Кремниевая электроника|Кремниевой электроники|Кремниевой электронике|Кремниевую электронику|Кремниевой электроникой|Кремниевой электронике</Text>
@@ -41,7 +41,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_SILICON_ELECTRONICS_HELP">
-			<Text>Расписать - кремниевая электроника.</Text>
+			<Text>Производится в заводах кремниевой электроники. Требует кремний, золото, пластик.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING">
 			<Text>Военная одежда|Военной одежды|Военной одежде|Военную одежду|Военной одеждой|Военной одежде</Text>
@@ -49,7 +49,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MILITARY_CLOTHING_HELP">
-			<Text>Расписать - военная одежда.</Text>
+			<Text>Производится в заводах военной одежды. Требует хлопок и алюминий.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BATTERY">
 			<Text>Аккумулятор|аккумулятора|аккумулятору|аккумулятор|аккумулятором|аккумуляторе</Text>
@@ -57,7 +57,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BATTERY_HELP">
-			<Text>Расписать - аккумулятор.</Text>
+			<Text>Производится в заводах аккумуляторов. Требует аналоговую электронику, литий, пластик.</Text>
 		</Row>
 	</Language_ru_RU>
 </GameData>

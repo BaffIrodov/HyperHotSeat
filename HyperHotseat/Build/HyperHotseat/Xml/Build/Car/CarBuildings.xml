@@ -149,7 +149,7 @@
 		<Row>
 			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>15</Yield>
+			<Yield>20</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>

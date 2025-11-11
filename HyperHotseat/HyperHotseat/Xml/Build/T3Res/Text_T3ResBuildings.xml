@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/11/2025 -->
+<GameData>
+	<Language_RU_RU>
+
+		<!-- Броневой стальной завод -->
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY">
+			<Text>Броневой стальной завод|Броневого стального завода|Броневому стальному заводу|Броневой стальной завод|Броневым стальным заводом|Броневом стальном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_HELP">
+			<Text>Производит 2 ед. стальной брони; +2 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Требует 1 ед. стали и 3 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_STRATEGY">
+			<Text>Завод выпускает листы стальной брони для военной техники. Требуются сталь и стабильные поставки электроэнергии; предприятие слегка снижает пищевой баланс.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMOR_STEEL_FACTORY_TEXT">
+			<Text>Производство включает плавку, прокатку и термообработку броневых сталей с контролем твёрдости и вязкости разрушения.</Text>
+		</Row>
+
+		<!-- Большой броневой стальной завод -->
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_LARGE">
+			<Text>Большой броневой стальной завод|Большого броневого стального завода|Большому броневому стальному заводу|Большой броневой стальной завод|Большим броневым стальным заводом|Большом броневом стальном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. стальной брони; +6 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Требует 3 ед. стали и 9 ед. электричества. 2 инженера. Необходимо наличие броневого стального завода.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_LARGE_STRATEGY">
+			<Text>Крупный металлургический кластер для массового выпуска бронелистов; высокие энергозатраты компенсируются объёмом выпуска.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMOR_STEEL_FACTORY_LARGE_TEXT">
+			<Text>Многопроходная прокатка, закалка и отпуск обеспечивают равномерные параметры прочности и стойкости брони.</Text>
+		</Row>
+
+		<!-- Броневой композитный завод -->
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY">
+			<Text>Броневой композитный завод|Броневого композитного завода|Броневому композитному заводу|Броневой композитный завод|Броневым композитным заводом|Броневом композитном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_HELP">
+			<Text>Производит 2 ед. композитной брони; +2 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Требует 1 сталь, 1 алюминий, 2 резины (вулканизированной), 3 электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_STRATEGY">
+			<Text>Завод формует многослойные композиты для бронезащиты: сталь, алюминий и резина. Эффективен для современного ВПК.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMOR_COMPOSITE_FACTORY_TEXT">
+			<Text>Композитные панели создаются методом прессования и вулканизации с адгезионными прослойками, обеспечивая баланс массы и защиты.</Text>
+		</Row>
+
+		<!-- Большой броневой композитный завод -->
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE">
+			<Text>Большой броневой композитный завод|Большого броневого композитного завода|Большому броневому композитному заводу|Большой броневой композитный завод|Большим броневым композитным заводом|Большом броневом композитном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. композитной брони; +6 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Требует 3 стали, 3 алюминия, 6 резины (вулканизированной), 9 электричества. 2 инженера. Необходимо наличие броневого композитного завода.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_STRATEGY">
+			<Text>Крупные прессы и автоклавы обеспечивают серийный выпуск лёгких и прочных бронекомпозитов для техники.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ARMOR_COMPOSITE_FACTORY_LARGE_TEXT">
+			<Text>Контроль связующих и режимов вулканизации критичен для равномерной энергии поглощения ударов.</Text>
+		</Row>
+
+		<!-- Завод боеприпасов -->
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY">
+			<Text>Завод боеприпасов|Завода боеприпасов|Заводу боеприпасов|Завод боеприпасов|Заводом боеприпасов|Заводе боеприпасов</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY_HELP">
+			<Text>Производит 6 ед. боеприпасов; +2 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Требует 1 сталь, 2 пороха, 3 электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY_STRATEGY">
+			<Text>Сборка патронов и снарядов требует сталь, порох и энергию; завод создаёт стратегические запасы боеприпасов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMMUNITION_FACTORY_TEXT">
+			<Text>Линии штамповки, зарядки и герметизации обеспечивают стабильное качество боеприпасов для армии.</Text>
+		</Row>
+
+		<!-- Большой завод боеприпасов -->
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY_LARGE">
+			<Text>Большой завод боеприпасов|Большого завода боеприпасов|Большому заводу боеприпасов|Большой завод боеприпасов|Большим заводом боеприпасов|Большом заводе боеприпасов</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY_LARGE_HELP">
+			<Text>Производит 18 ед. боеприпасов; +6 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Требует 3 стали, 6 пороха, 9 электричества. 2 инженера. Необходимо наличие завода боеприпасов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMMUNITION_FACTORY_LARGE_STRATEGY">
+			<Text>Высокопроизводительные линии для массовой сборки боеприпасов, требующие усиленных поставок сырья и энергии.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AMMUNITION_FACTORY_LARGE_TEXT">
+			<Text>Автоматизация операций зарядки и контроля размеров гарантирует взаимозаменяемость и надёжность.</Text>
+		</Row>
+
+		<!-- Завод аналоговой электроники -->
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY">
+			<Text>Завод аналоговой электроники|Завода аналоговой электроники|Заводу аналоговой электроники|Завод аналоговой электроники|Заводом аналоговой электроники|Заводе аналоговой электроники</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_HELP">
+			<Text>Производит 2 ед. аналоговой электроники; +2 [ICON_PRODUCTION] производства. Требует 1 медь, 1 резину, 1 пластик, 2 электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_STRATEGY">
+			<Text>Сборка пассивных и активных элементов аналоговой схемотехники; требует медь, резину и полимеры.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANALOG_ELECTRONICS_FACTORY_TEXT">
+			<Text>Производство резисторов, конденсаторов, реле и т.п., c проверкой параметров и стабильности.</Text>
+		</Row>
+
+		<!-- Большой завод аналоговой электроники -->
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE">
+			<Text>Большой завод аналоговой электроники|Большого завода аналоговой электроники|Большому заводу аналоговой электроники|Большой завод аналоговой электроники|Большим заводом аналоговой электроники|Большом заводе аналоговой электроники</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. аналоговой электроники; +6 [ICON_PRODUCTION] производства. Требует 3 меди, 3 резины, 3 пластика, 6 электричества. 2 инженера. Необходимо наличие завода аналоговой электроники.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_STRATEGY">
+			<Text>Массовый выпуск компонентов аналоговой электроники; повышенные требования к сырью и энергетике.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANALOG_ELECTRONICS_FACTORY_LARGE_TEXT">
+			<Text>Поточные линии, автоматический контроль допусков и надёжности повышают эффективность производства.</Text>
+		</Row>
+
+		<!-- Завод кремниевой электроники -->
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY">
+			<Text>Завод кремниевой электроники|Завода кремниевой электроники|Заводу кремниевой электроники|Завод кремниевой электроники|Заводом кремниевой электроники|Заводе кремниевой электроники</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_HELP">
+			<Text>Производит 2 ед. кремниевой электроники; +2 [ICON_PRODUCTION] производства. Требует 1 кремний, 1 золото, 1 пластик, 3 электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_STRATEGY">
+			<Text>Сборка и упаковка кремниевых устройств: требуется кремний, золото для контактов и полимерные материалы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SILICON_ELECTRONICS_FACTORY_TEXT">
+			<Text>Обработка пластин, металлизация и корпусирование микросхем формируют базу современной электроники.</Text>
+		</Row>
+
+		<!-- Большой завод кремниевой электроники -->
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE">
+			<Text>Большой завод кремниевой электроники|Большого завода кремниевой электроники|Большому заводу кремниевой электроники|Большой завод кремниевой электроники|Большим заводом кремниевой электроники|Большом заводе кремниевой электроники</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. кремниевой электроники; +6 [ICON_PRODUCTION] производства. Требует 3 кремния, 3 золота, 3 пластика, 9 электричества. 2 инженера. Необходимо наличие завода кремниевой электроники.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_STRATEGY">
+			<Text>Высокопроизводительные линии сборки микросхем с увеличенными потребностями в ресурсах и кадрах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SILICON_ELECTRONICS_FACTORY_LARGE_TEXT">
+			<Text>Чистые комнаты, фотолитография и контроль дефектности — ключ к массовому выпуску чипов.</Text>
+		</Row>
+
+		<!-- Завод аккумуляторов -->
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY">
+			<Text>Завод аккумуляторов|Завода аккумуляторов|Заводу аккумуляторов|Завод аккумуляторов|Заводом аккумуляторов|Заводе аккумуляторов</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY_HELP">
+			<Text>Производит 2 ед. аккумуляторов; +2 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Требует 1 литий, 1 аналоговую электронику, 1 пластик, 4 электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY_STRATEGY">
+			<Text>Линии сборки аккумуляторов требуют литий, электронику управления и полимеры; умеренно нагружают пищевой баланс.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BATTERY_FACTORY_TEXT">
+			<Text>Катоды, аноды, сепараторы и электролит собираются в контролируемых условиях, затем проходят цикл заряд-разряд.</Text>
+		</Row>
+
+		<!-- Большой завод аккумуляторов -->
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY_LARGE">
+			<Text>Большой завод аккумуляторов|Большого завода аккумуляторов|Большому заводу аккумуляторов|Большой завод аккумуляторов|Большим заводом аккумуляторов|Большом заводе аккумуляторов</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. аккумуляторов; +6 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Требует 3 лития, 3 аналоговой электроники, 3 пластика, 12 электричества. 2 инженера. Необходимо наличие завода аккумуляторов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATTERY_FACTORY_LARGE_STRATEGY">
+			<Text>Крупные мощности для серийного выпуска батарей с высоким контролем качества и ресурсом циклов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BATTERY_FACTORY_LARGE_TEXT">
+			<Text>Автоматизированные линии намотки и формовки ячеек, тестирование и калибровка батарейных блоков.</Text>
+		</Row>
+
+	</Language_RU_RU>
+</GameData>

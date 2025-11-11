@@ -26,8 +26,8 @@
     <File md5="8E31A84C4765494FB93A146487CBDA04" import="1">Art/Resource_Electricity_45.dds</File>
     <File md5="939DE60180E0696ADF33B051A2E1B5F4" import="1">Art/Resource_Electricity_64.dds</File>
     <File md5="481416093055369B27441162F402A4EE" import="0">Xml/Build/Car/CarBuildingClass.xml</File>
-    <File md5="AE1D24C8E643D5D5C0E6C29660870EEE" import="0">Xml/Build/Car/CarBuildings.xml</File>
-    <File md5="872834D450FD7D9C58E93FD4A90EC57B" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
+    <File md5="EE9604EBD712A259CF9911FEC7E98F45" import="0">Xml/Build/Car/CarBuildings.xml</File>
+    <File md5="53C88559A09C10734AA2AC98A408821E" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
     <File md5="D7DF5CD2182D5A964E7F8245506594A9" import="0">Xml/Build/Clothing/ClothingBuildingClass.xml</File>
     <File md5="3B4C942C4B96B1E6D1287EE99B5B8B65" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
@@ -47,8 +47,14 @@
     <File md5="6803ADEA52C40D20F4BC4E0E78F0B10F" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
     <File md5="7961D765A204AB6ED977F557A5ADC038" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
     <File md5="B9E6EDAEFDE8F2124FBA9AAFA913EDDF" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
-    <File md5="7F7F964C8F7E5FCA6C69CD1733E85265" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
-    <File md5="92881F46D5D70919AF767CB2A426C6D4" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="0FB78D68572A930AFCDFA69BC1161D78" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
+    <File md5="76E3A46001B81B73512361A0CB63E1ED" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
+    <File md5="AAD6BB32C8F4636AFD94DB104433919C" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
+    <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
+    <File md5="8DAF449D5615B1231DA26BE1B6E71C53" import="0">Xml/Build/T3Res/T3ResBuildingClass.xml</File>
+    <File md5="624838989882A02C6C4F75FB683E8FFF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
+    <File md5="43A2DFB4601FB2AEF06E5E6303B9CFF9" import="0">Xml/Build/T3Res/Text_T3ResBuildings.xml</File>
     <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
     <File md5="EB0CE1D97C4F482C1D87874C7FD20C8E" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
     <File md5="7C6E3718B009A0FC5193DC69D339D06D" import="0">Xml/Build/Tourism/Text_TourismBuildings.xml</File>
@@ -66,9 +72,9 @@
     <File md5="3966E348EAB12E11E48CE90D91808AF0" import="0">Xml/Resources/Resources_T2.xml</File>
     <File md5="F3A29BC9820EF10920ADED8E1AA7E9A6" import="0">Xml/Resources/Resources_T3.xml</File>
     <File md5="CB94DF6D9CFDC65F93ABD48E30609EAE" import="0">Xml/Resources/Text_Resource_T1.xml</File>
-    <File md5="9818F482803C07D7532546F6FC2E546A" import="0">Xml/Resources/Text_Resource_T2.xml</File>
-    <File md5="62E1FC6A7F7AE1F36769E79A52F599FE" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
-    <File md5="8D226242091159CDC00D53A4134C1D5D" import="0">Xml/Resources/Text_Resource_T3.xml</File>
+    <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
+    <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
+    <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
     <File md5="638CF1E71F2A48D284EFAE5C4ECAD4B7" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
@@ -118,6 +124,12 @@
       <UpdateDatabase>Xml/Build/War/Text_WarBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/War/WarBuildingClass.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/War/WarBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T2Res/T2ResBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T2Res/T2ResBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T2Res/Text_T2ResBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T3Res/T3ResBuildingClass.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T3Res/T3ResBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/T3Res/Text_T3ResBuildings.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

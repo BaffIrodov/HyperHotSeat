@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/11/2025 -->
+<GameData>
+	<Language_RU_RU>
+
+		<!-- Пороховой завод -->
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY">
+			<Text>Пороховой завод|Порохового завода|Пороховому заводу|Пороховой завод|Пороховым заводом|Пороховом заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY_HELP">
+			<Text>Производит 1 ед. пороха и +2 [ICON_PRODUCTION] производства. Содержание: 5 [ICON_GOLD] золота. Требует 4 ед. электричества.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY_STRATEGY">
+			<Text>Пороховой завод создаёт стратегический ресурс пороха и усиливает производственные мощности города. Требуются устойчивые поставки электроэнергии.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GUNPOWDER_FACTORY_TEXT">
+			<Text>Промышленное производство пороха включает приготовление компонентов, контроль влажности и безопасность процессов. Выпуск пороха критически важен для вооружённых сил и охоты.</Text>
+		</Row>
+
+		<!-- Большой пороховой завод -->
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY_LARGE">
+			<Text>Большой пороховой завод|Большого порохового завода|Большому пороховому заводу|Большой пороховой завод|Большим пороховым заводом|Большом пороховом заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY_LARGE_HELP">
+			<Text>Производит 3 ед. пороха и +6 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Содержание: 20 [ICON_GOLD] золота. Требует 4 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNPOWDER_FACTORY_LARGE_STRATEGY">
+			<Text>Крупный комплекс нацелен на массовый выпуск пороха и серьёзный прирост производства. Снижает пищевые резервы, требует стабильной энергетики и квалифицированного техперсонала.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GUNPOWDER_FACTORY_LARGE_TEXT">
+			<Text>Многоступенчатые линии смешения и грануляции под жёстким контролем качества позволяют выпускать порох серийно, обеспечивая стратегические склады.</Text>
+		</Row>
+
+		<!-- Магнитный завод -->
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY">
+			<Text>Магнитный завод|Магнитного завода|Магнитному заводу|Магнитный завод|Магнитным заводом|Магнитном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_HELP">
+			<Text>Производит 1 ед. магнита и +2 [ICON_PRODUCTION] производства. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. железа и 2 ед. электричества.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_STRATEGY">
+			<Text>Создаёт постоянные магниты для промышленности и энергетики. Нужны поставки железа и электроэнергии.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MAGNET_FACTORY_TEXT">
+			<Text>Технология включает спекание сплавов, термообработку и намагничивание, что обеспечивает высокий остаточный магнетизм и коэрцитивную силу.</Text>
+		</Row>
+
+		<!-- Большой магнитный завод -->
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE">
+			<Text>Большой магнитный завод|Большого магнитного завода|Большому магнитному заводу|Большой магнитный завод|Большим магнитным заводом|Большом магнитном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE_HELP">
+			<Text>Производит 3 ед. магнита и +6 [ICON_PRODUCTION] производства. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. железа и 6 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE_STRATEGY">
+			<Text>Массовое производство высокоэнергетичных магнитов для электродвигателей и генераторов. Требует развитой металлургии и энергетики.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MAGNET_FACTORY_LARGE_TEXT">
+			<Text>Автоматизированные печи и прецизионное намагничивание дают стабильные партии магнитов для промышленности и транспорта.</Text>
+		</Row>
+
+		<!-- Плутониевый завод -->
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY">
+			<Text>Плутониевый завод|Плутониевого завода|Плутониевому заводу|Плутониевый завод|Плутониевым заводом|Плутониевом заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY_HELP">
+			<Text>Производит 1 ед. плутония и +3 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Содержание: 4 [ICON_GOLD] золота. Требует 1 ед. урана и 4 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY_STRATEGY">
+			<Text>Сложный топливный цикл даёт стратегический материал — плутоний. Требует ядерного сырья, энергии и инженерной компетенции; слегка снижает продовольственный баланс.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PLUTONIUM_FACTORY_TEXT">
+			<Text>Переработка облучённого топлива, химическое выделение и очистка плутония выполняются на защищённых линиях с многократным контролем.</Text>
+		</Row>
+
+		<!-- Большой плутониевый завод -->
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY_LARGE">
+			<Text>Большой плутониевый завод|Большого плутониевого завода|Большому плутониевому заводу|Большой плутониевый завод|Большим плутониевым заводом|Большом плутониевом заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY_LARGE_HELP">
+			<Text>Производит 3 ед. плутония и +9 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Содержание: 16 [ICON_GOLD] золота. Требует 3 ед. урана и 12 ед. электричества. 2 инженера.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLUTONIUM_FACTORY_LARGE_STRATEGY">
+			<Text>Высокомощный перерабатывающий комплекс с крупным выпуском плутония и серьёзными требованиями к ресурсам и персоналу.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PLUTONIUM_FACTORY_LARGE_TEXT">
+			<Text>Полный цикл переработки и очистки, радиационная защита и автоматизация процессов — основа стабильного выпуска ядерных материалов.</Text>
+		</Row>
+
+		<!-- Латексный завод -->
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY">
+			<Text>Латексный завод|Латексного завода|Латексному заводу|Латексный завод|Латексным заводом|Латексном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY_HELP">
+			<Text>Производит 1 ед. латекса и +2 [ICON_PRODUCTION] производства. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. каучука и 1 ед. электричества.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY_STRATEGY">
+			<Text>Глубокая переработка каучука в латексные материалы для медицинских и промышленных нужд.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LATEX_FACTORY_TEXT">
+			<Text>Эмульсионные технологии, стабилизаторы и контроль вязкости обеспечивают стабильное качество латекса для разных отраслей.</Text>
+		</Row>
+
+		<!-- Большой латексный завод -->
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY_LARGE">
+			<Text>Большой латексный завод|Большого латексного завода|Большому латексному заводу|Большой латексный завод|Большим латексным заводом|Большом латексном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY_LARGE_HELP">
+			<Text>Производит 3 ед. латекса и +6 [ICON_PRODUCTION] производства. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. каучука и 3 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LATEX_FACTORY_LARGE_STRATEGY">
+			<Text>Крупносерийный выпуск латекса для широкой номенклатуры изделий; предъявляет требования к энергетике и сырью.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LATEX_FACTORY_LARGE_TEXT">
+			<Text>Линии непрерывной коагуляции и сушки обеспечивают высокую производительность и стабильность параметров.</Text>
+		</Row>
+
+		<!-- Стальной завод -->
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY">
+			<Text>Стальной завод|Стального завода|Стальному заводу|Стальной завод|Стальным заводом|Стальном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY_HELP">
+			<Text>Производит 2 ед. стали и +2 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. железа и 3 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY_STRATEGY">
+			<Text>Стальной завод даёт стратегический материал и прирост производства, но повышает нагрузку на пищевое обеспечение города.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STEEL_FACTORY_TEXT">
+			<Text>Доменные печи, конвертеры и прокатные станы формируют базу для машиностроения и строительства.</Text>
+		</Row>
+
+		<!-- Большой стальной завод -->
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY_LARGE">
+			<Text>Большой стальной завод|Большого стального завода|Большому стальному заводу|Большой стальной завод|Большим стальным заводом|Большом стальном заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY_LARGE_HELP">
+			<Text>Производит 6 ед. стали и +6 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. железа и 9 ед. электричества. 2 инженера. Необходимо наличие стального завода.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FACTORY_LARGE_STRATEGY">
+			<Text>Крупный металлургический кластер кратно повышает выпуск стали, но требует мощной энергетики и отнимает продовольственные ресурсы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STEEL_FACTORY_LARGE_TEXT">
+			<Text>Интегрированный металлургический цикл: аглофабрика, доменный и сталеплавильный передел, непрерывная разливка и прокат.</Text>
+		</Row>
+
+		<!-- Нефтеперерабатывающий завод -->
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY">
+			<Text>Нефтеперерабатывающий завод|Нефтеперерабатывающего завода|Нефтеперерабатывающему заводу|Нефтеперерабатывающий завод|Нефтеперерабатывающим заводом|Нефтеперерабатывающем заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_HELP">
+			<Text>Производит 3 ед. резины, 3 ед. пластика и 2 ед. бензина; +1 [ICON_PRODUCTION] производства, -1 [ICON_FOOD] еды. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. нефти и 2 ед. электричества. 1 инженер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_STRATEGY">
+			<Text>НПЗ обеспечивает ключевые химические материалы и топливо, но увеличивает нагрузку на продовольственное снабжение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_OIL_REFINERY_TEXT">
+			<Text>Атмосферная и вакуумная перегонка, крекинг, риформинг и полимеризация — основа ассортимента нефтехимии.</Text>
+		</Row>
+
+		<!-- Большой нефтеперерабатывающий завод -->
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_LARGE">
+			<Text>Большой нефтеперерабатывающий завод|Большого нефтеперерабатывающего завода|Большому нефтеперерабатывающему заводу|Большой нефтеперерабатывающий завод|Большим нефтеперерабатывающим заводом|Большом нефтеперерабатывающем заводе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_LARGE_HELP">
+			<Text>Производит 9 ед. резины, 9 ед. пластика и 6 ед. бензина; +3 [ICON_PRODUCTION] производства, -2 [ICON_FOOD] еды. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. нефти и 6 ед. электричества. 2 инженера. Необходимо наличие НПЗ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OIL_REFINERY_LARGE_STRATEGY">
+			<Text>Крупный нефтехимический узел кратно наращивает выпуск материалов и топлива при возросших требованиях к сырью, энергии и персоналу.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_OIL_REFINERY_LARGE_TEXT">
+			<Text>Интегрированные установки глубокой переработки, логистика и контроль качества обеспечивают стабильные поставки нефтехимии.</Text>
+		</Row>
+
+	</Language_RU_RU>
+</GameData>

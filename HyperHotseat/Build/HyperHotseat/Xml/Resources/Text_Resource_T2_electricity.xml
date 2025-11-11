@@ -8,7 +8,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
-			<Text>Используется для питания зданий и производства высокотехнологичных юнитов.</Text>
+			<Text>Производится в электростанциях. Используется для питания зданий и производства высокотехнологичных юнитов.</Text>
 		</Row>
 	</Language_ru_RU>
 </GameData>

@@ -8,7 +8,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_STEEL_HELP">
-			<Text>Расписать - сталь.</Text>
+			<Text>Производится в стальных заводах. Требует железо.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GASOLINE">
 			<Text>Бензин|бензина|бензину|бензин|бензином|бензине</Text>
@@ -16,7 +16,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GASOLINE_HELP">
-			<Text>Расписать - бензин.</Text>
+			<Text>Производится в НПЗ. Требует нефть.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_RUBBER_VULCANIZED">
 			<Text>Резина|резины|резине|резину|резиной|резине</Text>
@@ -24,7 +24,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_RUBBER_VULCANIZED_HELP">
-			<Text>Расписать - резина.</Text>
+			<Text>Производится в НПЗ. Требует нефть.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_LATEX">
 			<Text>Латекс|латекса|латексу|латекс|латексом|латексе</Text>
@@ -32,7 +32,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_LATEX_HELP">
-			<Text>Расписать - латекс.</Text>
+			<Text>Производится в латексных заводах. Требует каучук.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PLUTONIUM">
 			<Text>Плутоний|плутония|плутонию|плутоний|плутонием|плутонии</Text>
@@ -40,7 +40,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PLUTONIUM_HELP">
-			<Text>Расписать - плутоний.</Text>
+			<Text>Производится в плутониевых заводах. Требует уран.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PLASTIC">
 			<Text>Пластик|пластика|пластику|пластик|пластиком|пластике</Text>
@@ -48,7 +48,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PLASTIC_HELP">
-			<Text>Расписать - пластик.</Text>
+			<Text>Производится в НПЗ. Требует нефть.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MAGNET">
 			<Text>Магнит|магнита|магниту|магнит|магнитом|магните</Text>
@@ -56,7 +56,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MAGNET_HELP">
-			<Text>Расписать - магнит.</Text>
+			<Text>Производится в магнитных заводах. Требует железо.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GUNPOWDER">
 			<Text>Порох|пороха|пороху|порох|порохом|порохе</Text>
@@ -64,7 +64,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_GUNPOWDER_HELP">
-			<Text>Расписать - порох.</Text>
+			<Text>Производится в пороховых заводах.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PENICILLIN">
 			<Text>Пенициллин|пенициллина|пенициллину|пенициллин|пенициллином|пенициллине</Text>
@@ -72,7 +72,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_PENICILLIN_HELP">
-			<Text>Расписать - пенициллин.</Text>
+			<Text>Производится в научных лабораториях. Требует латекс.</Text>
 		</Row>
 	</Language_ru_RU>
 </GameData>

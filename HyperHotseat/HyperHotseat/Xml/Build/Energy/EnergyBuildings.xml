@@ -223,7 +223,6 @@
 			<Strategy>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_STRATEGY</Strategy>
 			<Help>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_HELP</Help>
 			<ArtDefineTag>ART_DEF_BUILDING_HYDRO_PLANT</ArtDefineTag>
-			<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
@@ -241,7 +240,6 @@
 			<Strategy>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_LARGE_STRATEGY</Strategy>
 			<Help>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_LARGE_HELP</Help>
 			<ArtDefineTag>ART_DEF_BUILDING_HYDRO_PLANT</ArtDefineTag>
-			<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
@@ -377,12 +375,12 @@
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>10</Quantity>
+			<Quantity>20</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>30</Quantity>
+			<Quantity>60</Quantity>
 		</Row>
 	</Building_ResourceQuantity>
 
@@ -455,12 +453,12 @@
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>2</Yield>
+			<Yield>5</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT_LARGE</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>4</Yield>
+			<Yield>10</Yield>
 		</Row>
 	</Building_YieldChanges>
 

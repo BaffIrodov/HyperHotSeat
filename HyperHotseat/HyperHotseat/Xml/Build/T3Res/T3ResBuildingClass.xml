@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+
+		<!-- Броневой стальной завод -->
+		<Row>
+			<Type>BUILDINGCLASS_ARMOR_STEEL_FACTORY</Type>
+			<DefaultBuilding>BUILDING_ARMOR_STEEL_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ARMOR_STEEL_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_ARMOR_STEEL_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Броневой композитный завод -->
+		<Row>
+			<Type>BUILDINGCLASS_ARMOR_COMPOSITE_FACTORY</Type>
+			<DefaultBuilding>BUILDING_ARMOR_COMPOSITE_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ARMOR_COMPOSITE_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Завод боеприпасов -->
+		<Row>
+			<Type>BUILDINGCLASS_AMMUNITION_FACTORY</Type>
+			<DefaultBuilding>BUILDING_AMMUNITION_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_AMMUNITION_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_AMMUNITION_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_AMMUNITION_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_AMMUNITION_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Завод аналоговой электроники -->
+		<Row>
+			<Type>BUILDINGCLASS_ANALOG_ELECTRONICS_FACTORY</Type>
+			<DefaultBuilding>BUILDING_ANALOG_ELECTRONICS_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ANALOG_ELECTRONICS_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Завод кремниевой электроники -->
+		<Row>
+			<Type>BUILDINGCLASS_SILICON_ELECTRONICS_FACTORY</Type>
+			<DefaultBuilding>BUILDING_SILICON_ELECTRONICS_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SILICON_ELECTRONICS_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE</Description>
+		</Row>
+
+		<!-- Завод аккумуляторов -->
+		<Row>
+			<Type>BUILDINGCLASS_BATTERY_FACTORY</Type>
+			<DefaultBuilding>BUILDING_BATTERY_FACTORY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BATTERY_FACTORY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BATTERY_FACTORY_LARGE</Type>
+			<DefaultBuilding>BUILDING_BATTERY_FACTORY_LARGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BATTERY_FACTORY_LARGE</Description>
+		</Row>
+
+	</BuildingClasses>
+</GameData>

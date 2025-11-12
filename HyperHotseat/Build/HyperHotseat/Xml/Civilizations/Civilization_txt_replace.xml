@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/12/2025 11:21:58 PM -->
+<GameData>
+	<Language_RU_RU>
+		<!-- США -->
+		<Replace Tag="TXT_KEY_LEADER_WASHINGTON">
+			<Text>США</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Канада -->
+		<Replace Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
+			<Text>Канадск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_NETHERLANDS_DESC">
+			<Text>Канада</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_NETHERLANDS_SHORT_DESC">
+			<Text>Канада</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_WILLIAM">
+			<Text>Канада</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Мексика -->
+		<Replace Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE">
+			<Text>Мексиканск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AZTEC_DESC">
+			<Text>Мексика</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AZTEC_SHORT_DESC">
+			<Text>Мексика</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_MONTEZUMA">
+			<Text>Мексика</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Бразилия -->
+		<Replace Tag="TXT_KEY_CIV_BRAZIL_ADJECTIVE">
+			<Text>Бразильск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BRAZIL_DESC">
+			<Text>Бразилия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BRAZIL_SHORT_DESC">
+			<Text>Бразилия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_PEDRO">
+			<Text>Бразилия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Аргентинская федерация -->
+		<Replace Tag="TXT_KEY_CIV_INCA_ADJECTIVE">
+			<Text>Аргентинск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_INCA_DESC">
+			<Text>Аргентинская федерация</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_INCA_SHORT_DESC">
+			<Text>Аргентинская федерация</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_PACHACUTI">
+			<Text>Аргентинская федерация</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Колумбийский блок -->
+		<Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE">
+			<Text>Колумбийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC">
+			<Text>Колумбийский блок</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC">
+			<Text>Колумбийский блок</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_POCATELLO">
+			<Text>Колумбийский блок</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Панамское содружество -->
+		<Replace Tag="TXT_KEY_CIV_IROQUOIS_ADJECTIVE">
+			<Text>Панамск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_IROQUOIS_DESC">
+			<Text>Панамское содружество</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_IROQUOIS_SHORT_DESC">
+			<Text>Панамское содружество</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_HIAWATHA">
+			<Text>Панамское содружество</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Великобритания -->
+		<Replace Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE">
+			<Text>Британск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ENGLAND_DESC">
+			<Text>Великобритания</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC">
+			<Text>Великобритания</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_ELIZABETH">
+			<Text>Великобритания</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Франция -->
+		<Replace Tag="TXT_KEY_LEADER_NAPOLEON">
+			<Text>Франция</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Германия -->
+		<Replace Tag="TXT_KEY_LEADER_BISMARCK">
+			<Text>Германия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Испания -->
+		<Replace Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>Испания</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Италия -->
+		<Replace Tag="TXT_KEY_CIV_ROME_ADJECTIVE">
+			<Text>Итальянск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ROME_DESC">
+			<Text>Италия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ROME_SHORT_DESC">
+			<Text>Италия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_AUGUSTUS">
+			<Text>Италия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Скандинавия -->
+		<Replace Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE">
+			<Text>Скандинавск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SWEDEN_DESC">
+			<Text>Скандинавия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC">
+			<Text>Скандинавия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Скандинавия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Польская конфедерация -->
+		<Replace Tag="TXT_KEY_CIV_POLAND_ADJECTIVE">
+			<Text>Польск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_POLAND_DESC">
+			<Text>Польская конфедерация</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_POLAND_SHORT_DESC">
+			<Text>Польская конфедерация</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_CASIMIR">
+			<Text>Польская конфедерация</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Балканский альянс -->
+		<Replace Tag="TXT_KEY_CIV_GREECE_ADJECTIVE">
+			<Text>Балканск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_GREECE_DESC">
+			<Text>Балканский альянс</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_GREECE_SHORT_DESC">
+			<Text>Балканский альянс</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_ALEXANDER">
+			<Text>Балканский альянс</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Турция -->
+		<Replace Tag="TXT_KEY_CIV_OTTOMAN_ADJECTIVE">
+			<Text>Турецк.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_OTTOMAN_DESC">
+			<Text>Турция</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_OTTOMAN_SHORT_DESC">
+			<Text>Турция</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_SULEIMAN">
+			<Text>Турция</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Иран -->
+		<Replace Tag="TXT_KEY_CIV_PERSIA_ADJECTIVE">
+			<Text>Иранск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_PERSIA_DESC">
+			<Text>Иран</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_PERSIA_SHORT_DESC">
+			<Text>Иран</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_DARIUS">
+			<Text>Иран</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Арабский халифат -->
+		<Replace Tag="TXT_KEY_CIV_ARABIA_ADJECTIVE">
+			<Text>Аравийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ARABIA_DESC">
+			<Text>Арабский халифат</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ARABIA_SHORT_DESC">
+			<Text>Арабский халифат</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_HARUN">
+			<Text>Арабский халифат</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Египетский союз -->
+		<Replace Tag="TXT_KEY_CIV_EGYPT_ADJECTIVE">
+			<Text>Египетск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_EGYPT_DESC">
+			<Text>Египетский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_EGYPT_SHORT_DESC">
+			<Text>Египетский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_RAMESSES">
+			<Text>Египетский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Марокканский магриб -->
+		<Replace Tag="TXT_KEY_CIV_MOROCCO_ADJECTIVE">
+			<Text>Марокканск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MOROCCO_DESC">
+			<Text>Марокканский магриб</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MOROCCO_SHORT_DESC">
+			<Text>Марокканский магриб</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR">
+			<Text>Марокканский магриб</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Федерация Мали -->
+		<Replace Tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
+			<Text>Малийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_HUNS_DESC">
+			<Text>Федерация Мали</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
+			<Text>Федерация Мали</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_ATTILA">
+			<Text>Федерация Мали</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Западная Африка -->
+		<Replace Tag="TXT_KEY_CIV_ZULU_ADJECTIVE">
+			<Text>Западноафриканск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ZULU_DESC">
+			<Text>Западная Африка</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ZULU_SHORT_DESC">
+			<Text>Западная Африка</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_SHAKA">
+			<Text>Западная Африка</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Либерийский союз -->
+		<Replace Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
+			<Text>Либерийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_CELTS_DESC">
+			<Text>Либерийский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
+			<Text>Либерийский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_BOUDICCA">
+			<Text>Либерийский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Конго -->
+		<Replace Tag="TXT_KEY_CIV_ASSYRIA_ADJECTIVE">
+			<Text>Конгск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ASSYRIA_DESC">
+			<Text>Конго</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ASSYRIA_SHORT_DESC">
+			<Text>Конго</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_ASHURBANIPAL">
+			<Text>Конго</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Эфиопский союз -->
+		<Replace Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+			<Text>Эфиопск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
+			<Text>Эфиопский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
+			<Text>Эфиопский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>Эфиопский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Южноафриканский союз -->
+		<Replace Tag="TXT_KEY_CIV_AUSTRIA_ADJECTIVE">
+			<Text>Южноафриканск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AUSTRIA_DESC">
+			<Text>Южноафриканский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AUSTRIA_SHORT_DESC">
+			<Text>Южноафриканский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_MARIA">
+			<Text>Южноафриканский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Мадагаскар -->
+		<Replace Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE">
+			<Text>Мадагаскарск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_CARTHAGE_DESC">
+			<Text>Мадагаскар</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC">
+			<Text>Мадагаскар</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_DIDO">
+			<Text>Мадагаскар</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Россия -->
+		<Replace Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE">
+			<Text>Русск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_RUSSIA_DESC">
+			<Text>Россия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC">
+			<Text>Россия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_CATHERINE">
+			<Text>Россия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Казахский союз  -->
+		<Replace Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
+			<Text>Казахск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SONGHAI_DESC">
+			<Text>Казахский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SONGHAI_SHORT_DESC">
+			<Text>Казахский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_ASKIA">
+			<Text>Казахский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Китай -->
+		<Replace Tag="TXT_KEY_LEADER_WU_ZETIAN">
+			<Text>Китай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Монголия -->
+		<Replace Tag="TXT_KEY_CIV_MONGOL_ADJECTIVE">
+			<Text>Монгольск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MONGOL_DESC">
+			<Text>Монголия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MONGOL_SHORT_DESC">
+			<Text>Монголия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_GENGHIS_KHAN">
+			<Text>Монголия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Индия -->
+		<Replace Tag="TXT_KEY_LEADER_GANDHI">
+			<Text>Индия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Пакистанский халифат -->
+		<Replace Tag="TXT_KEY_CIV_BABYLON_ADJECTIVE">
+			<Text>Пакистанск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BABYLON_DESC">
+			<Text>Пакистанский халифат</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BABYLON_SHORT_DESC">
+			<Text>Пакистанский халифат</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR">
+			<Text>Пакистанский халифат</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Индокитай -->
+		<Replace Tag="TXT_KEY_CIV_SIAM_ADJECTIVE">
+			<Text>Индокитайск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SIAM_DESC">
+			<Text>Индокитай</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_SIAM_SHORT_DESC">
+			<Text>Индокитай</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
+			<Text>Индокитай</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Малайзия -->
+		<Replace Tag="TXT_KEY_CIV_MAYA_ADJECTIVE">
+			<Text>Малайск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MAYA_DESC">
+			<Text>Малайзия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_MAYA_SHORT_DESC">
+			<Text>Малайзия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_PACAL">
+			<Text>Малайзия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Индонезия -->
+		<Replace Tag="TXT_KEY_CIV_INDONESIA_ADJECTIVE">
+			<Text>Индонезийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_INDONESIA_DESC">
+			<Text>Индонезия</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_INDONESIA_SHORT_DESC">
+			<Text>Индонезия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_GAJAH_MADA">
+			<Text>Индонезия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Корея -->
+		<Replace Tag="TXT_KEY_LEADER_SEJONG">
+			<Text>Корея</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Япония -->
+		<Replace Tag="TXT_KEY_LEADER_ODA_NOBUNAGA">
+			<Text>Япония</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Австралия -->
+		<Replace Tag="TXT_KEY_CIV_PORTUGAL_ADJECTIVE">
+			<Text>Австралийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_PORTUGAL_DESC">
+			<Text>Австралия</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_PORTUGAL_SHORT_DESC">
+			<Text>Австралия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_MARIA_I">
+			<Text>Австралия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Новая Зеландия -->
+		<Replace Tag="TXT_KEY_CIV_BYZANTIUM_ADJECTIVE">
+			<Text>Новозеландск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BYZANTIUM_DESC">
+			<Text>Новая Зеландия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_BYZANTIUM_SHORT_DESC">
+			<Text>Новая Зеландия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_THEODORA">
+			<Text>Феодора</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Полинезийский союз -->
+		<Replace Tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">
+			<Text>Полинезийск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_POLYNESIA_DESC">
+			<Text>Полинезийский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC">
+			<Text>Полинезийский союз</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_KAMEHAMEHA">
+			<Text>Полинезийский союз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<!-- Исландия -->
+		<Replace Tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
+			<Text>Исландск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_DENMARK_DESC">
+			<Text>Исландия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_DENMARK_SHORT_DESC">
+			<Text>Исландия</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_LEADER_HARALD">
+			<Text>Исландия</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</Language_RU_RU>
+</GameData>

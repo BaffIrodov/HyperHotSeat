@@ -277,6 +277,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>Xml/Build/T3Res/Text_T3ResBuildings.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Civilizations/Civilization_txt_replace.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -306,6 +311,7 @@
     <Folder Include="Xml\Build\T3Res" />
     <Folder Include="Xml\Build\T2Res" />
     <Folder Include="Xml\Build\Tourism" />
+    <Folder Include="Xml\Civilizations" />
     <Folder Include="Xml\Policies" />
     <Folder Include="Xml\Units" />
     <Folder Include="Xml\Resources" />
@@ -464,6 +470,10 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="Xml\Build\War\Text_WarBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Civilizations\Civilization_txt_replace.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

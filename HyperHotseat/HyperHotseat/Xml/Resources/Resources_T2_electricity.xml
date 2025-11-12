@@ -8,7 +8,7 @@
 			<Help>TXT_KEY_RESOURCE_ELECTRICITY_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_RELIGION_PANTHEON]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_ELECTRICITY_ATLAS</IconAtlas>

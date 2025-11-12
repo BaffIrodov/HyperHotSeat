@@ -11,7 +11,7 @@
 			<ArtDefineTagHeavy>ART_DEF_RESOURCE_ALUMINUM_HEAVY</ArtDefineTagHeavy>
 			<AltArtDefineTag>ART_DEF_RESOURCE_ALUMINUM_MARSH</AltArtDefineTag>
 			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_ALUMINUM_HEAVY_MARSH</AltArtDefineTagHeavy>
-			<IconString>[ICON_TEAM_1]</IconString>
+			<IconString>[ICON_WTF2]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_LITHIUM_ATLAS</IconAtlas>
@@ -25,7 +25,7 @@
 			<ArtDefineTagHeavy>ART_DEF_RESOURCE_ALUMINUM_HEAVY</ArtDefineTagHeavy>
 			<AltArtDefineTag>ART_DEF_RESOURCE_ALUMINUM_MARSH</AltArtDefineTag>
 			<AltArtDefineTagHeavy>ART_DEF_RESOURCE_ALUMINUM_HEAVY_MARSH</AltArtDefineTagHeavy>
-			<IconString>[ICON_TEAM_1]</IconString>
+			<IconString>[ICON_RES_STONE]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_SILICON_ATLAS</IconAtlas>

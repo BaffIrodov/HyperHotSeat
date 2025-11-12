@@ -8,7 +8,7 @@
 			<Help>TXT_KEY_RESOURCE_STEEL_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_STAR]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_STEEL_ATLAS</IconAtlas>
@@ -19,7 +19,7 @@
 			<Help>TXT_KEY_RESOURCE_GASOLINE_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_MOVES]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_GASOLINE_ATLAS</IconAtlas>
@@ -30,7 +30,7 @@
 			<Help>TXT_KEY_RESOURCE_RUBBER_VULCANIZED_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_RELIGION_HINDUISM]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_RUBBER_VULCANIZED_ATLAS</IconAtlas>
@@ -41,7 +41,7 @@
 			<Help>TXT_KEY_RESOURCE_LATEX_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_RESISTANCE]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_LATEX_ATLAS</IconAtlas>
@@ -52,7 +52,7 @@
 			<Help>TXT_KEY_RESOURCE_PLUTONIUM_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_INQUISITOR]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_PLUTONIUM_ATLAS</IconAtlas>
@@ -63,7 +63,7 @@
 			<Help>TXT_KEY_RESOURCE_PLASTIC_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_RES_PORCELAIN]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_PLASTIC_ATLAS</IconAtlas>
@@ -74,7 +74,7 @@
 			<Help>TXT_KEY_RESOURCE_MAGNET_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_2]</IconString>
+			<IconString>[ICON_RELIGION_SHINTO]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_MAGNET_ATLAS</IconAtlas>

@@ -61,16 +61,17 @@
     <File md5="161AF71D555B4B97AA3C9567973D6ECC" import="0">Xml/Build/War/WarBuildingClass.xml</File>
     <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
     <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
+    <File md5="725A7F9FF34D01A58A3325AD1A3A3495" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
     <File md5="29C04B741DD38A19A145B14652D651FF" import="0">Xml/Policies/ReplacedPolicies.xml</File>
     <File md5="3617A1233CA67329D1554EAA98AD3EBD" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
     <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
     <File md5="9AB8F2CD7FB48EAEB39EF8A211B9D458" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
     <File md5="65FB144CC02E842046B886E68985F9B8" import="0">Xml/Resources/Icons_Resources_T2_electricity.xml</File>
     <File md5="667128488D2B0B3F5E305CF29BCE6A2D" import="0">Xml/Resources/Icons_Resources_T3.xml</File>
-    <File md5="47CDCF85CF52F7730F91A9504400E1BF" import="0">Xml/Resources/Resources_T1.xml</File>
-    <File md5="B380542236792488635EF26A966EB7E4" import="0">Xml/Resources/Resources_T2_electricity.xml</File>
-    <File md5="3966E348EAB12E11E48CE90D91808AF0" import="0">Xml/Resources/Resources_T2.xml</File>
-    <File md5="F3A29BC9820EF10920ADED8E1AA7E9A6" import="0">Xml/Resources/Resources_T3.xml</File>
+    <File md5="2FF64235DF19C433063823CCB4B85996" import="0">Xml/Resources/Resources_T1.xml</File>
+    <File md5="63262E5EF9B50F48F7FFF18AF0E7CCA0" import="0">Xml/Resources/Resources_T2_electricity.xml</File>
+    <File md5="D55AE3D845B2487D2F2F4C05E391DDA9" import="0">Xml/Resources/Resources_T2.xml</File>
+    <File md5="F6333F6B3D0DA29B3134EB60577005F6" import="0">Xml/Resources/Resources_T3.xml</File>
     <File md5="CB94DF6D9CFDC65F93ABD48E30609EAE" import="0">Xml/Resources/Text_Resource_T1.xml</File>
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
@@ -130,6 +131,7 @@
       <UpdateDatabase>Xml/Build/T3Res/T3ResBuildingClass.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/T3Res/T3ResBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/T3Res/Text_T3ResBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Civilizations/Civilization_txt_replace.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

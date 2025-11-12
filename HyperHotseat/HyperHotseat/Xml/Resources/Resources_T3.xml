@@ -8,7 +8,7 @@
 			<Help>TXT_KEY_RESOURCE_STEEL_ARMOR_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_CONNECTED]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_STEEL_ARMOR_ATLAS</IconAtlas>
@@ -19,7 +19,7 @@
 			<Help>TXT_KEY_RESOURCE_COMPOSITE_ARMOR_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_BLOCKADED]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_COMPOSITE_ARMOR_ATLAS</IconAtlas>
@@ -30,7 +30,7 @@
 			<Help>TXT_KEY_RESOURCE_AMMUNITION_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_RANGE_STRENGTH]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_AMMUNITION_ATLAS</IconAtlas>
@@ -41,7 +41,7 @@
 			<Help>TXT_KEY_RESOURCE_ANALOG_ELECTRONICS_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_TRADE_WHITE]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_ANALOG_ELECTRONICS_ATLAS</IconAtlas>
@@ -52,7 +52,7 @@
 			<Help>TXT_KEY_RESOURCE_SILICON_ELECTRONICS_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_TRADE]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_SILICON_ELECTRONICS_ATLAS</IconAtlas>
@@ -63,7 +63,7 @@
 			<Help>TXT_KEY_RESOURCE_MILITARY_CLOTHING_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_PIRATE]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_MILITARY_CLOTHING_ATLAS</IconAtlas>
@@ -74,7 +74,7 @@
 			<Help>TXT_KEY_RESOURCE_BATTERY_HELP</Help>
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_URANIUM</ArtDefineTag>
-			<IconString>[ICON_TEAM_3]</IconString>
+			<IconString>[ICON_ALPHA]</IconString>
 			<PortraitIndex>0</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
 			<IconAtlas>RESOURCE_BATTERY_ATLAS</IconAtlas>

@@ -8,6 +8,19 @@
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AMERICA_ADJECTIVE">
+			<Text>Американск.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AMERICA_DESC">
+			<Text>США</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV_AMERICA_SHORT_DESC">
+			<Text>США</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
 		<!-- Канада -->
 		<Replace Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
 			<Text>Канадск.</Text>
@@ -65,60 +78,60 @@
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Аргентинская федерация -->
+		<!-- Аргентинский союз -->
 		<Replace Tag="TXT_KEY_CIV_INCA_ADJECTIVE">
 			<Text>Аргентинск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_INCA_DESC">
-			<Text>Аргентинская федерация</Text>
+			<Text>Аргентинский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_INCA_SHORT_DESC">
-			<Text>Аргентинская федерация</Text>
+			<Text>Аргентинский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_PACHACUTI">
-			<Text>Аргентинская федерация</Text>
+			<Text>Аргентинский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Колумбийский блок -->
+		<!-- Колумбийский союз -->
 		<Replace Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE">
 			<Text>Колумбийск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_SHOSHONE_DESC">
-			<Text>Колумбийский блок</Text>
+			<Text>Колумбийский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC">
-			<Text>Колумбийский блок</Text>
+			<Text>Колумбийский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_POCATELLO">
-			<Text>Колумбийский блок</Text>
+			<Text>Колумбийский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Панамское содружество -->
+		<!-- Панамский союз -->
 		<Replace Tag="TXT_KEY_CIV_IROQUOIS_ADJECTIVE">
 			<Text>Панамск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_IROQUOIS_DESC">
-			<Text>Панамское содружество</Text>
+			<Text>Панамский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_IROQUOIS_SHORT_DESC">
-			<Text>Панамское содружество</Text>
+			<Text>Панамский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_HIAWATHA">
-			<Text>Панамское содружество</Text>
+			<Text>Панамский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
@@ -197,41 +210,41 @@
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Польская конфедерация -->
+		<!-- Польский союз -->
 		<Replace Tag="TXT_KEY_CIV_POLAND_ADJECTIVE">
 			<Text>Польск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_POLAND_DESC">
-			<Text>Польская конфедерация</Text>
+			<Text>Польский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_POLAND_SHORT_DESC">
-			<Text>Польская конфедерация</Text>
+			<Text>Польский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_CASIMIR">
-			<Text>Польская конфедерация</Text>
+			<Text>Польский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Балканский альянс -->
+		<!-- Балканский союз -->
 		<Replace Tag="TXT_KEY_CIV_GREECE_ADJECTIVE">
 			<Text>Балканск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_GREECE_DESC">
-			<Text>Балканский альянс</Text>
+			<Text>Балканский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_GREECE_SHORT_DESC">
-			<Text>Балканский альянс</Text>
+			<Text>Балканский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_ALEXANDER">
-			<Text>Балканский альянс</Text>
+			<Text>Балканский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
@@ -330,22 +343,22 @@
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Федерация Мали -->
+		<!-- Малийский союз -->
 		<Replace Tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
 			<Text>Малийск.</Text>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_HUNS_DESC">
-			<Text>Федерация Мали</Text>
+			<Text>Малийский союз</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
-			<Text>Федерация Мали</Text>
+			<Text>Малийский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_ATTILA">
-			<Text>Федерация Мали</Text>
+			<Text>Малийский союз</Text>
 			<Gender>masculine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
@@ -482,7 +495,7 @@
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>
-		<!-- Казахский союз  -->
+		<!-- Казахский союз -->
 		<Replace Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
 			<Text>Казахск.</Text>
 		</Replace>
@@ -654,7 +667,7 @@
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Tag="TXT_KEY_LEADER_THEODORA">
-			<Text>Феодора</Text>
+			<Text>Новая Зеландия</Text>
 			<Gender>feminine</Gender>
 			<Plurality>1</Plurality>
 		</Replace>

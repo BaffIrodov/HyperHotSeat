@@ -61,9 +61,10 @@
     <File md5="161AF71D555B4B97AA3C9567973D6ECC" import="0">Xml/Build/War/WarBuildingClass.xml</File>
     <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
     <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
-    <File md5="725A7F9FF34D01A58A3325AD1A3A3495" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
+    <File md5="9F0595B29D4E97629565A7D0E88D3F69" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
     <File md5="29C04B741DD38A19A145B14652D651FF" import="0">Xml/Policies/ReplacedPolicies.xml</File>
     <File md5="3617A1233CA67329D1554EAA98AD3EBD" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
+    <File md5="0DB26F3B506BA182D6B1BD3300316E0D" import="0">Xml/Religions/Beliefs.xml</File>
     <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
     <File md5="9AB8F2CD7FB48EAEB39EF8A211B9D458" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
     <File md5="65FB144CC02E842046B886E68985F9B8" import="0">Xml/Resources/Icons_Resources_T2_electricity.xml</File>
@@ -76,7 +77,7 @@
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
-    <File md5="638CF1E71F2A48D284EFAE5C4ECAD4B7" import="0">Xml/Units/Units.xml</File>
+    <File md5="0C6FE5AAE712BF6412B8B15F069A38D8" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -132,6 +133,7 @@
       <UpdateDatabase>Xml/Build/T3Res/T3ResBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/T3Res/Text_T3ResBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Civilizations/Civilization_txt_replace.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Religions/Beliefs.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

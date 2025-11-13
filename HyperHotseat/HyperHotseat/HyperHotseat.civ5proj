@@ -282,6 +282,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>Xml/Civilizations/Civilization_txt_replace.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Religions/Beliefs.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -312,6 +317,7 @@
     <Folder Include="Xml\Build\T2Res" />
     <Folder Include="Xml\Build\Tourism" />
     <Folder Include="Xml\Civilizations" />
+    <Folder Include="Xml\Religions" />
     <Folder Include="Xml\Policies" />
     <Folder Include="Xml\Units" />
     <Folder Include="Xml\Resources" />
@@ -482,6 +488,10 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="Xml\Policies\Text_ReplacedPolicies.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Religions\Beliefs.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

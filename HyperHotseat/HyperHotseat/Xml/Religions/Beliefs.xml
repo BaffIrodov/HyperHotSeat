@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/13/2025 10:11:00 PM -->
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_TITHE_1</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_1</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_1</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_TITHE_2</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_2</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_2</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_TITHE_3</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_3</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_3</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_TITHE_4</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_4</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_4</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_TITHE_5</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_5</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_5</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_TITHE_6</Type>
+			<Description>TXT_KEY_BELIEF_TITHE_6</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT_6</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+	</Beliefs>
+	<Language_RU_RU>
+		<Replace Tag="TXT_KEY_BELIEF_TITHE">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 1</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_1">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_2">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_3">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_4">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_5">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_6">
+			<Text>Дает +1 [ICON_GOLD] к золоту за каждых 4 почитателей этой религии 7</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_BELIEF_TITHE_SHORT">
+			<Text>Церковная десятина 1</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_1">
+			<Text>Церковная десятина 2</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_2">
+			<Text>Церковная десятина 3</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_3">
+			<Text>Церковная десятина 4</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_4">
+			<Text>Церковная десятина 5</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_5">
+			<Text>Церковная десятина 6</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT_6">
+			<Text>Церковная десятина 7</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_RU_RU>
+</GameData>

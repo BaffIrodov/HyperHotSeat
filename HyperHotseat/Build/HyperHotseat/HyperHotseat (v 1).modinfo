@@ -36,7 +36,7 @@
     <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
     <File md5="6AC884E1E0B1812E40ED703B804C67F9" import="0">Xml/Build/Entertainment/EntertainmentBuildingClass.xml</File>
     <File md5="0EFCD96DF595EF5476E80216F732D6EA" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
-    <File md5="6D0BCD8E4C677E5A646B9EECCD51C467" import="0">Xml/Build/Entertainment/Icons_Entertainment.xml</File>
+    <File md5="C3EE2477B51B17CAAB7C8DB3A1E4DF13" import="0">Xml/Build/Entertainment/Icons_Entertainment.xml</File>
     <File md5="5408FD21642F7C47BA78EE4752E1E149" import="0">Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</File>
     <File md5="ABEBFE83B59B20302397FC2AE9523A26" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
     <File md5="5B18D2264221EF304845AD18D100D76E" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
@@ -66,6 +66,7 @@
     <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
     <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
     <File md5="9F0595B29D4E97629565A7D0E88D3F69" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
+    <File md5="AA4867665978A253056C7F681B3126DD" import="0">Xml/ONE_CITY_RANGE.xml</File>
     <File md5="6C8402AB427AA600E2DF8613844353E6" import="0">Xml/Policies/ReplacedPolicies.xml</File>
     <File md5="155BC845B7B7A7DD88CA39FB3CAA8A74" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
     <File md5="0DB26F3B506BA182D6B1BD3300316E0D" import="0">Xml/Religions/Beliefs.xml</File>
@@ -144,6 +145,7 @@
       <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/Entertainment/Icons_Entertainment.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/ONE_CITY_RANGE.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

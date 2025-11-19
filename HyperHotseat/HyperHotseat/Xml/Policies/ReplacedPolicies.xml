@@ -13,7 +13,7 @@
 			<PortraitIndex>25</PortraitIndex>
 			<IconAtlas>POLICY_ATLAS</IconAtlas>
 			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
-			<SharedIdeologyTradeGoldChange>15</SharedIdeologyTradeGoldChange>
+			<SharedIdeologyTradeGoldChange>12</SharedIdeologyTradeGoldChange>
 		</Replace>
 		<Replace>
 			<Type>POLICY_FIVE_YEAR_PLAN</Type>
@@ -32,12 +32,17 @@
 		<Row>
 			<PolicyType>POLICY_FIVE_YEAR_PLAN</PolicyType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>10</Yield>
+			<Yield>5</Yield>
 		</Row>
 		<Row>
 			<PolicyType>POLICY_FIVE_YEAR_PLAN</PolicyType>
 			<YieldType>YIELD_FOOD</YieldType>
-			<Yield>10</Yield>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_FIVE_YEAR_PLAN</PolicyType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
 		</Row>
 	</Policy_CityYieldChanges>
 </GameData>

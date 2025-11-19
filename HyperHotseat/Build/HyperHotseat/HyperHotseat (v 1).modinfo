@@ -22,6 +22,9 @@
   <References />
   <Blocks />
   <Files>
+    <File md5="DD0392D5979A57111F4DAD2CBB081D84" import="1">Art/Building/BUILDING_TELEVISION_32.dds</File>
+    <File md5="DD4968394715C8853A00A041D7576FF8" import="1">Art/Building/BUILDING_TELEVISION_45.dds</File>
+    <File md5="5344D197089A07E0E0ABA367DE6EBAA0" import="1">Art/Building/BUILDING_TELEVISION_64.dds</File>
     <File md5="763EEAD41CFDC20D722761565551AE68" import="1">Art/Resource_Electricity_32.dds</File>
     <File md5="8E31A84C4765494FB93A146487CBDA04" import="1">Art/Resource_Electricity_45.dds</File>
     <File md5="939DE60180E0696ADF33B051A2E1B5F4" import="1">Art/Resource_Electricity_64.dds</File>
@@ -32,7 +35,8 @@
     <File md5="3B4C942C4B96B1E6D1287EE99B5B8B65" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
     <File md5="6AC884E1E0B1812E40ED703B804C67F9" import="0">Xml/Build/Entertainment/EntertainmentBuildingClass.xml</File>
-    <File md5="3A1462F4848360B7515F7F5ECF765AD6" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
+    <File md5="0EFCD96DF595EF5476E80216F732D6EA" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
+    <File md5="6D0BCD8E4C677E5A646B9EECCD51C467" import="0">Xml/Build/Entertainment/Icons_Entertainment.xml</File>
     <File md5="5408FD21642F7C47BA78EE4752E1E149" import="0">Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</File>
     <File md5="ABEBFE83B59B20302397FC2AE9523A26" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
     <File md5="5B18D2264221EF304845AD18D100D76E" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
@@ -50,7 +54,7 @@
     <File md5="0FB78D68572A930AFCDFA69BC1161D78" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
     <File md5="76E3A46001B81B73512361A0CB63E1ED" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
     <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
-    <File md5="AAD6BB32C8F4636AFD94DB104433919C" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
+    <File md5="81CE9FAC6D3CA75B05F9560988350FB8" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
     <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
     <File md5="8DAF449D5615B1231DA26BE1B6E71C53" import="0">Xml/Build/T3Res/T3ResBuildingClass.xml</File>
     <File md5="624838989882A02C6C4F75FB683E8FFF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
@@ -62,8 +66,8 @@
     <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
     <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
     <File md5="9F0595B29D4E97629565A7D0E88D3F69" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
-    <File md5="29C04B741DD38A19A145B14652D651FF" import="0">Xml/Policies/ReplacedPolicies.xml</File>
-    <File md5="3617A1233CA67329D1554EAA98AD3EBD" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
+    <File md5="6C8402AB427AA600E2DF8613844353E6" import="0">Xml/Policies/ReplacedPolicies.xml</File>
+    <File md5="155BC845B7B7A7DD88CA39FB3CAA8A74" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
     <File md5="0DB26F3B506BA182D6B1BD3300316E0D" import="0">Xml/Religions/Beliefs.xml</File>
     <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
     <File md5="9AB8F2CD7FB48EAEB39EF8A211B9D458" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
@@ -77,11 +81,14 @@
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
-    <File md5="0C6FE5AAE712BF6412B8B15F069A38D8" import="0">Xml/Units/Units.xml</File>
+    <File md5="EB3F148ABE5E5E3095870B6C677BBE5A" import="0">Xml/Units/OldDisabledUnits.xml</File>
+    <File md5="A56CA92E4543C01BC18AFAA9FB0F3E84" import="0">Xml/Units/ResourcesForUnits.xml</File>
+    <File md5="47024FF0612A7140376687F6BE70169D" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
       <UpdateDatabase>Xml/Units/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/ResourcesForUnits.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T1.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T2_electricity.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Resources/Icons_Resources_T2.xml</UpdateDatabase>
@@ -134,6 +141,9 @@
       <UpdateDatabase>Xml/Build/T3Res/Text_T3ResBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Civilizations/Civilization_txt_replace.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Religions/Beliefs.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/Entertainment/Icons_Entertainment.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

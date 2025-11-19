@@ -19,8 +19,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_TELEVISION_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
 		</Row>
 		<!-- Смартфоны -->
 		<Row>

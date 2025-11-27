@@ -327,7 +327,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Art" />
-    <Folder Include="Art\Building" />
     <Folder Include="Xml" />
     <Folder Include="Xml\Build" />
     <Folder Include="Xml\Build\Energy" />
@@ -349,15 +348,15 @@
     <Folder Include="Xml\Resources" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Art\Building\BUILDING_TELEVISION_32.dds">
+    <Content Include="Art\BUILDING_TELEVISION_32.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\Building\BUILDING_TELEVISION_45.dds">
+    <Content Include="Art\BUILDING_TELEVISION_45.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\Building\BUILDING_TELEVISION_64.dds">
+    <Content Include="Art\BUILDING_TELEVISION_64.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>

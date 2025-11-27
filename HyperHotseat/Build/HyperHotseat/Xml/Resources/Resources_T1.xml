@@ -37,9 +37,9 @@
 			<ResourceClassType>RESOURCECLASS_MODERN</ResourceClassType>
 			<ArtDefineTag>ART_DEF_RESOURCE_COPPER</ArtDefineTag>
 			<IconString>[ICON_RES_COPPER]</IconString>
-			<PortraitIndex>0</PortraitIndex>
+			<PortraitIndex>1</PortraitIndex>
 			<ResourceUsage>1</ResourceUsage>
-			<IconAtlas>RESOURCE_COPPER_STRATEGIC_ATLAS</IconAtlas>
+			<IconAtlas>EXPANSION_RESOURCE_ATLAS</IconAtlas>
 		</Row>
 		<Row>
 			<Type>RESOURCE_WHEAT_STRATEGIC</Type>

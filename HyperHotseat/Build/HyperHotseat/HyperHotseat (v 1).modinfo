@@ -22,9 +22,9 @@
   <References />
   <Blocks />
   <Files>
-    <File md5="DD0392D5979A57111F4DAD2CBB081D84" import="1">Art/Building/BUILDING_TELEVISION_32.dds</File>
-    <File md5="DD4968394715C8853A00A041D7576FF8" import="1">Art/Building/BUILDING_TELEVISION_45.dds</File>
-    <File md5="5344D197089A07E0E0ABA367DE6EBAA0" import="1">Art/Building/BUILDING_TELEVISION_64.dds</File>
+    <File md5="8EBB3C5C86D9EF0B2B4FBBBBA4C3DDB5" import="1">Art/BUILDING_TELEVISION_32.dds</File>
+    <File md5="02AF6AB210CF074ADB71159131952D35" import="1">Art/BUILDING_TELEVISION_45.dds</File>
+    <File md5="36B36627D9F10DB79E467982AFFC410A" import="1">Art/BUILDING_TELEVISION_64.dds</File>
     <File md5="763EEAD41CFDC20D722761565551AE68" import="1">Art/Resource_Electricity_32.dds</File>
     <File md5="8E31A84C4765494FB93A146487CBDA04" import="1">Art/Resource_Electricity_45.dds</File>
     <File md5="939DE60180E0696ADF33B051A2E1B5F4" import="1">Art/Resource_Electricity_64.dds</File>
@@ -35,8 +35,8 @@
     <File md5="3B4C942C4B96B1E6D1287EE99B5B8B65" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
     <File md5="6AC884E1E0B1812E40ED703B804C67F9" import="0">Xml/Build/Entertainment/EntertainmentBuildingClass.xml</File>
-    <File md5="0EFCD96DF595EF5476E80216F732D6EA" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
-    <File md5="C3EE2477B51B17CAAB7C8DB3A1E4DF13" import="0">Xml/Build/Entertainment/Icons_Entertainment.xml</File>
+    <File md5="2E85A302E47BA5ACBC6CADE951446385" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
+    <File md5="3CB989A72B218CDC39B29E1DC46DCFBC" import="0">Xml/Build/Entertainment/Icons_Entertainment.xml</File>
     <File md5="5408FD21642F7C47BA78EE4752E1E149" import="0">Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</File>
     <File md5="ABEBFE83B59B20302397FC2AE9523A26" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
     <File md5="5B18D2264221EF304845AD18D100D76E" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
@@ -70,11 +70,11 @@
     <File md5="6C8402AB427AA600E2DF8613844353E6" import="0">Xml/Policies/ReplacedPolicies.xml</File>
     <File md5="155BC845B7B7A7DD88CA39FB3CAA8A74" import="0">Xml/Policies/Text_ReplacedPolicies.xml</File>
     <File md5="0DB26F3B506BA182D6B1BD3300316E0D" import="0">Xml/Religions/Beliefs.xml</File>
-    <File md5="CE1C104D4209EF1FA1F2F53D05D6F151" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
+    <File md5="E21C36E13218A8696CB7286B8B4B2EEA" import="0">Xml/Resources/Icons_Resources_T1.xml</File>
     <File md5="9AB8F2CD7FB48EAEB39EF8A211B9D458" import="0">Xml/Resources/Icons_Resources_T2.xml</File>
     <File md5="65FB144CC02E842046B886E68985F9B8" import="0">Xml/Resources/Icons_Resources_T2_electricity.xml</File>
     <File md5="667128488D2B0B3F5E305CF29BCE6A2D" import="0">Xml/Resources/Icons_Resources_T3.xml</File>
-    <File md5="2FF64235DF19C433063823CCB4B85996" import="0">Xml/Resources/Resources_T1.xml</File>
+    <File md5="661AF6362BA1BBBD379039D04CABE1A8" import="0">Xml/Resources/Resources_T1.xml</File>
     <File md5="63262E5EF9B50F48F7FFF18AF0E7CCA0" import="0">Xml/Resources/Resources_T2_electricity.xml</File>
     <File md5="D55AE3D845B2487D2F2F4C05E391DDA9" import="0">Xml/Resources/Resources_T2.xml</File>
     <File md5="F6333F6B3D0DA29B3134EB60577005F6" import="0">Xml/Resources/Resources_T3.xml</File>

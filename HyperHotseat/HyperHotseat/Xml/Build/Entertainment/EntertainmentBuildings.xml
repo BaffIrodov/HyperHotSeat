@@ -20,7 +20,7 @@
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
 			<IconAtlas>BUILDING_TELEVISION_ATLAS</IconAtlas>
-			<PortraitIndex>1</PortraitIndex>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Смартфоны -->
 		<Row>

@@ -110,6 +110,68 @@
 			<MoveRate>WOODEN_BOAT</MoveRate>
 			<PurchaseOnly>true</PurchaseOnly>
 		</Replace>
+		<Replace>
+			<Class>UNITCLASS_CARGO_SHIP</Class>
+			<Type>UNIT_CARGO_SHIP</Type>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<Cost>100</Cost>
+			<HurryCostModifier>20</HurryCostModifier>
+			<NoMaintenance>true</NoMaintenance>
+			<Moves>1</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_TRADE_UNIT</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CARGO_SHIP</Description>
+			<Civilopedia>TXT_KEY_CIV5_CARGO_SHIP_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CARGO_SHIP_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CARGO_SHIP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<XPValueDefense>3</XPValueDefense>
+			<Trade>true</Trade>
+			<Immobile>true</Immobile>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitArtInfo>ART_DEF_UNIT_CARGO_SHIP</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<PurchaseOnly>true</PurchaseOnly>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_CARAVAN</Class>
+			<Type>UNIT_CARAVAN</Type>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+			<Cost>75</Cost>
+			<HurryCostModifier>20</HurryCostModifier>
+			<Moves>1</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_TRADE_UNIT</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CARAVAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_CARAVAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CARAVAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CARAVAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<XPValueDefense>3</XPValueDefense>
+			<Trade>true</Trade>
+			<Immobile>true</Immobile>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<NoMaintenance>true</NoMaintenance>
+			<UnitArtInfo>ART_DEF_UNIT_CARAVAN</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<PurchaseOnly>true</PurchaseOnly>
+		</Replace>
 		<!-- Юниты WW2 ниже -->
 		<!-- Наземные юниты WW2 ниже -->
 		<Replace>
@@ -1173,8 +1235,10 @@
 			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
 			<PortraitIndex>15</PortraitIndex>
 			<MoveRate>QUADRUPED</MoveRate>
+			<PurchaseOnly>true</PurchaseOnly>
 		</Replace>
 		<!-- Наземные юниты WW4 выше -->
 		<!-- Юниты WW4 выше -->
-	</Units>
+	
+</Units>
 </GameData>

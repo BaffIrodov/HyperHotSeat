@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/23/2025 11:46:34 AM -->
+<GameData>
+	<Buildings>
+		<Replace>
+			<Type>BUILDING_RECYCLING_CENTER</Type>
+			<BuildingClass>BUILDINGCLASS_RECYCLING_CENTER</BuildingClass>
+			<Cost>-1</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<PrereqTech>TECH_ECOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_RECYCLING_CENTER</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RECYCLING_CENTER_TEXT</Civilopedia>
+			<Help>TXT_KEY_BUILDING_RECYCLING_CENTER_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HYDRO_PLANT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>8</PortraitIndex>
+		</Replace>
+	</Buildings>
+	<!-- Здесь я только добавляю необходимость ресурсов -->
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_HOSPITAL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+		
+		<Row>
+			<BuildingType>BUILDING_AIRPORT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_BANK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_STOCK_EXCHANGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_MILITARY_ACADEMY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_PUBLIC_SCHOOL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_MILITARY_BASE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+</GameData>

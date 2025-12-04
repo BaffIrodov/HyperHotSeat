@@ -331,56 +331,56 @@
 		<Row>
 			<BuildingType>BUILDING_COAL_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>10</Quantity>
+			<Quantity>15</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_COAL_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>30</Quantity>
+			<Quantity>45</Quantity>
 		</Row>
 		<!-- Нефть -->
 		<Row>
 			<BuildingType>BUILDING_OIL_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>5</Quantity>
+			<Quantity>10</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_OIL_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>15</Quantity>
+			<Quantity>30</Quantity>
 		</Row>
 		<!-- Уран -->
 		<Row>
 			<BuildingType>BUILDING_NUCLEAR_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>15</Quantity>
+			<Quantity>20</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_NUCLEAR_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>45</Quantity>
+			<Quantity>60</Quantity>
 		</Row>
 		<!-- Гидро -->
 		<Row>
 			<BuildingType>BUILDING_HYDRO_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>10</Quantity>
+			<Quantity>15</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_HYDRO_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>30</Quantity>
+			<Quantity>45</Quantity>
 		</Row>
 		<!-- Солнечная -->
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>20</Quantity>
+			<Quantity>25</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SOLAR_POWER_PLANT_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
-			<Quantity>60</Quantity>
+			<Quantity>75</Quantity>
 		</Row>
 	</Building_ResourceQuantity>
 

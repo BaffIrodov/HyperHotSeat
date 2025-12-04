@@ -45,14 +45,15 @@
     <File md5="4DBC127C9D405C5D54E8A252994BFAE3" import="0">Xml/Build/Food/FoodBuildings.xml</File>
     <File md5="AD385884FE26A76A62F0AB0D5BE63DE6" import="0">Xml/Build/Food/Text_FoodBuildings.xml</File>
     <File md5="D2AB297EDAD6D9A1D0B569726FB79208" import="0">Xml/Build/Medicine/MedicineBuildingClass.xml</File>
-    <File md5="E25BDDB7821B6E48444942BA16397CA1" import="0">Xml/Build/Medicine/MedicineBuildings.xml</File>
+    <File md5="8F4089E6E484C82C909EFF5FA000ABCC" import="0">Xml/Build/Medicine/MedicineBuildings.xml</File>
     <File md5="F6B93EB88B2EE3210FAA643D60925C42" import="0">Xml/Build/Medicine/Text_MedicineBuildings.xml</File>
     <File md5="5F197FDC4118C92383BAAD76105693FD" import="0">Xml/Build/Network/NetworkBuildingClass.xml</File>
     <File md5="6803ADEA52C40D20F4BC4E0E78F0B10F" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
     <File md5="7961D765A204AB6ED977F557A5ADC038" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
     <File md5="B9E6EDAEFDE8F2124FBA9AAFA913EDDF" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
-    <File md5="0FB78D68572A930AFCDFA69BC1161D78" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
-    <File md5="76E3A46001B81B73512361A0CB63E1ED" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="B266A132A224EAD150AA40A71DDB44D0" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
+    <File md5="2BC29CC781D39BD90C866ADB19A42134" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="625FB919BE0876CAD4F5238CBA7C181E" import="0">Xml/Build/OldBuildings/OldBuildings.xml</File>
     <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
     <File md5="81CE9FAC6D3CA75B05F9560988350FB8" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
     <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
@@ -60,7 +61,7 @@
     <File md5="624838989882A02C6C4F75FB683E8FFF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
     <File md5="43A2DFB4601FB2AEF06E5E6303B9CFF9" import="0">Xml/Build/T3Res/Text_T3ResBuildings.xml</File>
     <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
-    <File md5="EB0CE1D97C4F482C1D87874C7FD20C8E" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
+    <File md5="3A24ED94D6392966412886EA56DE667F" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
     <File md5="7C6E3718B009A0FC5193DC69D339D06D" import="0">Xml/Build/Tourism/Text_TourismBuildings.xml</File>
     <File md5="161AF71D555B4B97AA3C9567973D6ECC" import="0">Xml/Build/War/WarBuildingClass.xml</File>
     <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
@@ -82,9 +83,9 @@
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
-    <File md5="EB3F148ABE5E5E3095870B6C677BBE5A" import="0">Xml/Units/OldDisabledUnits.xml</File>
-    <File md5="A56CA92E4543C01BC18AFAA9FB0F3E84" import="0">Xml/Units/ResourcesForUnits.xml</File>
-    <File md5="47024FF0612A7140376687F6BE70169D" import="0">Xml/Units/Units.xml</File>
+    <File md5="A0DFFD0C4DA4F5EDD8CDDA772C400E7B" import="0">Xml/Units/OldDisabledUnits.xml</File>
+    <File md5="801332DF5A5C2CF17237F798C1329325" import="0">Xml/Units/ResourcesForUnits.xml</File>
+    <File md5="78104930687D0F3615347F86F6208944" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -146,6 +147,7 @@
       <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/Entertainment/Icons_Entertainment.xml</UpdateDatabase>
       <UpdateDatabase>Xml/ONE_CITY_RANGE.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Build/OldBuildings/OldBuildings.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

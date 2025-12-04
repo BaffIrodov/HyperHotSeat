@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 11/16/2025 7:36:54 PM -->
 <GameData>
+	<Unit_FreePromotions>
+		<Delete UnitType="UNIT_STEALTH_BOMBER"/>
+		<Row>
+			<UnitType>UNIT_STEALTH_BOMBER</UnitType>
+			<PromotionType>PROMOTION_AIR_RECON</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
 	<Unit_ResourceQuantityRequirements>
 		<!-- Морпехи, которые должны стать нерегулярной армией -->
 		<Delete UnitType="UNIT_MARINE"/>

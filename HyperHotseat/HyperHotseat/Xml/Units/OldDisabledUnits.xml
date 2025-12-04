@@ -4,6 +4,131 @@
 	<Units>
 		<!-- Юниты, которые не используются -->
 		<Replace>
+			<Class>UNITCLASS_SS_STASIS_CHAMBER</Class>
+			<Type>UNIT_SS_STASIS_CHAMBER</Type>
+			<PrereqTech>TECH_NANOTECHNOLOGY</PrereqTech>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_SPACESHIP_PART</DefaultUnitAI>
+			<Description>TXT_KEY_SS_STASIS_CHAMBER</Description>
+			<Civilopedia>TXT_KEY_PROJECT_SS_STASIS_CHAMBER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_SS_STASIS_CHAMBER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SS_PART</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<ProjectPrereq>PROJECT_APOLLO_PROGRAM</ProjectPrereq>
+			<SpaceshipProject>PROJECT_SS_STASIS_CHAMBER</SpaceshipProject>
+			<UnitArtInfo>ART_DEF_UNIT_SS_STASIS_CHAMBER</UnitArtInfo>
+			<UnitFlagIconOffset>85</UnitFlagIconOffset>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>38</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_SS_ENGINE</Class>
+			<Type>UNIT_SS_ENGINE</Type>
+			<PrereqTech>TECH_PARTICLE_PHYSICS</PrereqTech>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_SPACESHIP_PART</DefaultUnitAI>
+			<Description>TXT_KEY_SS_ENGINE</Description>
+			<Civilopedia>TXT_KEY_PROJECT_SS_ENGINE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_SS_ENGINE_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SS_PART</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<ProjectPrereq>PROJECT_APOLLO_PROGRAM</ProjectPrereq>
+			<SpaceshipProject>PROJECT_SS_ENGINE</SpaceshipProject>
+			<UnitArtInfo>ART_DEF_UNIT_SS_ENGINE</UnitArtInfo>
+			<UnitFlagIconOffset>86</UnitFlagIconOffset>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>39</PortraitIndex>
+			<MoveRate>WHEELED</MoveRate>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_SS_COCKPIT</Class>
+			<Type>UNIT_SS_COCKPIT</Type>
+			<PrereqTech>TECH_SATELLITES</PrereqTech>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_SPACESHIP_PART</DefaultUnitAI>
+			<Description>TXT_KEY_SS_COCKPIT</Description>
+			<Civilopedia>TXT_KEY_PROJECT_SS_COCKPIT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_SS_COCKPIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SS_PART</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<ProjectPrereq>PROJECT_APOLLO_PROGRAM</ProjectPrereq>
+			<SpaceshipProject>PROJECT_SS_COCKPIT</SpaceshipProject>
+			<UnitArtInfo>ART_DEF_UNIT_SS_CAPSULE</UnitArtInfo>
+			<UnitFlagIconOffset>84</UnitFlagIconOffset>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+			<MoveRate>WHEELED</MoveRate>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_SS_BOOSTER</Class>
+			<Type>UNIT_SS_BOOSTER</Type>
+			<PrereqTech>TECH_ADVANCED_BALLISTICS</PrereqTech>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_SPACESHIP_PART</DefaultUnitAI>
+			<Description>TXT_KEY_SS_BOOSTER</Description>
+			<Civilopedia>TXT_KEY_PROJECT_SS_BOOSTER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_PROJECT_SS_BOOSTER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SS_BOOSTER</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<ProjectPrereq>PROJECT_APOLLO_PROGRAM</ProjectPrereq>
+			<SpaceshipProject>PROJECT_SS_BOOSTER</SpaceshipProject>
+			<UnitArtInfo>ART_DEF_UNIT_SS_BOOSTER</UnitArtInfo>
+			<UnitFlagIconOffset>87</UnitFlagIconOffset>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
+			<MoveRate>WHEELED</MoveRate>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_RIFLEMAN</Class>
+			<Type>UNIT_ETHIOPIAN_MEHAL_SEFARI</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Combat>34</Combat>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MEHAL_SEFARI</Description>
+			<Civilopedia>TXT_KEY_CIV5_MEHAL_SEFARI_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MEHAL_SEFARI_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MEHAL_SEFARI</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>5</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_U_ETHIOPIA_MEHAL_SEFARI</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>9</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+		</Replace>
+		<Replace>
 			<Class>UNITCLASS_RIFLEMAN</Class>
 			<Type>UNIT_RIFLEMAN</Type>
 			<PrereqTech>TECH_RIFLING</PrereqTech>
@@ -2340,5 +2465,10 @@
 			<PortraitIndex>38</PortraitIndex>
 			<PurchaseOnly>true</PurchaseOnly>
 		</Replace>
-	</Units>
+	
+
+
+
+
+</Units>
 </GameData>

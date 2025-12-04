@@ -91,6 +91,11 @@
 			<ResourceType>RESOURCE_LATEX</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Row>
+			<BuildingType>BUILDING_LABORATORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 	</Building_ResourceQuantityRequirements>
 
 	<Building_ResourceQuantity>

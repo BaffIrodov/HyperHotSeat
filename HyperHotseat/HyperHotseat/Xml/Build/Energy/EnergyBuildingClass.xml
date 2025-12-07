@@ -13,17 +13,6 @@
 			<DefaultBuilding>BUILDING_COAL_POWER_PLANT_LARGE</DefaultBuilding>
 			<Description>TXT_KEY_BUILDING_COAL_POWER_PLANT_LARGE</Description>
 		</Row>
-		<!-- Нефть -->
-		<Row>
-			<Type>BUILDINGCLASS_OIL_POWER_PLANT</Type>
-			<DefaultBuilding>BUILDING_OIL_POWER_PLANT</DefaultBuilding>
-			<Description>TXT_KEY_BUILDING_OIL_POWER_PLANT</Description>
-		</Row>
-		<Row>
-			<Type>BUILDINGCLASS_OIL_POWER_PLANT_LARGE</Type>
-			<DefaultBuilding>BUILDING_OIL_POWER_PLANT_LARGE</DefaultBuilding>
-			<Description>TXT_KEY_BUILDING_OIL_POWER_PLANT_LARGE</Description>
-		</Row>
 		<!-- Уран -->
 		<Row>
 			<Type>BUILDINGCLASS_NUCLEAR_POWER_PLANT</Type>

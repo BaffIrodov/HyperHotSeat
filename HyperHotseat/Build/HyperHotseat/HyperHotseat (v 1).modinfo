@@ -50,9 +50,9 @@
     <File md5="5F197FDC4118C92383BAAD76105693FD" import="0">Xml/Build/Network/NetworkBuildingClass.xml</File>
     <File md5="6803ADEA52C40D20F4BC4E0E78F0B10F" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
     <File md5="7961D765A204AB6ED977F557A5ADC038" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
-    <File md5="B9E6EDAEFDE8F2124FBA9AAFA913EDDF" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
-    <File md5="B266A132A224EAD150AA40A71DDB44D0" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
-    <File md5="2BC29CC781D39BD90C866ADB19A42134" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
+    <File md5="25CA85FDB728BEE9CD8D8DDB0B35A084" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
+    <File md5="E95466FDDE640105C7843546C3755DD5" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
+    <File md5="7C92B5BEBCBEB39E44BB2D7741131F69" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
     <File md5="625FB919BE0876CAD4F5238CBA7C181E" import="0">Xml/Build/OldBuildings/OldBuildings.xml</File>
     <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
     <File md5="81CE9FAC6D3CA75B05F9560988350FB8" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>

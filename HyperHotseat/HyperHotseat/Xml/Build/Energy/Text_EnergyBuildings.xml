@@ -9,10 +9,10 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COAL_POWER_PLANT_HELP">
-			<Text>Даёт 15 единиц энергии и требует 1 единицу [ICON_RES_COAL] угля.</Text>
+			<Text>Даёт 20 единиц энергии и требует 1 единицу [ICON_RES_COAL] угля.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COAL_POWER_PLANT_STRATEGY">
-			<Text>Каждая угольная ТЭС даёт 15 единиц энергии и потребляет 1 единицу [ICON_RES_COAL] угля.</Text>
+			<Text>Каждая угольная ТЭС даёт 20 единиц энергии и потребляет 1 единицу [ICON_RES_COAL] угля.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_COAL_POWER_PLANT_TEXT">
 			<Text>Угольная ТЭС вырабатывает электроэнергию за счёт сжигания каменного угля. Получаемое тепло используется для нагрева воды и выработки пара, который приводит в движение турбины.</Text>
@@ -23,45 +23,15 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COAL_POWER_PLANT_LARGE_HELP">
-			<Text>Большая угольная ТЭС даёт 45 единиц энергии и требует 3 единицы [ICON_RES_COAL] угля.</Text>
+			<Text>Большая угольная ТЭС даёт 60 единиц энергии и требует 3 единицы [ICON_RES_COAL] угля.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_COAL_POWER_PLANT_LARGE_STRATEGY">
-			<Text>Каждая большая угольная ТЭС даёт 45 единиц энергии и потребляет 3 единицы [ICON_RES_COAL] угля.</Text>
+			<Text>Каждая большая угольная ТЭС даёт 60 единиц энергии и потребляет 3 единицы [ICON_RES_COAL] угля.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_BUILDINGS_COAL_POWER_PLANT_LARGE_TEXT">
 			<Text>Большая угольная ТЭС вырабатывает электроэнергию за счёт сжигания каменного угля. Получаемое тепло используется для нагрева воды и выработки пара, который приводит в движение турбины.</Text>
 		</Row>
 
-		<!-- Нефть -->
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT">
-			<Text>Нефтяная ТЭС|Нефтяной ТЭС|Нефтяной ТЭС|Нефтяную ТЭС|Нефтяной ТЭС|Нефтяной ТЭС</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT_HELP">
-			<Text>Даёт 10 единиц энергии и требует 1 единицу [ICON_RES_OIL] нефти.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT_STRATEGY">
-			<Text>Каждая нефтяная ТЭС даёт 10 единиц энергии и потребляет 1 единицу [ICON_RES_OIL] нефти.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_BUILDINGS_OIL_POWER_PLANT_TEXT">
-			<Text>Нефтяная ТЭС вырабатывает электроэнергию путём сжигания нефтяного топлива. Такие станции обеспечивают высокую мощность, но требуют постоянных поставок нефти и создают значительные выбросы в атмосферу.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT_LARGE">
-			<Text>Большая нефтяная ТЭС|Большой нефтяной ТЭС|Большой нефтяной ТЭС|Большую нефтяную ТЭС|Большой нефтяной ТЭС|Большой нефтяной ТЭС</Text>
-			<Gender>feminine</Gender>
-			<Plurality>1</Plurality>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT_LARGE_HELP">
-			<Text>Большая нефтяная ТЭС даёт 30 единиц энергии и требует 3 единицы [ICON_RES_OIL] нефти.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BUILDING_OIL_POWER_PLANT_LARGE_STRATEGY">
-			<Text>Каждая большая нефтяная ТЭС даёт 30 единиц энергии и потребляет 3 единицы [ICON_RES_OIL] нефти.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_BUILDINGS_OIL_POWER_PLANT_LARGE_TEXT">
-			<Text>Большая нефтяная ТЭС сжигает нефть для выработки огромных объёмов электроэнергии. Несмотря на эффективность, такие станции отличаются высокой стоимостью и сильным загрязнением окружающей среды.</Text>
-		</Row>
-		
 		<!-- Уран -->
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT">
 			<Text>Энергетическая АЭС|Энергетической АЭС|Энергетическую АЭС|Энергетической АЭС|Энергетической АЭС|Энергетической АЭС</Text>
@@ -69,7 +39,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_HELP">
-			<Text>Дает 20 единиц энергии и требует 1 единицу [ICON_RES_URANIUM] урана, 1 единицу аналоговой электроники</Text>
+			<Text>Дает 25 единиц энергии и требует 1 единицу [ICON_RES_URANIUM] урана, 1 единицу аналоговой электроники</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_STRATEGY">
 			<Text>Атомная электростанция увеличивает производство в городе и дает много электроэнергии. Для строительства Энергетической АЭС необходима 1 единица [ICON_RES_URANIUM] урана, 1 единица аналоговой электроники.</Text>
@@ -83,7 +53,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_LARGE_HELP">
-			<Text>Дает 60 единиц энергии и требует 3 единицы [ICON_RES_URANIUM] урана, 3 единицы аналоговой электроники</Text>
+			<Text>Дает 75 единиц энергии и требует 3 единицы [ICON_RES_URANIUM] урана, 3 единицы аналоговой электроники</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_LARGE_STRATEGY">
 			<Text>Атомная электростанция увеличивает производство в городе и дает много электроэнергии. Для строительства Большой Энергетической АЭС необходимы 3 единицы [ICON_RES_URANIUM] урана, 3 единицы аналоговой электроники.</Text>

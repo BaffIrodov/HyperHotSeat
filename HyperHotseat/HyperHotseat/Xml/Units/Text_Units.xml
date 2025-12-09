@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/10/2025 12:37:50 AM -->
+<GameData>
+	<Language_ru_RU>
+		<Replace Tag="TXT_KEY_UNIT_MARINE">
+			<Text>Нерегулярная пехота|Нерегулярной пехоты|Нерегулярной пехоте|Нерегулярную пехоту|Нерегулярной пехотой|Нерегулярной пехоте</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_MARINE_STRATEGY">
+			<Text>Нерегулярная пехота - дешевая замена обычной пехоте.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_HELP_MARINE">
+			<Text>Подразделение Эпохи атома. Эти бойцы - дешевая замена обычной пехоте.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_MARINE_TEXT">
+			<Text>Нерегулярная пехота - род войск, чья основная задача - дешево обеспечить военное присутствие.</Text>
+		</Replace>
+	</Language_ru_RU>
+</GameData>

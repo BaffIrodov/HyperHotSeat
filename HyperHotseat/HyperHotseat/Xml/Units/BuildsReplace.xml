@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/10/2025 12:50:41 AM -->
+<GameData>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
+			<FeatureType>FEATURE_FALLOUT</FeatureType>
+			<Time>3000</Time>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+</GameData>

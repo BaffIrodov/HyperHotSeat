@@ -83,9 +83,11 @@
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
+    <File md5="3B01590A4AE3D704B469FDDF4A442C0A" import="0">Xml/Units/BuildsReplace.xml</File>
     <File md5="A0DFFD0C4DA4F5EDD8CDDA772C400E7B" import="0">Xml/Units/OldDisabledUnits.xml</File>
     <File md5="801332DF5A5C2CF17237F798C1329325" import="0">Xml/Units/ResourcesForUnits.xml</File>
-    <File md5="78104930687D0F3615347F86F6208944" import="0">Xml/Units/Units.xml</File>
+    <File md5="4A553CFC582BC466865F7DF99952550C" import="0">Xml/Units/Text_Units.xml</File>
+    <File md5="5194661C2A914B0E288315C2B939D3E3" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -143,11 +145,12 @@
       <UpdateDatabase>Xml/Build/T3Res/Text_T3ResBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Civilizations/Civilization_txt_replace.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Religions/Beliefs.xml</UpdateDatabase>
-      <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
-      <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/Entertainment/Icons_Entertainment.xml</UpdateDatabase>
       <UpdateDatabase>Xml/ONE_CITY_RANGE.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Build/OldBuildings/OldBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/OldDisabledUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/BuildsReplace.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/Text_Units.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

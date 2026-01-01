@@ -19,8 +19,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_COAL_POWER_PLANT_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<Row>
 			<Type>BUILDING_COAL_POWER_PLANT_LARGE</Type>
@@ -38,8 +38,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_COAL_POWER_PLANT_LARGE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Уран -->
 		<Replace>
@@ -76,8 +76,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>43</PortraitIndex>
+			<IconAtlas>BUILDING_NUCLEAR_POWER_PLANT_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<Row>
 			<Type>BUILDING_NUCLEAR_POWER_PLANT_LARGE</Type>
@@ -95,8 +95,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>43</PortraitIndex>
+			<IconAtlas>BUILDING_NUCLEAR_POWER_PLANT_LARGE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Гидро -->
 		<Replace>
@@ -132,8 +132,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>BUILDING_HYDRO_POWER_PLANT_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<Row>
 			<Type>BUILDING_HYDRO_POWER_PLANT_LARGE</Type>
@@ -150,8 +150,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>BUILDING_HYDRO_POWER_PLANT_LARGE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Солнечная -->
 		<Replace>
@@ -187,8 +187,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>31</PortraitIndex>
+			<IconAtlas>BUILDING_SOLAR_POWER_PLANT_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<Row>
 			<Type>BUILDING_SOLAR_POWER_PLANT_LARGE</Type>
@@ -204,8 +204,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>31</PortraitIndex>
+			<IconAtlas>BUILDING_SOLAR_POWER_PLANT_LARGE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 

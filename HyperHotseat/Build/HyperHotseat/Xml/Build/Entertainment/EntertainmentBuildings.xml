@@ -38,8 +38,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_SMARTPHONES_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Персональные компьютеры -->
 		<Row>
@@ -57,8 +57,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_PERSONAL_COMPUTERS_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 

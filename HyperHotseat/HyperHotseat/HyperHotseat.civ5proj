@@ -295,11 +295,6 @@
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>Xml/Build/Entertainment/Icons_Entertainment.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
         <FileName>Xml/ONE_CITY_RANGE.xml</FileName>
       </Action>
       <Action>
@@ -322,6 +317,26 @@
         <Type>UpdateDatabase</Type>
         <FileName>Xml/Units/Text_Units.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Entertainment/Icons_EntertainmentBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Car/Icons_CarBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Clothing/Icons_ClothingBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Xml/Build/Energy/Icons_EnergyBuildings.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -337,6 +352,24 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Art" />
+    <Folder Include="Art\Build" />
+    <Folder Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\" />
+    <Folder Include="Art\Build\BUILDING_COAL_POWER_PLANT\" />
+    <Folder Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\" />
+    <Folder Include="Art\Build\BUILDING_ELECTRICITY_CAR_INDUSTRY\" />
+    <Folder Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\" />
+    <Folder Include="Art\Build\BUILDING_HORSE_DRAWN_WAGONS\" />
+    <Folder Include="Art\Build\BUILDING_HYDRO_POWER_PLANT\" />
+    <Folder Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\" />
+    <Folder Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY\" />
+    <Folder Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE\" />
+    <Folder Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT\" />
+    <Folder Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT_LARGE\" />
+    <Folder Include="Art\Build\BUILDING_PERSONAL_COMPUTERS\" />
+    <Folder Include="Art\Build\BUILDING_SMARTPHONES\" />
+    <Folder Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\" />
+    <Folder Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\" />
+    <Folder Include="Art\Build\BUILDING_TELEVISION\" />
     <Folder Include="Xml" />
     <Folder Include="Xml\Build" />
     <Folder Include="Xml\Build\Energy" />
@@ -359,15 +392,275 @@
     <Folder Include="Xml\Resources" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Art\BUILDING_TELEVISION_32.dds">
+    <Content Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\BUILDING_CIVIL_CLOTHING_FACTORY_128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BUILDING_TELEVISION_45.dds">
+    <Content Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\BUILDING_CIVIL_CLOTHING_FACTORY_256.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BUILDING_TELEVISION_64.dds">
+    <Content Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\BUILDING_CIVIL_CLOTHING_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\BUILDING_CIVIL_CLOTHING_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT\BUILDING_COAL_POWER_PLANT_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT\BUILDING_COAL_POWER_PLANT_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT\BUILDING_COAL_POWER_PLANT_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT\BUILDING_COAL_POWER_PLANT_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\BUILDING_COAL_POWER_PLANT_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\BUILDING_COAL_POWER_PLANT_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\BUILDING_COAL_POWER_PLANT_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\BUILDING_COAL_POWER_PLANT_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRICITY_CAR_INDUSTRY\BUILDING_ELECTRICITY_CAR_INDUSTRY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRICITY_CAR_INDUSTRY\BUILDING_ELECTRICITY_CAR_INDUSTRY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRICITY_CAR_INDUSTRY\BUILDING_ELECTRICITY_CAR_INDUSTRY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRICITY_CAR_INDUSTRY\BUILDING_ELECTRICITY_CAR_INDUSTRY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HORSE_DRAWN_WAGONS\BUILDING_HORSE_DRAWN_WAGONS_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HORSE_DRAWN_WAGONS\BUILDING_HORSE_DRAWN_WAGONS_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HORSE_DRAWN_WAGONS\BUILDING_HORSE_DRAWN_WAGONS_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HORSE_DRAWN_WAGONS\BUILDING_HORSE_DRAWN_WAGONS_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT\BUILDING_HYDRO_POWER_PLANT_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT\BUILDING_HYDRO_POWER_PLANT_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT\BUILDING_HYDRO_POWER_PLANT_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT\BUILDING_HYDRO_POWER_PLANT_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\BUILDING_HYDRO_POWER_PLANT_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\BUILDING_HYDRO_POWER_PLANT_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\BUILDING_HYDRO_POWER_PLANT_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\BUILDING_HYDRO_POWER_PLANT_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY\BUILDING_MILITARY_CLOTHING_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY\BUILDING_MILITARY_CLOTHING_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY\BUILDING_MILITARY_CLOTHING_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY\BUILDING_MILITARY_CLOTHING_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE\BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT\BUILDING_NUCLEAR_POWER_PLANT_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT\BUILDING_NUCLEAR_POWER_PLANT_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT\BUILDING_NUCLEAR_POWER_PLANT_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT\BUILDING_NUCLEAR_POWER_PLANT_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT_LARGE\BUILDING_NUCLEAR_POWER_PLANT_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT_LARGE\BUILDING_NUCLEAR_POWER_PLANT_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT_LARGE\BUILDING_NUCLEAR_POWER_PLANT_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_NUCLEAR_POWER_PLANT_LARGE\BUILDING_NUCLEAR_POWER_PLANT_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PERSONAL_COMPUTERS\BUILDING_PERSONAL_COMPUTERS_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PERSONAL_COMPUTERS\BUILDING_PERSONAL_COMPUTERS_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PERSONAL_COMPUTERS\BUILDING_PERSONAL_COMPUTERS_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PERSONAL_COMPUTERS\BUILDING_PERSONAL_COMPUTERS_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SMARTPHONES\BUILDING_SMARTPHONES_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SMARTPHONES\BUILDING_SMARTPHONES_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SMARTPHONES\BUILDING_SMARTPHONES_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SMARTPHONES\BUILDING_SMARTPHONES_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\BUILDING_SOLAR_POWER_PLANT_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\BUILDING_SOLAR_POWER_PLANT_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\BUILDING_SOLAR_POWER_PLANT_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\BUILDING_SOLAR_POWER_PLANT_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\BUILDING_SOLAR_POWER_PLANT_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\BUILDING_SOLAR_POWER_PLANT_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\BUILDING_SOLAR_POWER_PLANT_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\BUILDING_SOLAR_POWER_PLANT_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_TELEVISION\BUILDING_TELEVISION_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_TELEVISION\BUILDING_TELEVISION_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_TELEVISION\BUILDING_TELEVISION_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_TELEVISION\BUILDING_TELEVISION_64.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -391,6 +684,10 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="Xml\Build\Car\Icons_CarBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="Xml\Build\Car\Text_CarBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -403,7 +700,15 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="Xml\Build\Clothing\Icons_ClothingBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="Xml\Build\Clothing\Text_ClothingBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Xml\Build\Energy\Icons_EnergyBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
@@ -415,7 +720,7 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="Xml\Build\Entertainment\Icons_Entertainment.xml">
+    <Content Include="Xml\Build\Entertainment\Icons_EntertainmentBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

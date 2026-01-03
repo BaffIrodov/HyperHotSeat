@@ -19,8 +19,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_CIVIL_CLOTHING_FACTORY_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 
 		<!-- Завод военной одежды -->
@@ -38,8 +38,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_MILITARY_CLOTHING_FACTORY_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 
 		<!-- Большой завод военной одежды -->
@@ -57,8 +57,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUILDING_MILITARY_CLOTHING_FACTORY_LARGE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 

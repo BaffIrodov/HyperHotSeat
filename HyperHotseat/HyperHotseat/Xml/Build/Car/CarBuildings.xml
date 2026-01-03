@@ -17,8 +17,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>BUILDING_HORSE_DRAWN_WAGONS_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Автомобили -->
 		<Row>
@@ -34,8 +34,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>BUILDING_GASOLINE_CAR_INDUSTRY_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Электроавтомобили -->
 		<Row>
@@ -52,8 +52,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>BUILDING_ELECTRICITY_CAR_INDUSTRY_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 

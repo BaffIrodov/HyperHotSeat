@@ -6,7 +6,7 @@
 		<Row>
 			<Type>BUILDING_COAL_POWER_PLANT</Type>
 			<BuildingClass>BUILDINGCLASS_COAL_POWER_PLANT</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>2</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_COAL_POWER_PLANT</Description>
@@ -25,7 +25,7 @@
 		<Row>
 			<Type>BUILDING_COAL_POWER_PLANT_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_COAL_POWER_PLANT_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>8</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_COAL_POWER_PLANT_LARGE</Description>
@@ -63,7 +63,7 @@
 		<Row>
 			<Type>BUILDING_NUCLEAR_POWER_PLANT</Type>
 			<BuildingClass>BUILDINGCLASS_NUCLEAR_POWER_PLANT</BuildingClass>
-			<Cost>700</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>7</GoldMaintenance>
 			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
 			<Help>TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_HELP</Help>
@@ -82,7 +82,7 @@
 		<Row>
 			<Type>BUILDING_NUCLEAR_POWER_PLANT_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_NUCLEAR_POWER_PLANT_LARGE</BuildingClass>
-			<Cost>1750</Cost>
+			<Cost>1000</Cost>
 			<GoldMaintenance>28</GoldMaintenance>
 			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
 			<Help>TXT_KEY_BUILDING_NUCLEAR_POWER_PLANT_LARGE_HELP</Help>
@@ -120,7 +120,7 @@
 		<Row>
 			<Type>BUILDING_HYDRO_POWER_PLANT</Type>
 			<BuildingClass>BUILDINGCLASS_HYDRO_POWER_PLANT</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>5</GoldMaintenance>
 			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_HYDRO_POWER_PLANT</Description>
@@ -138,7 +138,7 @@
 		<Row>
 			<Type>BUILDING_HYDRO_POWER_PLANT_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_HYDRO_POWER_PLANT_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>20</GoldMaintenance>
 			<PrereqTech>TECH_ELECTRICITY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_HYDRO_POWER_PLANT_LARGE</Description>
@@ -176,7 +176,7 @@
 		<Row>
 			<Type>BUILDING_SOLAR_POWER_PLANT</Type>
 			<BuildingClass>BUILDINGCLASS_SOLAR_POWER_PLANT</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>4</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_SOLAR_POWER_PLANT</Description>
@@ -193,7 +193,7 @@
 		<Row>
 			<Type>BUILDING_SOLAR_POWER_PLANT_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_SOLAR_POWER_PLANT_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>16</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_SOLAR_POWER_PLANT_LARGE</Description>

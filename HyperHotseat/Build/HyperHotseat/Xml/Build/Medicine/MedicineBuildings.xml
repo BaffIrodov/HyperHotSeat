@@ -7,7 +7,7 @@
 		<Row>
 			<Type>BUILDING_MRI</Type>
 			<BuildingClass>BUILDINGCLASS_MRI</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>6</GoldMaintenance>
 			<PrereqTech>TECH_BIOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MRI</Description>
@@ -25,7 +25,7 @@
 		<Row>
 			<Type>BUILDING_ADVANCED_HOSPITAL</Type>
 			<BuildingClass>BUILDINGCLASS_ADVANCED_HOSPITAL</BuildingClass>
-			<Cost>800</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>8</GoldMaintenance>
 			<PrereqTech>TECH_BIOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ADVANCED_HOSPITAL</Description>

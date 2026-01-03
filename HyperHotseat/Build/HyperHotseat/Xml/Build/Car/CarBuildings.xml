@@ -7,7 +7,7 @@
 		<Row>
 			<Type>BUILDING_HORSE_DRAWN_WAGONS</Type>
 			<BuildingClass>BUILDINGCLASS_HORSE_DRAWN_WAGONS</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<PrereqTech>TECH_RAILROAD</PrereqTech>
 			<Description>TXT_KEY_BUILDING_HORSE_DRAWN_WAGONS</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_HORSE_DRAWN_WAGONS_TEXT</Civilopedia>
@@ -24,7 +24,7 @@
 		<Row>
 			<Type>BUILDING_GASOLINE_CAR_INDUSTRY</Type>
 			<BuildingClass>BUILDINGCLASS_GASOLINE_CAR_INDUSTRY</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>450</Cost>
 			<PrereqTech>TECH_RAILROAD</PrereqTech>
 			<Description>TXT_KEY_BUILDING_GASOLINE_CAR_INDUSTRY</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_GASOLINE_CAR_INDUSTRY_TEXT</Civilopedia>
@@ -41,7 +41,7 @@
 		<Row>
 			<Type>BUILDING_ELECTRICITY_CAR_INDUSTRY</Type>
 			<BuildingClass>BUILDINGCLASS_ELECTRICITY_CAR_INDUSTRY</BuildingClass>
-			<Cost>800</Cost>
+			<Cost>600</Cost>
 			<PrereqTech>TECH_RAILROAD</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ELECTRICITY_CAR_INDUSTRY</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ELECTRICITY_CAR_INDUSTRY_TEXT</Civilopedia>

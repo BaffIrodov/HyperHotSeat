@@ -7,7 +7,7 @@
 		<Row>
 			<Type>BUILDING_BAKERY_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_BAKERY_FACTORY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BAKERY_FACTORY_TEXT</Civilopedia>
@@ -27,7 +27,7 @@
 		<Row>
 			<Type>BUILDING_BAKERY_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_BAKERY_FACTORY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_BAKERY_FACTORY_LARGE</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BAKERY_FACTORY_LARGE_TEXT</Civilopedia>
@@ -48,7 +48,7 @@
 		<Row>
 			<Type>BUILDING_FISH_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_FISH_FACTORY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_FISH_FACTORY</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FISH_FACTORY_TEXT</Civilopedia>
@@ -68,7 +68,7 @@
 		<Row>
 			<Type>BUILDING_FISH_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_FISH_FACTORY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_FISH_FACTORY_LARGE</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FISH_FACTORY_LARGE_TEXT</Civilopedia>
@@ -89,7 +89,7 @@
 		<Row>
 			<Type>BUILDING_MEAT_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_MEAT_FACTORY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MEAT_FACTORY</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MEAT_FACTORY_TEXT</Civilopedia>
@@ -109,7 +109,7 @@
 		<Row>
 			<Type>BUILDING_MEAT_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_MEAT_FACTORY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MEAT_FACTORY_LARGE</Description>
 			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MEAT_FACTORY_LARGE_TEXT</Civilopedia>
@@ -140,11 +140,6 @@
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>2</Cost>
 		</Row>
-		<Row>
-			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>1</Cost>
-		</Row>
 
 		<!-- Большой хлебобулочный -->
 		<Row>
@@ -156,11 +151,6 @@
 			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>6</Cost>
-		</Row>
-		<Row>
-			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>3</Cost>
 		</Row>
 
 		<!-- Рыбный -->
@@ -174,11 +164,6 @@
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>2</Cost>
 		</Row>
-		<Row>
-			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>1</Cost>
-		</Row>
 
 		<!-- Большой рыбный -->
 		<Row>
@@ -190,11 +175,6 @@
 			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>6</Cost>
-		</Row>
-		<Row>
-			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>3</Cost>
 		</Row>
 
 		<!-- Мясной -->
@@ -208,11 +188,6 @@
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>2</Cost>
 		</Row>
-		<Row>
-			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>1</Cost>
-		</Row>
 
 		<!-- Большой мясной -->
 		<Row>
@@ -224,11 +199,6 @@
 			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
 			<Cost>6</Cost>
-		</Row>
-		<Row>
-			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
-			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
-			<Cost>3</Cost>
 		</Row>
 	</Building_ResourceQuantityRequirements>
 

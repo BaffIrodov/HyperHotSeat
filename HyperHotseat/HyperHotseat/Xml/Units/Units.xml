@@ -8,7 +8,7 @@
 			<Type>UNIT_MARINE</Type>
 			<PrereqTech>TECH_PENICILIN</PrereqTech>
 			<Combat>30</Combat>
-			<Cost>350</Cost>
+			<Cost>300</Cost>
 			<FaithCost>800</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -172,6 +172,84 @@
 			<PortraitIndex>3</PortraitIndex>
 			<PurchaseOnly>true</PurchaseOnly>
 		</Replace>
+		<!-- Религиозные юниты, понижаю им стоимость в вере, апаю всем количество -->
+		<Replace>
+			<Class>UNITCLASS_PROPHET</Class>
+			<Type>UNIT_PROPHET</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<Capture>UNITCLASS_PROPHET</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_PROPHET</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GREAT_PROPHET</Description>
+			<Civilopedia>TXT_KEY_CIV5_GREATPROPHETS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<FoundReligion>true</FoundReligion>
+			<SpreadReligion>true</SpreadReligion>
+			<ReligionSpreads>6</ReligionSpreads>
+			<ReligiousStrength>1000</ReligiousStrength>
+			<UnitArtInfo>ART_DEF_UNIT_GREAT_PROPHET</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>16</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_MISSIONARY</Class>
+			<Type>UNIT_MISSIONARY</Type>
+			<Cost>-1</Cost>
+			<FaithCost>30</FaithCost>
+			<Moves>4</Moves>
+			<Capture>UNITCLASS_MISSIONARY</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_MISSIONARY</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MISSIONARY</Description>
+			<Civilopedia>TXT_KEY_CIV5_MISSIONARY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MISSIONARY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MISSIONARY</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<SpreadReligion>true</SpreadReligion>
+			<ReligionSpreads>5</ReligionSpreads>
+			<ReligiousStrength>1000</ReligiousStrength>
+			<UnitArtInfo>ART_DEF_UNIT_MISSIONARY</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>20</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>20</PortraitIndex>
+		</Replace>
+		<Replace>
+			<Class>UNITCLASS_INQUISITOR</Class>
+			<Type>UNIT_INQUISITOR</Type>
+			<Cost>-1</Cost>
+			<FaithCost>20</FaithCost>
+			<Moves>3</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_INQUISITOR</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_INQUISITOR</Description>
+			<Civilopedia>TXT_KEY_CIV5_INQUISITOR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_INQUISITOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_INQUISITOR</Help>
+			<RequiresEnhancedReligion>true</RequiresEnhancedReligion>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<ReligiousStrength>1250</ReligiousStrength>
+			<RemoveHeresy>true</RemoveHeresy>
+			<ProhibitsSpread>true</ProhibitsSpread>
+			<UnitArtInfo>ART_DEF_UNIT_INQUISITOR</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+		</Replace>
 		<!-- Юниты WW2 ниже -->
 		<!-- Наземные юниты WW2 ниже -->
 		<Replace>
@@ -180,7 +258,7 @@
 			<PrereqTech>TECH_BALLISTICS</PrereqTech>
 			<Combat>60</Combat>
 			<RangedCombat>60</RangedCombat>
-			<Cost>750</Cost>
+			<Cost>600</Cost>
 			<FaithCost>700</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -211,7 +289,7 @@
 			<Type>UNIT_PARATROOPER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
 			<Combat>65</Combat>
-			<Cost>375</Cost>
+			<Cost>650</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -238,8 +316,8 @@
 			<Class>UNITCLASS_TANK</Class>
 			<Type>UNIT_TANK</Type>
 			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
-			<Combat>70</Combat>
-			<Cost>375</Cost>
+			<Combat>85</Combat>
+			<Cost>850</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -267,8 +345,8 @@
 			<Class>UNITCLASS_TANK</Class>
 			<Type>UNIT_GERMAN_PANZER</Type>
 			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
-			<Combat>80</Combat>
-			<Cost>375</Cost>
+			<Combat>95</Combat>
+			<Cost>950</Cost>
 			<Moves>6</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -296,9 +374,9 @@
 			<Class>UNITCLASS_ARTILLERY</Class>
 			<Type>UNIT_ARTILLERY</Type>
 			<PrereqTech>TECH_DYNAMITE</PrereqTech>
-			<Combat>35</Combat>
-			<RangedCombat>45</RangedCombat>
-			<Cost>250</Cost>
+			<Combat>50</Combat>
+			<RangedCombat>60</RangedCombat>
+			<Cost>550</Cost>
 			<Moves>2</Moves>
 			<Range>3</Range>
 			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
@@ -328,7 +406,7 @@
 			<Type>UNIT_ANTI_AIRCRAFT_GUN</Type>
 			<PrereqTech>TECH_BALLISTICS</PrereqTech>
 			<Combat>55</Combat>
-			<Cost>375</Cost>
+			<Cost>550</Cost>
 			<Moves>2</Moves>
 			<Range>2</Range>
 			<AirInterceptRange>2</AirInterceptRange>
@@ -359,8 +437,8 @@
 			<Class>UNITCLASS_ANTI_TANK_GUN</Class>
 			<Type>UNIT_ANTI_TANK_GUN</Type>
 			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
-			<Combat>60</Combat>
-			<Cost>300</Cost>
+			<Combat>65</Combat>
+			<Cost>650</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -389,7 +467,7 @@
 			<Type>UNIT_INFANTRY</Type>
 			<PrereqTech>TECH_PLASTIC</PrereqTech>
 			<Combat>70</Combat>
-			<Cost>375</Cost>
+			<Cost>700</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -414,11 +492,44 @@
 			<PurchaseOnly>true</PurchaseOnly>
 		</Replace>
 		<Replace>
+			<Class>UNITCLASS_INFANTRY</Class>
+			<Type>UNIT_BRAZILIAN_PRACINHA</Type>
+			<PrereqTech>TECH_PLASTIC</PrereqTech>
+			<Combat>70</Combat>
+			<Cost>700</Cost>
+			<FaithCost>750</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BRAZILIAN_PRACINHA</Description>
+			<Civilopedia>TXT_KEY_CIV5_BRAZILIAN_PRACINHA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BRAZILIAN_PRACINHA_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MOBILE_TACTICS</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_MECHANIZED_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>35</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>6</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_U_BRAZILIAN_PRACINHAS</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>16</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<PurchaseOnly>true</PurchaseOnly>
+		</Replace>
+		<Replace>
 			<Class>UNITCLASS_CAVALRY</Class>
 			<Type>UNIT_CAVALRY</Type>
 			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
-			<Combat>34</Combat>
-			<Cost>225</Cost>
+			<Combat>35</Combat>
+			<Cost>350</Cost>
 			<Moves>4</Moves>
 			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -446,8 +557,8 @@
 			<Class>UNITCLASS_CAVALRY</Class>
 			<Type>UNIT_RUSSIAN_COSSACK</Type>
 			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
-			<Combat>34</Combat>
-			<Cost>225</Cost>
+			<Combat>35</Combat>
+			<Cost>350</Cost>
 			<Moves>4</Moves>
 			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -479,7 +590,7 @@
 			<Type>UNIT_CARRIER</Type>
 			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
 			<Combat>60</Combat>
-			<Cost>375</Cost>
+			<Cost>750</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
@@ -510,9 +621,9 @@
 			<Class>UNITCLASS_BATTLESHIP</Class>
 			<Type>UNIT_BATTLESHIP</Type>
 			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
-			<Combat>65</Combat>
-			<RangedCombat>75</RangedCombat>
-			<Cost>375</Cost>
+			<Combat>80</Combat>
+			<RangedCombat>100</RangedCombat>
+			<Cost>900</Cost>
 			<Moves>5</Moves>
 			<Range>3</Range>
 			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
@@ -542,12 +653,12 @@
 			<Class>UNITCLASS_SUBMARINE</Class>
 			<Type>UNIT_SUBMARINE</Type>
 			<PrereqTech>TECH_REFRIGERATION</PrereqTech>
-			<Combat>35</Combat>
+			<Combat>40</Combat>
 			<RangedCombat>60</RangedCombat>
-			<Cost>325</Cost>
+			<Cost>500</Cost>
 			<Moves>5</Moves>
-			<Range>3</Range>
-			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_SUBMARINE</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
 			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_SUBMARINE</Description>
@@ -577,7 +688,7 @@
 			<Type>UNIT_DESTROYER</Type>
 			<PrereqTech>TECH_COMBUSTION</PrereqTech>
 			<Combat>55</Combat>
-			<Cost>375</Cost>
+			<Cost>550</Cost>
 			<Moves>6</Moves>
 			<AirInterceptRange>2</AirInterceptRange>
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
@@ -644,7 +755,7 @@
 			<Type>UNIT_BOMBER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
 			<RangedCombat>65</RangedCombat>
-			<Cost>375</Cost>
+			<Cost>650</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<Range>10</Range>
@@ -678,7 +789,7 @@
 			<Type>UNIT_AMERICAN_B17</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
 			<RangedCombat>70</RangedCombat>
-			<Cost>375</Cost>
+			<Cost>700</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<Range>10</Range>
@@ -712,7 +823,7 @@
 			<Type>UNIT_FIGHTER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
 			<RangedCombat>45</RangedCombat>
-			<Cost>375</Cost>
+			<Cost>450</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<Range>8</Range>
@@ -747,7 +858,7 @@
 			<Type>UNIT_JAPANESE_ZERO</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
 			<RangedCombat>45</RangedCombat>
-			<Cost>375</Cost>
+			<Cost>450</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<Range>8</Range>
@@ -786,8 +897,8 @@
 			<Class>UNITCLASS_MODERN_ARMOR</Class>
 			<Type>UNIT_MODERN_ARMOR</Type>
 			<PrereqTech>TECH_LASERS</PrereqTech>
-			<Combat>100</Combat>
-			<Cost>425</Cost>
+			<Combat>170</Combat>
+			<Cost>1700</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -815,8 +926,8 @@
 			<Class>UNITCLASS_HELICOPTER_GUNSHIP</Class>
 			<Type>UNIT_HELICOPTER_GUNSHIP</Type>
 			<PrereqTech>TECH_COMPUTERS</PrereqTech>
-			<Combat>60</Combat>
-			<Cost>425</Cost>
+			<Combat>120</Combat>
+			<Cost>1200</Cost>
 			<Moves>6</Moves>
 			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -843,8 +954,8 @@
 			<Class>UNITCLASS_MOBILE_SAM</Class>
 			<Type>UNIT_MOBILE_SAM</Type>
 			<PrereqTech>TECH_ROCKETRY</PrereqTech>
-			<Combat>65</Combat>
-			<Cost>425</Cost>
+			<Combat>90</Combat>
+			<Cost>900</Cost>
 			<Moves>3</Moves>
 			<Range>2</Range>
 			<AirInterceptRange>3</AirInterceptRange>
@@ -874,10 +985,10 @@
 			<Class>UNITCLASS_ROCKET_ARTILLERY</Class>
 			<Type>UNIT_ROCKET_ARTILLERY</Type>
 			<PrereqTech>TECH_ROCKETRY</PrereqTech>
-			<Combat>45</Combat>
-			<RangedCombat>60</RangedCombat>
-			<Cost>425</Cost>
-			<Moves>2</Moves>
+			<Combat>70</Combat>
+			<RangedCombat>120</RangedCombat>
+			<Cost>1000</Cost>
+			<Moves>3</Moves>
 			<Range>3</Range>
 			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -905,9 +1016,9 @@
 			<Class>UNITCLASS_MECHANIZED_INFANTRY</Class>
 			<Type>UNIT_MECHANIZED_INFANTRY</Type>
 			<PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
-			<Combat>90</Combat>
-			<Cost>375</Cost>
-			<Moves>3</Moves>
+			<Combat>140</Combat>
+			<Cost>1400</Cost>
+			<Moves>4</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
@@ -934,9 +1045,9 @@
 			<Class>UNITCLASS_BAZOOKA</Class>
 			<Type>UNIT_BAZOOKA</Type>
 			<PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
-			<Combat>85</Combat>
-			<RangedCombat>85</RangedCombat>
-			<Cost>375</Cost>
+			<Combat>100</Combat>
+			<RangedCombat>100</RangedCombat>
+			<Cost>1000</Cost>
 			<FaithCost>750</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>
@@ -969,9 +1080,9 @@
 			<Class>UNITCLASS_MISSILE_CRUISER</Class>
 			<Type>UNIT_MISSILE_CRUISER</Type>
 			<PrereqTech>TECH_ROBOTICS</PrereqTech>
-			<Combat>80</Combat>
-			<RangedCombat>100</RangedCombat>
-			<Cost>425</Cost>
+			<Combat>100</Combat>
+			<RangedCombat>120</RangedCombat>
+			<Cost>1100</Cost>
 			<Moves>7</Moves>
 			<Range>3</Range>
 			<AirInterceptRange>3</AirInterceptRange>
@@ -1004,12 +1115,12 @@
 			<Class>UNITCLASS_NUCLEAR_SUBMARINE</Class>
 			<Type>UNIT_NUCLEAR_SUBMARINE</Type>
 			<PrereqTech>TECH_TELECOM</PrereqTech>
-			<Combat>50</Combat>
-			<RangedCombat>85</RangedCombat>
-			<Cost>425</Cost>
+			<Combat>70</Combat>
+			<RangedCombat>90</RangedCombat>
+			<Cost>800</Cost>
 			<Moves>6</Moves>
 			<Range>3</Range>
-			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<CombatClass>UNITCOMBAT_SUBMARINE</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
 			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_NUCLEAR_SUBMARINE</Description>
@@ -1075,8 +1186,8 @@
 			<Class>UNITCLASS_STEALTH_BOMBER</Class>
 			<Type>UNIT_STEALTH_BOMBER</Type>
 			<PrereqTech>TECH_STEALTH</PrereqTech>
-			<RangedCombat>85</RangedCombat>
-			<Cost>425</Cost>
+			<RangedCombat>120</RangedCombat>
+			<Cost>1200</Cost>
 			<Moves>2</Moves>
 			<Special>SPECIALUNIT_STEALTH</Special>
 			<Immobile>true</Immobile>
@@ -1109,8 +1220,8 @@
 			<Class>UNITCLASS_JET_FIGHTER</Class>
 			<Type>UNIT_JET_FIGHTER</Type>
 			<PrereqTech>TECH_LASERS</PrereqTech>
-			<RangedCombat>75</RangedCombat>
-			<Cost>425</Cost>
+			<RangedCombat>90</RangedCombat>
+			<Cost>900</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<Range>10</Range>
@@ -1144,8 +1255,8 @@
 			<Class>UNITCLASS_GUIDED_MISSILE</Class>
 			<Type>UNIT_GUIDED_MISSILE</Type>
 			<PrereqTech>TECH_ADVANCED_BALLISTICS</PrereqTech>
-			<RangedCombat>60</RangedCombat>
-			<Cost>150</Cost>
+			<RangedCombat>150</RangedCombat>
+			<Cost>450</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
 			<NoMaintenance>true</NoMaintenance>
@@ -1182,8 +1293,8 @@
 			<Class>UNITCLASS_MECH</Class>
 			<Type>UNIT_MECH</Type>
 			<PrereqTech>TECH_NUCLEAR_FUSION</PrereqTech>
-			<Combat>150</Combat>
-			<Cost>425</Cost>
+			<Combat>340</Combat>
+			<Cost>3400</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -1211,8 +1322,8 @@
 			<Class>UNITCLASS_XCOM_SQUAD</Class>
 			<Type>UNIT_XCOM_SQUAD</Type>
 			<PrereqTech>TECH_NANOTECHNOLOGY</PrereqTech>
-			<Combat>100</Combat>
-			<Cost>400</Cost>
+			<Combat>280</Combat>
+			<Cost>2800</Cost>
 			<FaithCost>800</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

@@ -6,7 +6,7 @@
 		<Row>
 			<Type>BUILDING_GUNPOWDER_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_GUNPOWDER_FACTORY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>5</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_GUNPOWDER_FACTORY</Description>
@@ -25,7 +25,7 @@
 		<Row>
 			<Type>BUILDING_GUNPOWDER_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_GUNPOWDER_FACTORY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>20</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_GUNPOWDER_FACTORY_LARGE</Description>
@@ -46,7 +46,7 @@
 		<Row>
 			<Type>BUILDING_MAGNET_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_MAGNET_FACTORY</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>200</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MAGNET_FACTORY</Description>
@@ -65,7 +65,7 @@
 		<Row>
 			<Type>BUILDING_MAGNET_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_MAGNET_FACTORY_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>500</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE</Description>
@@ -86,7 +86,7 @@
 		<Row>
 			<Type>BUILDING_PLUTONIUM_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_PLUTONIUM_FACTORY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>10</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_PLUTONIUM_FACTORY</Description>
@@ -107,7 +107,7 @@
 		<Row>
 			<Type>BUILDING_PLUTONIUM_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_PLUTONIUM_FACTORY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>1000</Cost>
 			<GoldMaintenance>40</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_PLUTONIUM_FACTORY_LARGE</Description>
@@ -168,7 +168,7 @@
 		<Row>
 			<Type>BUILDING_STEEL_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_STEEL_FACTORY</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_STEEL_FACTORY</Description>
@@ -189,7 +189,7 @@
 		<Row>
 			<Type>BUILDING_STEEL_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_STEEL_FACTORY_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_STEEL_FACTORY_LARGE</Description>
@@ -210,7 +210,7 @@
 		<Row>
 			<Type>BUILDING_OIL_REFINERY</Type>
 			<BuildingClass>BUILDINGCLASS_OIL_REFINERY</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_OIL_REFINERY</Description>
@@ -231,7 +231,7 @@
 		<Row>
 			<Type>BUILDING_OIL_REFINERY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_OIL_REFINERY_LARGE</BuildingClass>
-			<Cost>1250</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_OIL_REFINERY_LARGE</Description>

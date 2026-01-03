@@ -6,7 +6,7 @@
 		<Row>
 			<Type>BUILDING_ARMOR_STEEL_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_ARMOR_STEEL_FACTORY</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY</Description>
@@ -27,7 +27,7 @@
 		<Row>
 			<Type>BUILDING_ARMOR_STEEL_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_ARMOR_STEEL_FACTORY_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ARMOR_STEEL_FACTORY_LARGE</Description>
@@ -48,7 +48,7 @@
 		<Row>
 			<Type>BUILDING_ARMOR_COMPOSITE_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_ARMOR_COMPOSITE_FACTORY</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY</Description>
@@ -69,7 +69,7 @@
 		<Row>
 			<Type>BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_ARMOR_COMPOSITE_FACTORY_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE</Description>
@@ -90,7 +90,7 @@
 		<Row>
 			<Type>BUILDING_AMMUNITION_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_AMMUNITION_FACTORY</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>5</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_AMMUNITION_FACTORY</Description>
@@ -111,7 +111,7 @@
 		<Row>
 			<Type>BUILDING_AMMUNITION_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_AMMUNITION_FACTORY_LARGE</BuildingClass>
-			<Cost>1500</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>20</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_AMMUNITION_FACTORY_LARGE</Description>
@@ -132,7 +132,7 @@
 		<Row>
 			<Type>BUILDING_ANALOG_ELECTRONICS_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_ANALOG_ELECTRONICS_FACTORY</BuildingClass>
-			<Cost>400</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>3</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY</Description>
@@ -153,7 +153,7 @@
 		<Row>
 			<Type>BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_ANALOG_ELECTRONICS_FACTORY_LARGE</BuildingClass>
-			<Cost>1000</Cost>
+			<Cost>750</Cost>
 			<GoldMaintenance>12</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE</Description>
@@ -174,7 +174,7 @@
 		<Row>
 			<Type>BUILDING_SILICON_ELECTRONICS_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_SILICON_ELECTRONICS_FACTORY</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>5</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY</Description>
@@ -195,7 +195,7 @@
 		<Row>
 			<Type>BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_SILICON_ELECTRONICS_FACTORY_LARGE</BuildingClass>
-			<Cost>1500</Cost>
+			<Cost>1000</Cost>
 			<GoldMaintenance>20</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE</Description>
@@ -216,7 +216,7 @@
 		<Row>
 			<Type>BUILDING_BATTERY_FACTORY</Type>
 			<BuildingClass>BUILDINGCLASS_BATTERY_FACTORY</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>500</Cost>
 			<GoldMaintenance>4</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_BATTERY_FACTORY</Description>
@@ -237,7 +237,7 @@
 		<Row>
 			<Type>BUILDING_BATTERY_FACTORY_LARGE</Type>
 			<BuildingClass>BUILDINGCLASS_BATTERY_FACTORY_LARGE</BuildingClass>
-			<Cost>1500</Cost>
+			<Cost>1250</Cost>
 			<GoldMaintenance>16</GoldMaintenance>
 			<PrereqTech>TECH_ECOLOGY</PrereqTech>
 			<Description>TXT_KEY_BUILDING_BATTERY_FACTORY_LARGE</Description>

@@ -7,7 +7,7 @@
 		<Row>
 			<Type>BUILDING_MOBILE_NETWORKS</Type>
 			<BuildingClass>BUILDINGCLASS_MOBILE_NETWORKS</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>4</GoldMaintenance>
 			<PrereqTech>TECH_INTERNET</PrereqTech>
 			<Description>TXT_KEY_BUILDING_MOBILE_NETWORKS</Description>
@@ -26,7 +26,7 @@
 		<Row>
 			<Type>BUILDING_INTERNET</Type>
 			<BuildingClass>BUILDINGCLASS_INTERNET</BuildingClass>
-			<Cost>800</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>6</GoldMaintenance>
 			<PrereqTech>TECH_INTERNET</PrereqTech>
 			<Description>TXT_KEY_BUILDING_INTERNET</Description>

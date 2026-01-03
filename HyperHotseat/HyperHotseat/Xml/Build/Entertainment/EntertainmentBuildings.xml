@@ -7,7 +7,7 @@
 		<Row>
 			<Type>BUILDING_TELEVISION</Type>
 			<BuildingClass>BUILDINGCLASS_TELEVISION</BuildingClass>
-			<Cost>500</Cost>
+			<Cost>300</Cost>
 			<GoldMaintenance>6</GoldMaintenance>
 			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
 			<Description>TXT_KEY_BUILDING_TELEVISION</Description>
@@ -26,7 +26,7 @@
 		<Row>
 			<Type>BUILDING_SMARTPHONES</Type>
 			<BuildingClass>BUILDINGCLASS_SMARTPHONES</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>8</GoldMaintenance>
 			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
 			<Description>TXT_KEY_BUILDING_SMARTPHONES</Description>
@@ -45,7 +45,7 @@
 		<Row>
 			<Type>BUILDING_PERSONAL_COMPUTERS</Type>
 			<BuildingClass>BUILDINGCLASS_PERSONAL_COMPUTERS</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>400</Cost>
 			<GoldMaintenance>8</GoldMaintenance>
 			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
 			<Description>TXT_KEY_BUILDING_PERSONAL_COMPUTERS</Description>

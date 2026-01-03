@@ -34,6 +34,7 @@
 			<Cost>2</Cost>
 		</Row>
 
+		<Delete BuildingType="BUILDING_FACTORY"/>
 		<Row>
 			<BuildingType>BUILDING_FACTORY</BuildingType>
 			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
@@ -70,4 +71,30 @@
 			<Cost>1</Cost>
 		</Row>
 	</Building_ResourceQuantityRequirements>
+	<Language_RU_RU>
+		<Replace Tag="TXT_KEY_BUILDING_HOSPITAL_STRATEGY">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
+			<Text>Требуется 2 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_FACTORY_HELP">
+			<Text>Требуется 2 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_BANK_HELP">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_STOCK_EXCHANGE_HELP">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_MILITARY_ACADEMY_HELP">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_HELP">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILDING_MILITARY_BASE_HELP">
+			<Text>Требуется 1 eд. электричества.</Text>
+		</Replace>
+	</Language_RU_RU>
 </GameData>

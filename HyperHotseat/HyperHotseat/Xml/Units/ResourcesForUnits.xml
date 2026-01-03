@@ -61,6 +61,17 @@
 			<ResourceType>RESOURCE_MILITARY_CLOTHING</ResourceType>
 			<Cost>1</Cost>
 		</Row>
+		<Delete UnitType="UNIT_BRAZILIAN_PRACINHA"/>
+		<Row>
+			<UnitType>UNIT_BRAZILIAN_PRACINHA</UnitType>
+			<ResourceType>RESOURCE_AMMUNITION</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BRAZILIAN_PRACINHA</UnitType>
+			<ResourceType>RESOURCE_MILITARY_CLOTHING</ResourceType>
+			<Cost>1</Cost>
+		</Row>
 		<Delete UnitType="UNIT_PARATROOPER"/>
 		<Row>
 			<UnitType>UNIT_PARATROOPER</UnitType>

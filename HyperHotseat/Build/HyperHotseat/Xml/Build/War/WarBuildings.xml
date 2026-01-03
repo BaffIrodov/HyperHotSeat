@@ -6,7 +6,7 @@
 		<Row>
 			<Type>BUILDING_URBAN_DEVELOPMENT</Type>
 			<BuildingClass>BUILDINGCLASS_URBAN_DEVELOPMENT</BuildingClass>
-			<Cost>1500</Cost>
+			<Cost>1000</Cost>
 			<GoldMaintenance>10</GoldMaintenance>
 			<PrereqTech>TECH_REPLACEABLE_PARTS</PrereqTech>
 			<Help>TXT_KEY_BUILDING_URBAN_DEVELOPMENT_HELP</Help>
@@ -29,7 +29,7 @@
 		<Row>
 			<Type>BUILDING_OFFICER_ACADEMY</Type>
 			<BuildingClass>BUILDINGCLASS_OFFICER_ACADEMY</BuildingClass>
-			<Cost>600</Cost>
+			<Cost>500</Cost>
 			<GoldMaintenance>6</GoldMaintenance>
 			<PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
 			<Help>TXT_KEY_BUILDING_OFFICER_ACADEMY_HELP</Help>

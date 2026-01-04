@@ -419,7 +419,6 @@
 			<Help>TXT_KEY_UNIT_HELP_ANTI_AIRCRAFT_GUN</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<ObsoleteTech>TECH_ROCKETRY</ObsoleteTech>
 			<Pillage>true</Pillage>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<AdvancedStartCost>35</AdvancedStartCost>
@@ -478,7 +477,6 @@
 			<Help>TXT_KEY_UNIT_HELP_INFANTRY</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<ObsoleteTech>TECH_MOBILE_TACTICS</ObsoleteTech>
 			<Pillage>true</Pillage>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<AdvancedStartCost>35</AdvancedStartCost>
@@ -510,7 +508,6 @@
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
-			<ObsoleteTech>TECH_MOBILE_TACTICS</ObsoleteTech>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<GoodyHutUpgradeUnitClass>UNITCLASS_MECHANIZED_INFANTRY</GoodyHutUpgradeUnitClass>
 			<AdvancedStartCost>35</AdvancedStartCost>
@@ -541,7 +538,6 @@
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
-			<ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<AdvancedStartCost>30</AdvancedStartCost>
 			<XPValueAttack>3</XPValueAttack>
@@ -570,7 +566,6 @@
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
-			<ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 			<AdvancedStartCost>30</AdvancedStartCost>
 			<XPValueAttack>3</XPValueAttack>
@@ -669,7 +664,6 @@
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
 			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
-			<ObsoleteTech>TECH_TELECOM</ObsoleteTech>
 			<Mechanized>true</Mechanized>
 			<AdvancedStartCost>60</AdvancedStartCost>
 			<MinAreaSize>10</MinAreaSize>

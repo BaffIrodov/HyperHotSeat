@@ -94,45 +94,45 @@
     <File md5="8E31A84C4765494FB93A146487CBDA04" import="1">Art/Resource_Electricity_45.dds</File>
     <File md5="939DE60180E0696ADF33B051A2E1B5F4" import="1">Art/Resource_Electricity_64.dds</File>
     <File md5="481416093055369B27441162F402A4EE" import="0">Xml/Build/Car/CarBuildingClass.xml</File>
-    <File md5="F00167156E070B7F197A8C9CD1F184F7" import="0">Xml/Build/Car/CarBuildings.xml</File>
+    <File md5="B42DF8EFC62E2E5C3632F5B04374803F" import="0">Xml/Build/Car/CarBuildings.xml</File>
     <File md5="6F349D834DEC14B3669CBA7BDA56B0F9" import="0">Xml/Build/Car/Icons_CarBuildings.xml</File>
     <File md5="53C88559A09C10734AA2AC98A408821E" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
     <File md5="D7DF5CD2182D5A964E7F8245506594A9" import="0">Xml/Build/Clothing/ClothingBuildingClass.xml</File>
-    <File md5="0F1F1CA04DC06915DBACCDA4F0375ECD" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
+    <File md5="08454D2B1A5CE7FC386EBE6F2FFE2F6B" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="2403350DD13E2A1A002FD5DDC65D140E" import="0">Xml/Build/Clothing/Icons_ClothingBuildings.xml</File>
-    <File md5="BA93E7F10F3254B181255377767E732F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
+    <File md5="2C74C62F69B121BEE77FF2C6FF19217F" import="0">Xml/Build/Clothing/Text_ClothingBuildings.xml</File>
     <File md5="6465277931756373F012728D3E43C016" import="0">Xml/Build/Energy/Icons_EnergyBuildings.xml</File>
     <File md5="6AC884E1E0B1812E40ED703B804C67F9" import="0">Xml/Build/Entertainment/EntertainmentBuildingClass.xml</File>
-    <File md5="13109FD2887AFFD3DAD226B007083960" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
+    <File md5="ECC8D3B24F4833427322B2087730616D" import="0">Xml/Build/Entertainment/EntertainmentBuildings.xml</File>
     <File md5="74525A72CC25BD53AE21AFC0A0BA4074" import="0">Xml/Build/Entertainment/Icons_EntertainmentBuildings.xml</File>
     <File md5="5408FD21642F7C47BA78EE4752E1E149" import="0">Xml/Build/Entertainment/Text_EntertainmentBuildings.xml</File>
     <File md5="ABEBFE83B59B20302397FC2AE9523A26" import="0">Xml/Build/Financial/FinancialBuildingClass.xml</File>
-    <File md5="5B18D2264221EF304845AD18D100D76E" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
+    <File md5="8412361CD568FBFF3F59D27BED2A02B5" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
     <File md5="648B4BBC399A9D5EE834B39401B7C523" import="0">Xml/Build/Financial/Text_FinancialBuildings.xml</File>
     <File md5="A264BD5CB24C5E9C04F3C78B7415A79D" import="0">Xml/Build/Food/FoodBuildingClass.xml</File>
-    <File md5="4DBC127C9D405C5D54E8A252994BFAE3" import="0">Xml/Build/Food/FoodBuildings.xml</File>
-    <File md5="AD385884FE26A76A62F0AB0D5BE63DE6" import="0">Xml/Build/Food/Text_FoodBuildings.xml</File>
+    <File md5="F715C894B5701C8018C476E4B2368E33" import="0">Xml/Build/Food/FoodBuildings.xml</File>
+    <File md5="1AB515FA79D4D17BD7E58822C085E292" import="0">Xml/Build/Food/Text_FoodBuildings.xml</File>
     <File md5="D2AB297EDAD6D9A1D0B569726FB79208" import="0">Xml/Build/Medicine/MedicineBuildingClass.xml</File>
-    <File md5="8F4089E6E484C82C909EFF5FA000ABCC" import="0">Xml/Build/Medicine/MedicineBuildings.xml</File>
+    <File md5="43CE0A16A57675EAAE775A14FA69AB55" import="0">Xml/Build/Medicine/MedicineBuildings.xml</File>
     <File md5="F6B93EB88B2EE3210FAA643D60925C42" import="0">Xml/Build/Medicine/Text_MedicineBuildings.xml</File>
     <File md5="5F197FDC4118C92383BAAD76105693FD" import="0">Xml/Build/Network/NetworkBuildingClass.xml</File>
-    <File md5="6803ADEA52C40D20F4BC4E0E78F0B10F" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
+    <File md5="098E15598E4747961371F92E908CDC9C" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
     <File md5="7961D765A204AB6ED977F557A5ADC038" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
     <File md5="25CA85FDB728BEE9CD8D8DDB0B35A084" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
-    <File md5="2BBF4BBC9F49F46AB76B8F3C6A5E66C0" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
+    <File md5="25A8D28DFB9E7771BE5CF9E85AFEB6A3" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
     <File md5="7C92B5BEBCBEB39E44BB2D7741131F69" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
-    <File md5="625FB919BE0876CAD4F5238CBA7C181E" import="0">Xml/Build/OldBuildings/OldBuildings.xml</File>
+    <File md5="7C0704664692C5397FEE336A20795725" import="0">Xml/Build/OldBuildings/OldBuildings.xml</File>
     <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
-    <File md5="81CE9FAC6D3CA75B05F9560988350FB8" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
+    <File md5="08DB3C6199FD014961F87B8328F7A0E9" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
     <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
     <File md5="8DAF449D5615B1231DA26BE1B6E71C53" import="0">Xml/Build/T3Res/T3ResBuildingClass.xml</File>
-    <File md5="624838989882A02C6C4F75FB683E8FFF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
+    <File md5="04E85DF26FC8542CA32543DE73172A57" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
     <File md5="43A2DFB4601FB2AEF06E5E6303B9CFF9" import="0">Xml/Build/T3Res/Text_T3ResBuildings.xml</File>
     <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
-    <File md5="3A24ED94D6392966412886EA56DE667F" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
+    <File md5="A3DD221C6E16D2FAD66E8283985F1E2E" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>
     <File md5="7C6E3718B009A0FC5193DC69D339D06D" import="0">Xml/Build/Tourism/Text_TourismBuildings.xml</File>
     <File md5="161AF71D555B4B97AA3C9567973D6ECC" import="0">Xml/Build/War/WarBuildingClass.xml</File>
-    <File md5="E6AAFFB5A2CFD8F308EEB66600664E4D" import="0">Xml/Build/War/WarBuildings.xml</File>
+    <File md5="84AEB3757417254E518C691626E640F7" import="0">Xml/Build/War/WarBuildings.xml</File>
     <File md5="EFFDDAC2220A219F32B6DC41BB21259B" import="0">Xml/Build/War/Text_WarBuildings.xml</File>
     <File md5="9F0595B29D4E97629565A7D0E88D3F69" import="0">Xml/Civilizations/Civilization_txt_replace.xml</File>
     <File md5="AA4867665978A253056C7F681B3126DD" import="0">Xml/ONE_CITY_RANGE.xml</File>
@@ -153,9 +153,9 @@
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
     <File md5="3B01590A4AE3D704B469FDDF4A442C0A" import="0">Xml/Units/BuildsReplace.xml</File>
     <File md5="A0DFFD0C4DA4F5EDD8CDDA772C400E7B" import="0">Xml/Units/OldDisabledUnits.xml</File>
-    <File md5="801332DF5A5C2CF17237F798C1329325" import="0">Xml/Units/ResourcesForUnits.xml</File>
+    <File md5="050134EA0F37936D2179CBDEE4D371A1" import="0">Xml/Units/ResourcesForUnits.xml</File>
     <File md5="4A553CFC582BC466865F7DF99952550C" import="0">Xml/Units/Text_Units.xml</File>
-    <File md5="5194661C2A914B0E288315C2B939D3E3" import="0">Xml/Units/Units.xml</File>
+    <File md5="C658859959F45C62642ADC444D6DC568" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>

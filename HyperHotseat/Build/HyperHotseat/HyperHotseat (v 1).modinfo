@@ -126,7 +126,7 @@
     <File md5="08DB3C6199FD014961F87B8328F7A0E9" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
     <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
     <File md5="8DAF449D5615B1231DA26BE1B6E71C53" import="0">Xml/Build/T3Res/T3ResBuildingClass.xml</File>
-    <File md5="04E85DF26FC8542CA32543DE73172A57" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
+    <File md5="B7E2C1CAA27079A78C22D5A6552FC1CF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
     <File md5="43A2DFB4601FB2AEF06E5E6303B9CFF9" import="0">Xml/Build/T3Res/Text_T3ResBuildings.xml</File>
     <File md5="8B32DC6F62AD6B5AA9CFB5F60BD8DDB0" import="0">Xml/Build/Tourism/TourismBuildingClass.xml</File>
     <File md5="A3DD221C6E16D2FAD66E8283985F1E2E" import="0">Xml/Build/Tourism/TourismBuildings.xml</File>

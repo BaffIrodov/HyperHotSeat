@@ -330,7 +330,7 @@
 		<Row>
 			<BuildingType>BUILDING_AMMUNITION_FACTORY</BuildingType>
 			<ResourceType>RESOURCE_GUNPOWDER</ResourceType>
-			<Cost>2</Cost>
+			<Cost>1</Cost>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_AMMUNITION_FACTORY</BuildingType>
@@ -345,7 +345,7 @@
 		<Row>
 			<BuildingType>BUILDING_AMMUNITION_FACTORY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_GUNPOWDER</ResourceType>
-			<Cost>6</Cost>
+			<Cost>3</Cost>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_AMMUNITION_FACTORY_LARGE</BuildingType>

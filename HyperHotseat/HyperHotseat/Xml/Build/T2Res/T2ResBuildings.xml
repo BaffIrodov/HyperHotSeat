@@ -392,12 +392,12 @@
 		<Row>
 			<BuildingType>BUILDING_MAGNET_FACTORY</BuildingType>
 			<ResourceType>RESOURCE_MAGNET</ResourceType>
-			<Quantity>1</Quantity>
+			<Quantity>2</Quantity>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MAGNET_FACTORY_LARGE</BuildingType>
 			<ResourceType>RESOURCE_MAGNET</ResourceType>
-			<Quantity>3</Quantity>
+			<Quantity>6</Quantity>
 		</Row>
 
 		<!-- Плутониевый -->

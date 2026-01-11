@@ -42,7 +42,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_HELP">
-			<Text>Производит 1 ед. магнита и +2 [ICON_PRODUCTION] производства. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. железа и 2 ед. электричества.</Text>
+			<Text>Производит 2 ед. магнита и +2 [ICON_PRODUCTION] производства. Содержание: 3 [ICON_GOLD] золота. Требует 1 ед. железа и 2 ед. электричества.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_STRATEGY">
 			<Text>Создаёт постоянные магниты для промышленности и энергетики. Нужны поставки железа и электроэнергии.</Text>
@@ -58,7 +58,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE_HELP">
-			<Text>Производит 3 ед. магнита и +6 [ICON_PRODUCTION] производства. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. железа и 6 ед. электричества. 1 инженер.</Text>
+			<Text>Производит 6 ед. магнита и +6 [ICON_PRODUCTION] производства. Содержание: 12 [ICON_GOLD] золота. Требует 3 ед. железа и 6 ед. электричества. 1 инженер.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_MAGNET_FACTORY_LARGE_STRATEGY">
 			<Text>Массовое производство высокоэнергетичных магнитов для электродвигателей и генераторов. Требует развитой металлургии и энергетики.</Text>

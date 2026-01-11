@@ -123,8 +123,8 @@
     <File md5="7C92B5BEBCBEB39E44BB2D7741131F69" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>
     <File md5="7C0704664692C5397FEE336A20795725" import="0">Xml/Build/OldBuildings/OldBuildings.xml</File>
     <File md5="158952462B8776844EDDE3DB142131FA" import="0">Xml/Build/T2Res/T2ResBuildingClass.xml</File>
-    <File md5="08DB3C6199FD014961F87B8328F7A0E9" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
-    <File md5="DDD50B282D18C8DDCD248A9C713CD44D" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
+    <File md5="25609B0651A150C7A01BEE7ED3313A30" import="0">Xml/Build/T2Res/T2ResBuildings.xml</File>
+    <File md5="3F73A4A9CE7CAED2F1CE16FA5FAC02D2" import="0">Xml/Build/T2Res/Text_T2ResBuildings.xml</File>
     <File md5="8DAF449D5615B1231DA26BE1B6E71C53" import="0">Xml/Build/T3Res/T3ResBuildingClass.xml</File>
     <File md5="B7E2C1CAA27079A78C22D5A6552FC1CF" import="0">Xml/Build/T3Res/T3ResBuildings.xml</File>
     <File md5="43A2DFB4601FB2AEF06E5E6303B9CFF9" import="0">Xml/Build/T3Res/Text_T3ResBuildings.xml</File>

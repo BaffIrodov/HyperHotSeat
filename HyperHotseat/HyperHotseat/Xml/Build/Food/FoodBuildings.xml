@@ -208,7 +208,7 @@
 		<Row>
 			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>7</Yield>
+			<Yield>10</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BAKERY_FACTORY</BuildingType>
@@ -219,7 +219,7 @@
 		<Row>
 			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>21</Yield>
+			<Yield>30</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_BAKERY_FACTORY_LARGE</BuildingType>
@@ -231,7 +231,7 @@
 		<Row>
 			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>7</Yield>
+			<Yield>10</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_FISH_FACTORY</BuildingType>
@@ -242,7 +242,7 @@
 		<Row>
 			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>21</Yield>
+			<Yield>30</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_FISH_FACTORY_LARGE</BuildingType>
@@ -254,7 +254,7 @@
 		<Row>
 			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>7</Yield>
+			<Yield>10</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MEAT_FACTORY</BuildingType>
@@ -265,7 +265,7 @@
 		<Row>
 			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>21</Yield>
+			<Yield>30</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MEAT_FACTORY_LARGE</BuildingType>

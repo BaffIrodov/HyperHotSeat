@@ -110,7 +110,7 @@
     <File md5="8412361CD568FBFF3F59D27BED2A02B5" import="0">Xml/Build/Financial/FinancialBuildings.xml</File>
     <File md5="648B4BBC399A9D5EE834B39401B7C523" import="0">Xml/Build/Financial/Text_FinancialBuildings.xml</File>
     <File md5="A264BD5CB24C5E9C04F3C78B7415A79D" import="0">Xml/Build/Food/FoodBuildingClass.xml</File>
-    <File md5="F715C894B5701C8018C476E4B2368E33" import="0">Xml/Build/Food/FoodBuildings.xml</File>
+    <File md5="F7C50E1D7E733A499F9F42AC44D2AEE4" import="0">Xml/Build/Food/FoodBuildings.xml</File>
     <File md5="1AB515FA79D4D17BD7E58822C085E292" import="0">Xml/Build/Food/Text_FoodBuildings.xml</File>
     <File md5="D2AB297EDAD6D9A1D0B569726FB79208" import="0">Xml/Build/Medicine/MedicineBuildingClass.xml</File>
     <File md5="43CE0A16A57675EAAE775A14FA69AB55" import="0">Xml/Build/Medicine/MedicineBuildings.xml</File>

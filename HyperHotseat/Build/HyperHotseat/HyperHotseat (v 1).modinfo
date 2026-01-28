@@ -273,7 +273,7 @@
     <File md5="F6B93EB88B2EE3210FAA643D60925C42" import="0">Xml/Build/Medicine/Text_MedicineBuildings.xml</File>
     <File md5="5F197FDC4118C92383BAAD76105693FD" import="0">Xml/Build/Network/NetworkBuildingClass.xml</File>
     <File md5="7B8A2785D05F01C50D03819D9B586AA5" import="0">Xml/Build/Network/NetworkBuildings.xml</File>
-    <File md5="9FE89D86643ADA37EB0347FF19D7D650" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
+    <File md5="41B44A6E0495AC6214C5AF647A914B07" import="0">Xml/Build/Network/Text_NetworkBuildings.xml</File>
     <File md5="25CA85FDB728BEE9CD8D8DDB0B35A084" import="0">Xml/Build/Energy/EnergyBuildingClass.xml</File>
     <File md5="25A8D28DFB9E7771BE5CF9E85AFEB6A3" import="0">Xml/Build/Energy/EnergyBuildings.xml</File>
     <File md5="7C92B5BEBCBEB39E44BB2D7741131F69" import="0">Xml/Build/Energy/Text_EnergyBuildings.xml</File>

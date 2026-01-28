@@ -119,11 +119,33 @@
 	</Building_ResourceQuantityRequirements>
 
 	<Building_YieldChanges>
+		<!-- Лошади -->
+		<Row>
+			<BuildingType>BUILDING_HORSE_DRAWN_WAGONS</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
 		<!-- Автомобили -->
 		<Row>
 			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
-			<YieldType>YIELD_FOOD</YieldType>
-			<Yield>-2</Yield>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<!-- Электроавтомобили -->
+		<Row>
+			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
 		</Row>
 	</Building_YieldChanges>
 
@@ -132,23 +154,28 @@
 		<Row>
 			<BuildingType>BUILDING_HORSE_DRAWN_WAGONS</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>5</Yield>
+			<Yield>10</Yield>
 		</Row>
 		<!-- Автомобили -->
 		<Row>
 			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>10</Yield>
+			<Yield>15</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_GASOLINE_CAR_INDUSTRY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>10</Yield>
+			<Yield>15</Yield>
 		</Row>
 		<!-- Электроавтомобили -->
 		<Row>
 			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>20</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELECTRICITY_CAR_INDUSTRY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>20</Yield>
 		</Row>
 		<Row>

@@ -353,6 +353,22 @@
   <ItemGroup>
     <Folder Include="Art" />
     <Folder Include="Art\Build" />
+    <Folder Include="Art\Build\BUILDING_MEAT_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_MEAT_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_MRI" />
+    <Folder Include="Art\Build\BUILDING_OFFICER_ACADEMY" />
+    <Folder Include="Art\Build\BUILDING_OIL_REFINERY" />
+    <Folder Include="Art\Build\BUILDING_OIL_REFINERY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_PLUTONIUM_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_PLUTONIUM_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_STEEL_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_STEEL_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_URBAN_DEVELOPMENT" />
+    <Folder Include="Art\Build\BUILDING_MAGNET_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_MAGNET_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_MOBILE_NETWORKS" />
     <Folder Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\" />
     <Folder Include="Art\Build\BUILDING_COAL_POWER_PLANT\" />
     <Folder Include="Art\Build\BUILDING_COAL_POWER_PLANT_LARGE\" />
@@ -370,6 +386,29 @@
     <Folder Include="Art\Build\BUILDING_SOLAR_POWER_PLANT\" />
     <Folder Include="Art\Build\BUILDING_SOLAR_POWER_PLANT_LARGE\" />
     <Folder Include="Art\Build\BUILDING_TELEVISION\" />
+    <Folder Include="Art\Build\BUILDING_ADVANCED_HOSPITAL" />
+    <Folder Include="Art\Build\BUILDING_AMMUNITION_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_AMMUNITION_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_BAKERY_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_BAKERY_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_BATTERY_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_BATTERY_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_ELECTRONIC_BANKING" />
+    <Folder Include="Art\Build\BUILDING_ELECTRONIC_EXCHANGE" />
+    <Folder Include="Art\Build\BUILDING_FISH_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_FISH_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_GUNPOWDER_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_GUNPOWDER_FACTORY_LARGE" />
+    <Folder Include="Art\Build\BUILDING_INTERNET" />
+    <Folder Include="Art\Build\BUILDING_JEWELRY_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_LATEX_FACTORY" />
+    <Folder Include="Art\Build\BUILDING_LATEX_FACTORY_LARGE" />
     <Folder Include="Xml" />
     <Folder Include="Xml\Build" />
     <Folder Include="Xml\Build\Energy" />
@@ -392,6 +431,470 @@
     <Folder Include="Xml\Resources" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY\BUILDING_MEAT_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY\BUILDING_MEAT_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY\BUILDING_MEAT_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY\BUILDING_MEAT_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY_LARGE\BUILDING_MEAT_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY_LARGE\BUILDING_MEAT_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY_LARGE\BUILDING_MEAT_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MEAT_FACTORY_LARGE\BUILDING_MEAT_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MRI\BUILDING_MRI_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MRI\BUILDING_MRI_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MRI\BUILDING_MRI_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MRI\BUILDING_MRI_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OFFICER_ACADEMY\BUILDING_OFFICER_ACADEMY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OFFICER_ACADEMY\BUILDING_OFFICER_ACADEMY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OFFICER_ACADEMY\BUILDING_OFFICER_ACADEMY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OFFICER_ACADEMY\BUILDING_OFFICER_ACADEMY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY\BUILDING_OIL_REFINERY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY\BUILDING_OIL_REFINERY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY\BUILDING_OIL_REFINERY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY\BUILDING_OIL_REFINERY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY_LARGE\BUILDING_OIL_REFINERY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY_LARGE\BUILDING_OIL_REFINERY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY_LARGE\BUILDING_OIL_REFINERY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_OIL_REFINERY_LARGE\BUILDING_OIL_REFINERY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY\BUILDING_PLUTONIUM_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY\BUILDING_PLUTONIUM_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY\BUILDING_PLUTONIUM_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY\BUILDING_PLUTONIUM_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY_LARGE\BUILDING_PLUTONIUM_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY_LARGE\BUILDING_PLUTONIUM_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY_LARGE\BUILDING_PLUTONIUM_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_PLUTONIUM_FACTORY_LARGE\BUILDING_PLUTONIUM_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY\BUILDING_SILICON_ELECTRONICS_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY\BUILDING_SILICON_ELECTRONICS_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY\BUILDING_SILICON_ELECTRONICS_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY\BUILDING_SILICON_ELECTRONICS_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE\BUILDING_SILICON_ELECTRONICS_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY\BUILDING_STEEL_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY\BUILDING_STEEL_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY\BUILDING_STEEL_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY\BUILDING_STEEL_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY_LARGE\BUILDING_STEEL_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY_LARGE\BUILDING_STEEL_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY_LARGE\BUILDING_STEEL_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_STEEL_FACTORY_LARGE\BUILDING_STEEL_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_URBAN_DEVELOPMENT\BUILDING_URBAN_DEVELOPMENT_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_URBAN_DEVELOPMENT\BUILDING_URBAN_DEVELOPMENT_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_URBAN_DEVELOPMENT\BUILDING_URBAN_DEVELOPMENT_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_URBAN_DEVELOPMENT\BUILDING_URBAN_DEVELOPMENT_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY\BUILDING_MAGNET_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY\BUILDING_MAGNET_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY\BUILDING_MAGNET_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY\BUILDING_MAGNET_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY_LARGE\BUILDING_MAGNET_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY_LARGE\BUILDING_MAGNET_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY_LARGE\BUILDING_MAGNET_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MAGNET_FACTORY_LARGE\BUILDING_MAGNET_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MOBILE_NETWORKS\BUILDING_MOBILE_NETWORKS_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MOBILE_NETWORKS\BUILDING_MOBILE_NETWORKS_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MOBILE_NETWORKS\BUILDING_MOBILE_NETWORKS_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_MOBILE_NETWORKS\BUILDING_MOBILE_NETWORKS_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ADVANCED_HOSPITAL\BUILDING_ADVANCED_HOSPITAL_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ADVANCED_HOSPITAL\BUILDING_ADVANCED_HOSPITAL_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ADVANCED_HOSPITAL\BUILDING_ADVANCED_HOSPITAL_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ADVANCED_HOSPITAL\BUILDING_ADVANCED_HOSPITAL_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY\BUILDING_AMMUNITION_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY\BUILDING_AMMUNITION_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY\BUILDING_AMMUNITION_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY\BUILDING_AMMUNITION_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY_LARGE\BUILDING_AMMUNITION_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY_LARGE\BUILDING_AMMUNITION_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY_LARGE\BUILDING_AMMUNITION_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_AMMUNITION_FACTORY_LARGE\BUILDING_AMMUNITION_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY\BUILDING_ANALOG_ELECTRONICS_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY\BUILDING_ANALOG_ELECTRONICS_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY\BUILDING_ANALOG_ELECTRONICS_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY\BUILDING_ANALOG_ELECTRONICS_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE\BUILDING_ANALOG_ELECTRONICS_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY\BUILDING_ARMOR_COMPOSITE_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY\BUILDING_ARMOR_COMPOSITE_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY\BUILDING_ARMOR_COMPOSITE_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY\BUILDING_ARMOR_COMPOSITE_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE\BUILDING_ARMOR_COMPOSITE_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY\BUILDING_ARMOR_STEEL_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY\BUILDING_ARMOR_STEEL_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY\BUILDING_ARMOR_STEEL_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY\BUILDING_ARMOR_STEEL_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY_LARGE\BUILDING_ARMOR_STEEL_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY_LARGE\BUILDING_ARMOR_STEEL_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY_LARGE\BUILDING_ARMOR_STEEL_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ARMOR_STEEL_FACTORY_LARGE\BUILDING_ARMOR_STEEL_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY\BUILDING_BAKERY_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY\BUILDING_BAKERY_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY\BUILDING_BAKERY_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY\BUILDING_BAKERY_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY_LARGE\BUILDING_BAKERY_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY_LARGE\BUILDING_BAKERY_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY_LARGE\BUILDING_BAKERY_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BAKERY_FACTORY_LARGE\BUILDING_BAKERY_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY\BUILDING_BATTERY_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY\BUILDING_BATTERY_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY\BUILDING_BATTERY_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY\BUILDING_BATTERY_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY_LARGE\BUILDING_BATTERY_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY_LARGE\BUILDING_BATTERY_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY_LARGE\BUILDING_BATTERY_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_BATTERY_FACTORY_LARGE\BUILDING_BATTERY_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="Art\Build\BUILDING_CIVIL_CLOTHING_FACTORY\BUILDING_CIVIL_CLOTHING_FACTORY_128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -456,6 +959,70 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_BANKING\BUILDING_ELECTRONIC_BANKING_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_BANKING\BUILDING_ELECTRONIC_BANKING_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_BANKING\BUILDING_ELECTRONIC_BANKING_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_BANKING\BUILDING_ELECTRONIC_BANKING_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_EXCHANGE\BUILDING_ELECTRONIC_EXCHANGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_EXCHANGE\BUILDING_ELECTRONIC_EXCHANGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_EXCHANGE\BUILDING_ELECTRONIC_EXCHANGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_ELECTRONIC_EXCHANGE\BUILDING_ELECTRONIC_EXCHANGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY\BUILDING_FISH_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY\BUILDING_FISH_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY\BUILDING_FISH_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY\BUILDING_FISH_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY_LARGE\BUILDING_FISH_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY_LARGE\BUILDING_FISH_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY_LARGE\BUILDING_FISH_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_FISH_FACTORY_LARGE\BUILDING_FISH_FACTORY_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -469,6 +1036,38 @@
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="Art\Build\BUILDING_GASOLINE_CAR_INDUSTRY\BUILDING_GASOLINE_CAR_INDUSTRY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY\BUILDING_GUNPOWDER_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY\BUILDING_GUNPOWDER_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY\BUILDING_GUNPOWDER_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY\BUILDING_GUNPOWDER_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY_LARGE\BUILDING_GUNPOWDER_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY_LARGE\BUILDING_GUNPOWDER_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY_LARGE\BUILDING_GUNPOWDER_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_GUNPOWDER_FACTORY_LARGE\BUILDING_GUNPOWDER_FACTORY_LARGE_64.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -517,6 +1116,70 @@
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="Art\Build\BUILDING_HYDRO_POWER_PLANT_LARGE\BUILDING_HYDRO_POWER_PLANT_LARGE_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_INTERNET\BUILDING_INTERNET_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_INTERNET\BUILDING_INTERNET_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_INTERNET\BUILDING_INTERNET_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_INTERNET\BUILDING_INTERNET_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_JEWELRY_FACTORY\BUILDING_JEWELRY_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_JEWELRY_FACTORY\BUILDING_JEWELRY_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_JEWELRY_FACTORY\BUILDING_JEWELRY_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_JEWELRY_FACTORY\BUILDING_JEWELRY_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY\BUILDING_LATEX_FACTORY_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY\BUILDING_LATEX_FACTORY_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY\BUILDING_LATEX_FACTORY_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY\BUILDING_LATEX_FACTORY_64.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY_LARGE\BUILDING_LATEX_FACTORY_LARGE_128.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY_LARGE\BUILDING_LATEX_FACTORY_LARGE_256.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY_LARGE\BUILDING_LATEX_FACTORY_LARGE_44.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Build\BUILDING_LATEX_FACTORY_LARGE\BUILDING_LATEX_FACTORY_LARGE_64.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>

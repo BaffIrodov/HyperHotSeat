@@ -108,18 +108,32 @@
 		<Row>
 			<BuildingType>BUILDING_ELECTRONIC_EXCHANGE</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>10</Yield>
+			<Yield>15</Yield>
 		</Row>
 
 		<!-- Электронный банкинг -->
 		<Row>
 			<BuildingType>BUILDING_ELECTRONIC_BANKING</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>10</Yield>
+			<Yield>15</Yield>
 		</Row>
 	</Building_YieldModifiers>
 
 	<Building_YieldChanges>
+		<!-- Электронная биржа -->
+		<Row>
+			<BuildingType>BUILDING_ELECTRONIC_EXCHANGE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+
+		<!-- Электронный банкинг -->
+		<Row>
+			<BuildingType>BUILDING_ELECTRONIC_BANKING</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		
 		<!-- Ювелирный завод -->
 		<Row>
 			<BuildingType>BUILDING_JEWELRY_FACTORY</BuildingType>

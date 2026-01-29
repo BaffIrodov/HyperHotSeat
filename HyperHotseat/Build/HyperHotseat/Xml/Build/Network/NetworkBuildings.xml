@@ -19,8 +19,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
-			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>BUILDING_MOBILE_NETWORKS_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Интернет -->
 		<Row>
@@ -38,8 +38,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>0</HurryCostModifier>
-			<IconAtlas>EXPANSION_BW_ATLAS_2</IconAtlas>
-			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>BUILDING_INTERNET_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 
@@ -82,7 +82,7 @@
 			<Yield>10</Yield>
 		</Row>
 	</Building_YieldModifiers>
-	
+
 	<Building_ClassesNeededInCity>
 		<!-- Нужна мобильная сеть для интернета -->
 		<Row>

@@ -20,10 +20,10 @@
 			<Defense>2400</Defense>
 			<ExtraCityHitPoints>650</ExtraCityHitPoints>
 			<HurryCostModifier>25</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<IconAtlas>BUILDING_URBAN_DEVELOPMENT_ATLAS</IconAtlas>
 			<DisplayPosition>2</DisplayPosition>
 			<NeverCapture>true</NeverCapture>
-			<PortraitIndex>10</PortraitIndex>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 		<!-- Офицерская академия -->
 		<Row>
@@ -39,9 +39,9 @@
 			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<HurryCostModifier>25</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<IconAtlas>BUILDING_OFFICER_ACADEMY_ATLAS</IconAtlas>
 			<NeverCapture>true</NeverCapture>
-			<PortraitIndex>8</PortraitIndex>
+			<PortraitIndex>0</PortraitIndex>
 		</Row>
 	</Buildings>
 

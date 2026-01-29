@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+
+		<!-- Мобильная сеть -->
+		<Row>
+			<Atlas>BUILDING_MOBILE_NETWORKS_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>BUILDING_MOBILE_NETWORKS_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_MOBILE_NETWORKS_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>BUILDING_MOBILE_NETWORKS_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_MOBILE_NETWORKS_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>BUILDING_MOBILE_NETWORKS_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_MOBILE_NETWORKS_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>BUILDING_MOBILE_NETWORKS_44.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<!-- Интернет -->
+		<Row>
+			<Atlas>BUILDING_INTERNET_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>BUILDING_INTERNET_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_INTERNET_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>BUILDING_INTERNET_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_INTERNET_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>BUILDING_INTERNET_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BUILDING_INTERNET_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>BUILDING_INTERNET_44.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+	</IconTextureAtlases>
+</GameData>

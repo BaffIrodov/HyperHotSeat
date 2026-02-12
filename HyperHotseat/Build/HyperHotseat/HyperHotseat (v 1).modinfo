@@ -252,7 +252,7 @@
     <File md5="481416093055369B27441162F402A4EE" import="0">Xml/Build/Car/CarBuildingClass.xml</File>
     <File md5="C49AAABF91373F8D4DE7F67EE052191C" import="0">Xml/Build/Car/CarBuildings.xml</File>
     <File md5="6F349D834DEC14B3669CBA7BDA56B0F9" import="0">Xml/Build/Car/Icons_CarBuildings.xml</File>
-    <File md5="D1D54A1366935BDDA47EB76FE2E38F64" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
+    <File md5="6A609B4BBEF1F7F86523DBEAA4A36695" import="0">Xml/Build/Car/Text_CarBuildings.xml</File>
     <File md5="D7DF5CD2182D5A964E7F8245506594A9" import="0">Xml/Build/Clothing/ClothingBuildingClass.xml</File>
     <File md5="08454D2B1A5CE7FC386EBE6F2FFE2F6B" import="0">Xml/Build/Clothing/ClothingBuildings.xml</File>
     <File md5="2403350DD13E2A1A002FD5DDC65D140E" import="0">Xml/Build/Clothing/Icons_ClothingBuildings.xml</File>

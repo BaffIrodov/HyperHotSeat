@@ -114,7 +114,7 @@
 			<Class>UNITCLASS_CARGO_SHIP</Class>
 			<Type>UNIT_CARGO_SHIP</Type>
 			<PrereqTech>TECH_SAILING</PrereqTech>
-			<Cost>100</Cost>
+			<Cost>200</Cost>
 			<HurryCostModifier>20</HurryCostModifier>
 			<NoMaintenance>true</NoMaintenance>
 			<Moves>1</Moves>
@@ -145,7 +145,7 @@
 			<Class>UNITCLASS_CARAVAN</Class>
 			<Type>UNIT_CARAVAN</Type>
 			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
-			<Cost>75</Cost>
+			<Cost>120</Cost>
 			<HurryCostModifier>20</HurryCostModifier>
 			<Moves>1</Moves>
 			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
@@ -374,8 +374,8 @@
 			<Class>UNITCLASS_ARTILLERY</Class>
 			<Type>UNIT_ARTILLERY</Type>
 			<PrereqTech>TECH_DYNAMITE</PrereqTech>
-			<Combat>50</Combat>
-			<RangedCombat>60</RangedCombat>
+			<Combat>40</Combat>
+			<RangedCombat>53</RangedCombat>
 			<Cost>550</Cost>
 			<Moves>2</Moves>
 			<Range>3</Range>
@@ -584,7 +584,7 @@
 			<Class>UNITCLASS_CARRIER</Class>
 			<Type>UNIT_CARRIER</Type>
 			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
-			<Combat>60</Combat>
+			<Combat>55</Combat>
 			<Cost>750</Cost>
 			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
@@ -617,7 +617,7 @@
 			<Type>UNIT_BATTLESHIP</Type>
 			<PrereqTech>TECH_ELECTRONICS</PrereqTech>
 			<Combat>80</Combat>
-			<RangedCombat>100</RangedCombat>
+			<RangedCombat>95</RangedCombat>
 			<Cost>900</Cost>
 			<Moves>5</Moves>
 			<Range>3</Range>
@@ -748,11 +748,12 @@
 			<Class>UNITCLASS_BOMBER</Class>
 			<Type>UNIT_BOMBER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<RangedCombat>65</RangedCombat>
+			<Combat>70</Combat>
+			<RangedCombat>60</RangedCombat>
 			<Cost>650</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>10</Range>
+			<Range>8</Range>
 			<Special>SPECIALUNIT_FIGHTER</Special>
 			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
@@ -782,11 +783,12 @@
 			<Class>UNITCLASS_BOMBER</Class>
 			<Type>UNIT_AMERICAN_B17</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<RangedCombat>70</RangedCombat>
+			<Combat>80</Combat>
+			<RangedCombat>65</RangedCombat>
 			<Cost>700</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>10</Range>
+			<Range>8</Range>
 			<Special>SPECIALUNIT_FIGHTER</Special>
 			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
@@ -816,12 +818,13 @@
 			<Class>UNITCLASS_FIGHTER</Class>
 			<Type>UNIT_FIGHTER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<RangedCombat>45</RangedCombat>
+			<Combat>45</Combat>
+			<RangedCombat>30</RangedCombat>
 			<Cost>450</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>8</Range>
-			<AirInterceptRange>8</AirInterceptRange>
+			<Range>6</Range>
+			<AirInterceptRange>4</AirInterceptRange>
 			<Special>SPECIALUNIT_FIGHTER</Special>
 			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
@@ -851,12 +854,13 @@
 			<Class>UNITCLASS_FIGHTER</Class>
 			<Type>UNIT_JAPANESE_ZERO</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<RangedCombat>45</RangedCombat>
-			<Cost>450</Cost>
+			<Combat>50</Combat>
+			<RangedCombat>30</RangedCombat>
+			<Cost>350</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>8</Range>
-			<AirInterceptRange>8</AirInterceptRange>
+			<Range>6</Range>
+			<AirInterceptRange>4</AirInterceptRange>
 			<Special>SPECIALUNIT_FIGHTER</Special>
 			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
@@ -920,7 +924,7 @@
 			<Class>UNITCLASS_HELICOPTER_GUNSHIP</Class>
 			<Type>UNIT_HELICOPTER_GUNSHIP</Type>
 			<PrereqTech>TECH_COMPUTERS</PrereqTech>
-			<Combat>120</Combat>
+			<Combat>125</Combat>
 			<Cost>1200</Cost>
 			<Moves>8</Moves>
 			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
@@ -948,7 +952,7 @@
 			<Class>UNITCLASS_MOBILE_SAM</Class>
 			<Type>UNIT_MOBILE_SAM</Type>
 			<PrereqTech>TECH_ROCKETRY</PrereqTech>
-			<Combat>90</Combat>
+			<Combat>85</Combat>
 			<Cost>900</Cost>
 			<Moves>3</Moves>
 			<Range>2</Range>
@@ -979,8 +983,8 @@
 			<Class>UNITCLASS_ROCKET_ARTILLERY</Class>
 			<Type>UNIT_ROCKET_ARTILLERY</Type>
 			<PrereqTech>TECH_ROCKETRY</PrereqTech>
-			<Combat>70</Combat>
-			<RangedCombat>120</RangedCombat>
+			<Combat>60</Combat>
+			<RangedCombat>105</RangedCombat>
 			<Cost>1000</Cost>
 			<Moves>3</Moves>
 			<Range>3</Range>
@@ -1076,9 +1080,9 @@
 			<PrereqTech>TECH_ROBOTICS</PrereqTech>
 			<Combat>100</Combat>
 			<RangedCombat>120</RangedCombat>
-			<Cost>1100</Cost>
+			<Cost>1400</Cost>
 			<Moves>7</Moves>
-			<Range>3</Range>
+			<Range>4</Range>
 			<AirInterceptRange>3</AirInterceptRange>
 			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
@@ -1180,12 +1184,13 @@
 			<Class>UNITCLASS_STEALTH_BOMBER</Class>
 			<Type>UNIT_STEALTH_BOMBER</Type>
 			<PrereqTech>TECH_STEALTH</PrereqTech>
-			<RangedCombat>120</RangedCombat>
-			<Cost>1200</Cost>
+			<Combat>120</Combat>
+			<RangedCombat>105</RangedCombat>
+			<Cost>1300</Cost>
 			<Moves>2</Moves>
 			<Special>SPECIALUNIT_STEALTH</Special>
 			<Immobile>true</Immobile>
-			<Range>20</Range>
+			<Range>13</Range>
 			<CombatClass>UNITCOMBAT_BOMBER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK_AIR</DefaultUnitAI>
@@ -1214,12 +1219,13 @@
 			<Class>UNITCLASS_JET_FIGHTER</Class>
 			<Type>UNIT_JET_FIGHTER</Type>
 			<PrereqTech>TECH_LASERS</PrereqTech>
-			<RangedCombat>90</RangedCombat>
+			<Combat>80</Combat>
+			<RangedCombat>60</RangedCombat>
 			<Cost>900</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>10</Range>
-			<AirInterceptRange>10</AirInterceptRange>
+			<Range>8</Range>
+			<AirInterceptRange>5</AirInterceptRange>
 			<Special>SPECIALUNIT_FIGHTER</Special>
 			<CombatClass>UNITCOMBAT_FIGHTER</CombatClass>
 			<Domain>DOMAIN_AIR</Domain>
@@ -1317,7 +1323,7 @@
 			<Type>UNIT_XCOM_SQUAD</Type>
 			<PrereqTech>TECH_NANOTECHNOLOGY</PrereqTech>
 			<Combat>280</Combat>
-			<Cost>2800</Cost>
+			<Cost>2700</Cost>
 			<FaithCost>800</FaithCost>
 			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
 			<Moves>2</Moves>

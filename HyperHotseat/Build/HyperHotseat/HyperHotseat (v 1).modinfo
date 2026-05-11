@@ -318,7 +318,7 @@
     <File md5="A0DFFD0C4DA4F5EDD8CDDA772C400E7B" import="0">Xml/Units/OldDisabledUnits.xml</File>
     <File md5="1B1890251F5B6CA23F7AF69C747F979A" import="0">Xml/Units/ResourcesForUnits.xml</File>
     <File md5="4A553CFC582BC466865F7DF99952550C" import="0">Xml/Units/Text_Units.xml</File>
-    <File md5="72C197C4ADF7A3C0B1C0761C157A5CD6" import="0">Xml/Units/Units.xml</File>
+    <File md5="63C37D511C213FE534F1452B082C74F5" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>

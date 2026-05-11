@@ -314,11 +314,11 @@
     <File md5="118F5787931228D61B80B3DECDDD1736" import="0">Xml/Resources/Text_Resource_T2.xml</File>
     <File md5="5041A7DADDF1210430DDC39DFC4D0D81" import="0">Xml/Resources/Text_Resource_T2_electricity.xml</File>
     <File md5="14D78CE3015C41F61F7CA291CE842B80" import="0">Xml/Resources/Text_Resource_T3.xml</File>
-    <File md5="3B01590A4AE3D704B469FDDF4A442C0A" import="0">Xml/Units/BuildsReplace.xml</File>
+    <File md5="250FED029511B7FDEDC848CDD9328D71" import="0">Xml/Units/BuildsReplace.xml</File>
     <File md5="A0DFFD0C4DA4F5EDD8CDDA772C400E7B" import="0">Xml/Units/OldDisabledUnits.xml</File>
     <File md5="1B1890251F5B6CA23F7AF69C747F979A" import="0">Xml/Units/ResourcesForUnits.xml</File>
     <File md5="4A553CFC582BC466865F7DF99952550C" import="0">Xml/Units/Text_Units.xml</File>
-    <File md5="C658859959F45C62642ADC444D6DC568" import="0">Xml/Units/Units.xml</File>
+    <File md5="72C197C4ADF7A3C0B1C0761C157A5CD6" import="0">Xml/Units/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>

@@ -5,7 +5,7 @@
 		<Row>
 			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
 			<FeatureType>FEATURE_FALLOUT</FeatureType>
-			<Time>3000</Time>
+			<Time>4000</Time>
 			<Remove>true</Remove>
 		</Row>
 	</BuildFeatures>

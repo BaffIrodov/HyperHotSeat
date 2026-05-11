@@ -316,9 +316,9 @@
 			<Class>UNITCLASS_TANK</Class>
 			<Type>UNIT_TANK</Type>
 			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
-			<Combat>85</Combat>
+			<Combat>90</Combat>
 			<Cost>850</Cost>
-			<Moves>5</Moves>
+			<Moves>6</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
@@ -345,7 +345,7 @@
 			<Class>UNITCLASS_TANK</Class>
 			<Type>UNIT_GERMAN_PANZER</Type>
 			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
-			<Combat>95</Combat>
+			<Combat>100</Combat>
 			<Cost>950</Cost>
 			<Moves>6</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
@@ -891,9 +891,9 @@
 			<Class>UNITCLASS_MODERN_ARMOR</Class>
 			<Type>UNIT_MODERN_ARMOR</Type>
 			<PrereqTech>TECH_LASERS</PrereqTech>
-			<Combat>170</Combat>
+			<Combat>175</Combat>
 			<Cost>1700</Cost>
-			<Moves>5</Moves>
+			<Moves>6</Moves>
 			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
@@ -922,7 +922,7 @@
 			<PrereqTech>TECH_COMPUTERS</PrereqTech>
 			<Combat>120</Combat>
 			<Cost>1200</Cost>
-			<Moves>6</Moves>
+			<Moves>8</Moves>
 			<CombatClass>UNITCOMBAT_HELICOPTER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
@@ -1010,9 +1010,9 @@
 			<Class>UNITCLASS_MECHANIZED_INFANTRY</Class>
 			<Type>UNIT_MECHANIZED_INFANTRY</Type>
 			<PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
-			<Combat>140</Combat>
+			<Combat>150</Combat>
 			<Cost>1400</Cost>
-			<Moves>4</Moves>
+			<Moves>5</Moves>
 			<CombatClass>UNITCOMBAT_GUN</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
@@ -1150,7 +1150,7 @@
 			<Cost>5000</Cost>
 			<Moves>2</Moves>
 			<Immobile>true</Immobile>
-			<Range>13</Range>
+			<Range>20</Range>
 			<Special>SPECIALUNIT_MISSILE</Special>
 			<Domain>DOMAIN_AIR</Domain>
 			<DefaultUnitAI>UNITAI_ICBM</DefaultUnitAI>

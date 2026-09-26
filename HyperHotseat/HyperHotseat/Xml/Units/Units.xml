@@ -1184,7 +1184,6 @@
 			<Class>UNITCLASS_STEALTH_BOMBER</Class>
 			<Type>UNIT_STEALTH_BOMBER</Type>
 			<PrereqTech>TECH_STEALTH</PrereqTech>
-			<Combat>120</Combat>
 			<RangedCombat>105</RangedCombat>
 			<Cost>1300</Cost>
 			<Moves>2</Moves>

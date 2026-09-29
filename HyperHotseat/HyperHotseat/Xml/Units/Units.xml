@@ -748,7 +748,6 @@
 			<Class>UNITCLASS_BOMBER</Class>
 			<Type>UNIT_BOMBER</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<Combat>70</Combat>
 			<RangedCombat>60</RangedCombat>
 			<Cost>650</Cost>
 			<Moves>2</Moves>
@@ -783,7 +782,6 @@
 			<Class>UNITCLASS_BOMBER</Class>
 			<Type>UNIT_AMERICAN_B17</Type>
 			<PrereqTech>TECH_RADAR</PrereqTech>
-			<Combat>80</Combat>
 			<RangedCombat>65</RangedCombat>
 			<Cost>700</Cost>
 			<Moves>2</Moves>
